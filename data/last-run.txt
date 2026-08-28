@@ -1,0 +1,11 @@
+Inaugural edition, 28 August 2026, compiled by hand rather than by the daily
+workflow. 12 stories: 4 victims recovered, 3 national/federal, 2 local & state,
+2 international, 1 ongoing. Because this is the first edition there was no
+24-hour window to work from, so it covers the significant cases of August 2026
+and seeds the dedupe log with all 12. Recorded in the tally: 650 people
+recovered across 8 operations in 6 places, 350 of them minors, alongside 1,110
+arrests. Operation Global Chain was deliberately left out of the tally — its
+2,070 figure counts victims identified in screening across 59 countries, not
+people removed from captivity, and would badly overstate the number. The
+daily 6:00 AM Central workflow is installed but will not run until the
+CLAUDE_CODE_OAUTH_TOKEN repository secret is set.
