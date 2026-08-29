@@ -1,25 +1,25 @@
 {
- "date": "2026-08-28",
- "dateLabel": "Friday, August 28, 2026",
- "window": "Inaugural edition — the significant cases of August 2026. From tomorrow, each edition covers the past 24 hours.",
+ "date": "2026-08-29",
+ "dateLabel": "Saturday, August 29, 2026",
+ "window": "The 24 hours to 29 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 12,
+ "storyCount": 7,
  "yearToDate": {
   "year": "2026",
-  "victims": 650,
-  "minors": 350,
-  "arrests": 1110
+  "victims": 683,
+  "minors": 351,
+  "arrests": 1117
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 4
+   "count": 2
   },
   {
    "id": "federal",
    "name": "National / Federal (US)",
-   "count": 3
+   "count": 2
   },
   {
    "id": "local",
@@ -29,11 +29,6 @@
   {
    "id": "world",
    "name": "International",
-   "count": 2
-  },
-  {
-   "id": "ongoing",
-   "name": "Ongoing Cases with New Developments",
    "count": 1
   }
  ],
@@ -41,134 +36,79 @@
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Florida sweep locates 163 missing children in five days",
-   "summary": "A five-day statewide operation announced on 25 August located 163 missing children across Florida, with the largest numbers in the Tampa Bay region (46), Miami (41) and…",
-   "location": "Florida",
-   "victims": "163 recovered · all minors",
+   "headline": "Philippine officials fly home 24 rescued from Cambodian 'romance scam' compounds",
+   "summary": "Philippine immigration officials on 23 August received 24 citizens flown home from Phnom Penh after being freed from online 'romance scam' compounds in Cambodia, with two more…",
+   "location": "Phnom Penh, Cambodia",
+   "victims": "24 recovered",
    "arrests": "",
-   "source": "WFSU News",
-   "url": "https://news.wfsu.org/state-news/2026-08-25/florida-law-enforcement-have-rescued-163-missing-children-in-operation-statewide-shield"
+   "source": "Philippine News Agency",
+   "url": "https://www.pna.gov.ph/articles/1257283"
   },
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "FBI's two-week national sweep finds 84 exploited children and 141 adult victims",
-   "summary": "The FBI's annual Operation Cross Country, run in the first two weeks of August with local police departments, located 84 child victims of exploitation and 141 adult trafficking…",
-   "location": "Nationwide",
-   "victims": "225 recovered · 84 minors",
-   "arrests": "85 arrested or identified",
-   "source": "Yahoo News",
-   "url": "https://news.yahoo.com/fbi-locates-17-adult-victims-211400401.html"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Marshals-led operation recovers 48 endangered children in Massachusetts",
-   "summary": "Operation Yellow Card, announced on 10 August, recovered 48 missing children aged 12 to 17 who investigators considered at heightened risk of trafficking and commercial sexual…",
-   "location": "Massachusetts",
-   "victims": "48 recovered · all minors",
-   "arrests": "",
-   "source": "U.S. Marshals Service",
-   "url": "https://www.usmarshals.gov/news/press-release/48-endangered-missing-children-safely-recovered-during-us-marshals-led-operation"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Nineteen children, most under eight, taken back from a placement network in northeast India",
-   "summary": "Police in Arunachal Pradesh recovered 19 children in a coordinated sweep across six towns reported on 25 August, and arrested three women accused of arranging the placements.",
-   "location": "Arunachal Pradesh, India",
-   "victims": "19 recovered · all minors",
-   "arrests": "3 arrested",
-   "source": "The Assam Tribune",
-   "url": "https://assamtribune.com/north-east/19-children-rescued-from-suspected-trafficking-network-in-arunachal-3-women-held-1616071"
+   "headline": "Argentine gendarmerie frees eight forced-labor harvest workers, one a minor, in Río Negro",
+   "summary": "Argentine security forces and provincial labor officials freed eight harvest workers — seven adults and one minor — from what they described as forced-labor conditions on a farm…",
+   "location": "Viedma, Río Negro, Argentina",
+   "victims": "8 recovered · 1 minor",
+   "arrests": "3 detained",
+   "source": "Government of Argentina",
+   "url": "https://www.argentina.gob.ar/noticias/rio-negro-rescatan-siete-ciudadanos-mayores-de-edad-y-un-menor-que-eran-explotados"
   },
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "Homeland Security reports 180 victims recovered and more than 900 arrests across the World Cup",
-   "summary": "In a 29 July accounting of enforcement around the 38-day tournament, Homeland Security said federal agencies arrested more than 900 suspected traffickers and recovered 180…",
-   "location": "US host cities",
-   "victims": "180 recovered · 30 minors",
-   "arrests": "900+ arrested",
-   "source": "U.S. Department of Homeland Security",
-   "url": "https://www.dhs.gov/news/2026/07/29/dhs-highlights-successful-arrests-and-rescues-crackdown-human-trafficking-during"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Flooring manufacturer's owner charged with forced labor of Chinese workers in Georgia",
-   "summary": "Federal prosecutors in the Northern District of Georgia charged the 60-year-old owner of Wellmade Industries and two associates on 12 August with conspiracy to commit forced…",
-   "location": "Cartersville, Georgia",
+   "headline": "Bronx man indicted on sex-trafficking and enticement charges involving three minors",
+   "summary": "Federal prosecutors in Manhattan indicted a Bronx man on sex-trafficking and coercion-and-enticement charges, accusing him of using social-media messaging to lure a 12-year-old, a…",
+   "location": "New York City",
    "victims": "",
-   "arrests": "3 charged",
-   "source": "FOX 5 Atlanta",
-   "url": "https://www.fox5atlanta.com/news/3-men-charged-forced-labor-cartersville-manufacturer"
+   "arrests": "1 charged",
+   "source": "U.S. Attorney's Office, SDNY",
+   "url": "https://www.justice.gov/usao-sdny/pr/bronx-man-charged-committing-sex-trafficking-coercion-and-enticement-crimes-involving"
   },
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "Five men charged in Omaha after an undercover child sex trafficking operation",
-   "summary": "Homeland Security Investigations announced charges on 19 August against five Nebraska men who, prosecutors say, answered online advertisements believing they were arranging sex…",
-   "location": "Omaha, Nebraska",
+   "headline": "Maryland man pleads guilty to trafficking two women by force across six states",
+   "summary": "A Maryland man pleaded guilty to two counts of sex trafficking, admitting that between December 2024 and April 2025 he used violence, threats, sexual assault and withheld drugs to…",
+   "location": "Prince George's County, Maryland",
    "victims": "",
-   "arrests": "5 charged",
+   "arrests": "1 pleaded guilty",
    "source": "U.S. Department of Justice",
-   "url": "https://www.justice.gov/usao-ne/pr/hsi-arrests-five-federal-sex-trafficking-minors-undercover-operation-omaha"
+   "url": "https://www.justice.gov/opa/pr/maryland-man-pleads-guilty-sex-trafficking-offenses"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Two-month Hillsborough County operation ends with 116 arrests and five victims out",
-   "summary": "Operation Relentless Summer, which ran from 8 June to 5 August and was announced on 12 August, produced 116 arrests in Hillsborough County and recovered five trafficking victims —…",
-   "location": "Hillsborough County, Florida",
-   "victims": "5 recovered · 2 minors",
-   "arrests": "116 arrested",
-   "source": "FOX 13 Tampa Bay",
-   "url": "https://www.fox13news.com/news/tampa-arrested-human-trafficking-victims-rescued-operation-relentless-summer"
+   "headline": "Fresno man sentenced to 62 years to life for trafficking two teenage girls",
+   "summary": "A Fresno County judge sentenced a 38-year-old man to 62 years to life in prison on 27 August, after a jury convicted him of human trafficking, pimping and pandering.",
+   "location": "Fresno, California",
+   "victims": "",
+   "arrests": "",
+   "source": "GV Wire",
+   "url": "https://gvwire.com/2026/08/27/fresno-man-gets-62-years-to-life-for-trafficking-sexually-assaulting-minors/"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Six people recovered in a Texas hill-country sting",
-   "summary": "The Comal County Sheriff's Office said on 6 August that a trafficking sting north of San Antonio recovered six people and led to six arrests.",
-   "location": "Comal County, Texas",
-   "victims": "6 recovered",
-   "arrests": "6 arrested",
-   "source": "KSAT",
-   "url": "https://www.ksat.com/video/news/2026/08/07/6-rescued-6-arrested-in-human-trafficking-sting-operation-comal-county-sheriff-s-office-says/"
+   "headline": "New Colorado Springs child-trafficking task force makes its first arrests",
+   "summary": "A newly formed FBI-led child exploitation and human trafficking task force in southern Colorado announced its first arrests on 28 August, following a July undercover sting.",
+   "location": "Colorado Springs, Colorado",
+   "victims": "",
+   "arrests": "3 arrested",
+   "source": "KKTV",
+   "url": "https://www.kktv.com/2026/08/28/new-task-force-announces-3-arrests-colorado-springs-suspected-child-sex-crimes/"
   },
   {
    "section": "world",
    "sectionName": "International",
-   "headline": "Five-day operation across 59 countries identifies 2,070 trafficking victims",
-   "summary": "Operation Global Chain, run 8–12 June and reported on 6 July, identified 2,070 victims across 59 countries and produced 1,024 arrests, 334 of them for trafficking offences.",
-   "location": "59 countries",
-   "victims": "",
-   "arrests": "1,024 arrested",
-   "source": "Europol",
-   "url": "https://www.europol.europa.eu/media-press/newsroom/news/1024-arrests-in-global-operation-against-human-trafficking"
-  },
-  {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Four Nigerian teenagers taken back from a route to Côte d'Ivoire",
-   "summary": "Police in Cross River State said on 11 August that they had recovered four teenage girls from a trafficking route running to Côte d'Ivoire.",
-   "location": "Cross River State, Nigeria",
-   "victims": "4 recovered · minors",
-   "arrests": "",
-   "source": "The Guardian Nigeria",
-   "url": "https://guardian.ng/news/nigeria/metro/police-rescue-four-teenage-girls-from-traffickers-in-cross-river/"
-  },
-  {
-   "section": "ongoing",
-   "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Michigan forced labor prosecution of a self-styled apostle slips to 2027",
-   "summary": "A year after the arrest of a 53-year-old church leader and his business partner on forced labor and money laundering charges, the case has been pushed to February 2027 or later…",
-   "location": "Michigan, Florida, Texas, Missouri",
-   "victims": "",
-   "arrests": "",
-   "source": "WDIV Local 4",
-   "url": "https://www.clickondetroit.com/news/local/2026/08/27/david-taylor-forced-labor-case-where-things-stand-1-year-later/"
+   "headline": "Thai checkpoint stop frees a trafficked woman, points to a wider ring moving people toward Myanmar",
+   "summary": "Police at a checkpoint in Kamphaeng Phet stopped a vehicle on 23 August and freed a 29-year-old Chinese woman whom investigators say had been lured to Thailand with a false…",
+   "location": "Kamphaeng Phet, Thailand",
+   "victims": "1 recovered",
+   "arrests": "4 arrested",
+   "source": "Thai Examiner",
+   "url": "https://www.thaiexaminer.com/thai-news-foreigners/2026/08/28/police-probing-chinese-womans-kidnapping-on-the-trail-of-human-trafficking-gang-more-victims-feared/"
   }
  ]
 }

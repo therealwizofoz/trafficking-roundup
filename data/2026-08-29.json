@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-29",
+  "window": "The 24 hours to 29 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Philippine officials fly home 24 rescued from Cambodian 'romance scam' compounds",
+          "victims": "24 recovered",
+          "location": "Phnom Penh, Cambodia",
+          "source": "Philippine News Agency",
+          "url": "https://www.pna.gov.ph/articles/1257283",
+          "body": "Philippine immigration officials on 23 August received 24 citizens flown home from Phnom Penh after being freed from online 'romance scam' compounds in Cambodia, with two more travelers intercepted before they could be sent onward toward Thailand. Recruiters had promised the group up to $1,500 a month in customer-service jobs; once in Cambodia, they said they were paid a fraction of that, beaten when they missed scam quotas, and some were resold to other operators. The Bureau of Immigration and the Philippine Embassy in Phnom Penh arranged the return; no arrests were reported in connection with the case.",
+          "recovered": [
+            {
+              "victims": 24,
+              "place": "Philippines"
+            }
+          ]
+        },
+        {
+          "headline": "Argentine gendarmerie frees eight forced-labor harvest workers, one a minor, in Río Negro",
+          "victims": "8 recovered · 1 minor",
+          "location": "Viedma, Río Negro, Argentina",
+          "arrests": "3 detained",
+          "source": "Government of Argentina",
+          "url": "https://www.argentina.gob.ar/noticias/rio-negro-rescatan-siete-ciudadanos-mayores-de-edad-y-un-menor-que-eran-explotados",
+          "body": "Argentine security forces and provincial labor officials freed eight harvest workers — seven adults and one minor — from what they described as forced-labor conditions on a farm near Viedma, in Río Negro province, after a complaint reached investigators. Officers said the workers were living in extreme, unsanitary conditions and had their pay and documents withheld. Three people were detained; the case is being handled by the Rawson complex-crimes investigation unit together with the provincial labor secretariat.",
+          "recovered": [
+            {
+              "victims": 8,
+              "minors": 1,
+              "arrests": 3,
+              "place": "Argentina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Bronx man indicted on sex-trafficking and enticement charges involving three minors",
+          "location": "New York City",
+          "arrests": "1 charged",
+          "source": "U.S. Attorney's Office, SDNY",
+          "url": "https://www.justice.gov/usao-sdny/pr/bronx-man-charged-committing-sex-trafficking-coercion-and-enticement-crimes-involving",
+          "body": "Federal prosecutors in Manhattan indicted a Bronx man on sex-trafficking and coercion-and-enticement charges, accusing him of using social-media messaging to lure a 12-year-old, a 16-year-old and a 17-year-old to meet him in person with offers of alcohol, drugs, food and cash between July 2025 and June 2026. He is being held pending trial before a federal judge."
+        },
+        {
+          "headline": "Maryland man pleads guilty to trafficking two women by force across six states",
+          "location": "Prince George's County, Maryland",
+          "arrests": "1 pleaded guilty",
+          "source": "U.S. Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/maryland-man-pleads-guilty-sex-trafficking-offenses",
+          "body": "A Maryland man pleaded guilty to two counts of sex trafficking, admitting that between December 2024 and April 2025 he used violence, threats, sexual assault and withheld drugs to compel two women into repeated commercial sex acts across Delaware, Florida, Georgia, Maryland, Pennsylvania and South Carolina. A sentencing date has not yet been set."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Fresno man sentenced to 62 years to life for trafficking two teenage girls",
+          "location": "Fresno, California",
+          "source": "GV Wire",
+          "url": "https://gvwire.com/2026/08/27/fresno-man-gets-62-years-to-life-for-trafficking-sexually-assaulting-minors/",
+          "body": "A Fresno County judge sentenced a 38-year-old man to 62 years to life in prison on 27 August, after a jury convicted him of human trafficking, pimping and pandering. Prosecutors said he trafficked a 17-year-old he met at a bus stop and a 14-year-old, using threats and violence to force both into prostitution and collecting the money they earned; hundreds of messages in which he arranged the transactions were used as evidence at trial."
+        },
+        {
+          "headline": "New Colorado Springs child-trafficking task force makes its first arrests",
+          "location": "Colorado Springs, Colorado",
+          "arrests": "3 arrested",
+          "source": "KKTV",
+          "url": "https://www.kktv.com/2026/08/28/new-task-force-announces-3-arrests-colorado-springs-suspected-child-sex-crimes/",
+          "body": "A newly formed FBI-led child exploitation and human trafficking task force in southern Colorado announced its first arrests on 28 August, following a July undercover sting. One man was charged with soliciting and arranging commercial sex with a child; two others face online enticement charges. Colorado Springs police, the FBI and the El Paso County Sheriff's Office launched the task force this summer after local detectives logged 116 internet crimes against children cases in the first seven months of 2026."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Thai checkpoint stop frees a trafficked woman, points to a wider ring moving people toward Myanmar",
+          "victims": "1 recovered",
+          "location": "Kamphaeng Phet, Thailand",
+          "arrests": "4 arrested",
+          "source": "Thai Examiner",
+          "url": "https://www.thaiexaminer.com/thai-news-foreigners/2026/08/28/police-probing-chinese-womans-kidnapping-on-the-trail-of-human-trafficking-gang-more-victims-feared/",
+          "body": "Police at a checkpoint in Kamphaeng Phet stopped a vehicle on 23 August and freed a 29-year-old Chinese woman whom investigators say had been lured to Thailand with a false business offer, then bound and driven toward the Myanmar border. Four Thai men were arrested. Photographs found on a suspect's phone showed other bound Chinese nationals in similar circumstances, and investigators are now tracing a wider network they believe recruited victims through contacts in Singapore.",
+          "recovered": [
+            {
+              "victims": 1,
+              "arrests": 4,
+              "place": "Thailand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
