@@ -1,12 +1,12 @@
 {
- "date": "2026-08-29",
- "dateLabel": "Saturday, August 29, 2026",
- "window": "The 24 hours to 29 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
+ "date": "2026-08-30",
+ "dateLabel": "Sunday, August 30, 2026",
+ "window": "The 24 hours to 30 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 7,
+ "storyCount": 9,
  "yearToDate": {
   "year": "2026",
-  "victims": 683,
+  "victims": 691,
   "minors": 351,
   "arrests": 1117
  },
@@ -29,6 +29,11 @@
   {
    "id": "world",
    "name": "International",
+   "count": 2
+  },
+  {
+   "id": "ongoing",
+   "name": "Ongoing Cases with New Developments",
    "count": 1
   }
  ],
@@ -36,79 +41,101 @@
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Philippine officials fly home 24 rescued from Cambodian 'romance scam' compounds",
-   "summary": "Philippine immigration officials on 23 August received 24 citizens flown home from Phnom Penh after being freed from online 'romance scam' compounds in Cambodia, with two more…",
-   "location": "Phnom Penh, Cambodia",
-   "victims": "24 recovered",
+   "headline": "Border unit intercepts six women and girls headed toward Nepal on trafficking concerns",
+   "summary": "India's Sashastra Seema Bal stopped four teenage girls and two women from Tripura at the Panitanki border crossing in West Bengal on 28 August, after the group could not explain…",
+   "location": "Panitanki, West Bengal, India",
+   "victims": "6 recovered",
    "arrests": "",
-   "source": "Philippine News Agency",
-   "url": "https://www.pna.gov.ph/articles/1257283"
+   "source": "The Print",
+   "url": "https://theprint.in/india/four-girls-among-six-from-tripura-rescued-from-trafficking-bid-at-india-nepal-border-in-bengal/3028056/"
   },
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Argentine gendarmerie frees eight forced-labor harvest workers, one a minor, in Río Negro",
-   "summary": "Argentine security forces and provincial labor officials freed eight harvest workers — seven adults and one minor — from what they described as forced-labor conditions on a farm…",
-   "location": "Viedma, Río Negro, Argentina",
-   "victims": "8 recovered · 1 minor",
-   "arrests": "3 detained",
-   "source": "Government of Argentina",
-   "url": "https://www.argentina.gob.ar/noticias/rio-negro-rescatan-siete-ciudadanos-mayores-de-edad-y-un-menor-que-eran-explotados"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Bronx man indicted on sex-trafficking and enticement charges involving three minors",
-   "summary": "Federal prosecutors in Manhattan indicted a Bronx man on sex-trafficking and coercion-and-enticement charges, accusing him of using social-media messaging to lure a 12-year-old, a…",
-   "location": "New York City",
-   "victims": "",
-   "arrests": "1 charged",
-   "source": "U.S. Attorney's Office, SDNY",
-   "url": "https://www.justice.gov/usao-sdny/pr/bronx-man-charged-committing-sex-trafficking-coercion-and-enticement-crimes-involving"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Maryland man pleads guilty to trafficking two women by force across six states",
-   "summary": "A Maryland man pleaded guilty to two counts of sex trafficking, admitting that between December 2024 and April 2025 he used violence, threats, sexual assault and withheld drugs to…",
-   "location": "Prince George's County, Maryland",
-   "victims": "",
-   "arrests": "1 pleaded guilty",
-   "source": "U.S. Department of Justice",
-   "url": "https://www.justice.gov/opa/pr/maryland-man-pleads-guilty-sex-trafficking-offenses"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Fresno man sentenced to 62 years to life for trafficking two teenage girls",
-   "summary": "A Fresno County judge sentenced a 38-year-old man to 62 years to life in prison on 27 August, after a jury convicted him of human trafficking, pimping and pandering.",
-   "location": "Fresno, California",
-   "victims": "",
+   "headline": "Nigerian police free two Colombian women held by a Lagos trafficking ring",
+   "summary": "Acting on an Interpol tip from Bogotá, Nigeria's police Interpol bureau raided a property in Lagos on 26 August and freed two Colombian women, identified in the police statement…",
+   "location": "Lagos, Nigeria",
+   "victims": "2 recovered",
    "arrests": "",
-   "source": "GV Wire",
-   "url": "https://gvwire.com/2026/08/27/fresno-man-gets-62-years-to-life-for-trafficking-sexually-assaulting-minors/"
+   "source": "PRNigeria",
+   "url": "https://prnigeria.com/2026/08/29/police-bust-trafficking/"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "US and Colombian officials detail years-long crackdown on Americans trafficking children in Medellín",
+   "summary": "Homeland Security Investigations, the FBI's Phoenix field office, the U.S. Attorney's Office in Arizona and prosecutors from Medellín, Colombia held a joint briefing on 26 August…",
+   "location": "Phoenix, Arizona / Medellín, Colombia",
+   "victims": "",
+   "arrests": "35 charged",
+   "source": "AZFamily",
+   "url": "https://www.azfamily.com/2026/08/26/arizona-officials-colombian-mayor-detail-operation-against-child-sex-trafficking/"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Former New Orleans teacher gets 33 years for trafficking a runaway teenager he found on social media",
+   "summary": "A federal judge in New Orleans sentenced Aaron Terod Johnson, a 38-year-old former high school teacher, to 33 years in prison on 19 August after a jury convicted him of sex…",
+   "location": "New Orleans, Louisiana",
+   "victims": "",
+   "arrests": "1 sentenced",
+   "source": "U.S. Attorney's Office, Eastern District of Louisiana",
+   "url": "https://www.justice.gov/usao-edla/pr/local-high-school-teacher-sentenced-33-years-sex-trafficking-16-year-old-girl"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "New Colorado Springs child-trafficking task force makes its first arrests",
-   "summary": "A newly formed FBI-led child exploitation and human trafficking task force in southern Colorado announced its first arrests on 28 August, following a July undercover sting.",
-   "location": "Colorado Springs, Colorado",
+   "headline": "Rohnert Park charges two men with buying sex from a minor in an ongoing demand-side sting",
+   "summary": "Rohnert Park's Department of Public Safety filed charges on 26 August against two men, Blake Allen Johnson, 40, and Harlaik Singh, 48, accusing Singh of causing a minor to engage…",
+   "location": "Rohnert Park, California",
    "victims": "",
-   "arrests": "3 arrested",
-   "source": "KKTV",
-   "url": "https://www.kktv.com/2026/08/28/new-task-force-announces-3-arrests-colorado-springs-suspected-child-sex-crimes/"
+   "arrests": "2 charged",
+   "source": "The Press Democrat",
+   "url": "https://www.pressdemocrat.com/2026/08/28/charges-filed-against-two-people-in-rohnert-park-human-trafficking-case/"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Modesto task force ends months-long investigation with minors recovered and six arrests",
+   "summary": "The Stanislaus County Sheriff's Human Exploitation and Trafficking Task Force wrapped up a multi-month investigation into a commercial sex-trafficking operation run out of a…",
+   "location": "Modesto, California",
+   "victims": "",
+   "arrests": "6 arrested",
+   "source": "Crime Voice",
+   "url": "https://www.crimevoice.com/2026/08/18/h-e-a-t-task-force-arrests-six-in-juvenile-human-trafficking-investigation/"
   },
   {
    "section": "world",
    "sectionName": "International",
-   "headline": "Thai checkpoint stop frees a trafficked woman, points to a wider ring moving people toward Myanmar",
-   "summary": "Police at a checkpoint in Kamphaeng Phet stopped a vehicle on 23 August and freed a 29-year-old Chinese woman whom investigators say had been lured to Thailand with a false…",
-   "location": "Kamphaeng Phet, Thailand",
-   "victims": "1 recovered",
-   "arrests": "4 arrested",
-   "source": "Thai Examiner",
-   "url": "https://www.thaiexaminer.com/thai-news-foreigners/2026/08/28/police-probing-chinese-womans-kidnapping-on-the-trail-of-human-trafficking-gang-more-victims-feared/"
+   "headline": "Thai police capture American fugitive wanted on child sex-trafficking warrants from Alabama",
+   "summary": "Royal Thai Police, acting on an FBI request, arrested 48-year-old American Lance Michael Bec at a hotel in Phuket's Thalang district on 29 August.",
+   "location": "Phuket, Thailand",
+   "victims": "",
+   "arrests": "1 arrested",
+   "source": "Khaosod English",
+   "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/08/30/thai-police-arrest-us-man-wanted-on-eight-child-sex-abuse-warrants/"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Cambodia says it has shut down its online scam compounds; trafficking monitors are skeptical",
+   "summary": "Cambodia's anti-scam commission told foreign diplomats on 28 August that the country no longer hosts any scam compounds, citing raids on 624 of 793 suspected sites since July 2025…",
+   "location": "Phnom Penh, Cambodia",
+   "victims": "",
+   "arrests": "",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/8/28/cambodias-claim-to-have-ended-scam-compounds-met-with-scepticism"
+  },
+  {
+   "section": "ongoing",
+   "sectionName": "Ongoing Cases with New Developments",
+   "headline": "Georgia indicts an Atlanta-area man over a teenager recovered during June's Global Chain sweep",
+   "summary": "What's new: Georgia's attorney general secured a Fulton County grand jury indictment on 17 August against Eric Gordon, 36, of Decatur, charging him with trafficking a 16-year-old…",
+   "location": "Decatur, Georgia",
+   "victims": "",
+   "arrests": "1 indicted",
+   "source": "Georgia Attorney General's Office",
+   "url": "https://law.georgia.gov/press-releases/2026-08-18/carr-secures-new-indictment-trafficking-16-year-old-following-operation"
   }
  ]
 }

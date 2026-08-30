@@ -1,0 +1,119 @@
+{
+  "date": "2026-08-30",
+  "window": "The 24 hours to 30 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Border unit intercepts six women and girls headed toward Nepal on trafficking concerns",
+          "victims": "6 recovered",
+          "location": "Panitanki, West Bengal, India",
+          "source": "The Print",
+          "url": "https://theprint.in/india/four-girls-among-six-from-tripura-rescued-from-trafficking-bid-at-india-nepal-border-in-bengal/3028056/",
+          "body": "India's Sashastra Seema Bal stopped four teenage girls and two women from Tripura at the Panitanki border crossing in West Bengal on 28 August, after the group could not explain their travel plans and said they had been promised dance-hall jobs in Nepal. Officers, working with the child-rights group Just Rights for Children and the local group Kosi Lok Manch, said two of the women had been reported missing from home in Tripura. The two men accompanying the group, who could not show authority to take them across the border, were handed to police for investigation.",
+          "recovered": [
+            {
+              "victims": 6,
+              "place": "India"
+            }
+          ]
+        },
+        {
+          "headline": "Nigerian police free two Colombian women held by a Lagos trafficking ring",
+          "victims": "2 recovered",
+          "location": "Lagos, Nigeria",
+          "source": "PRNigeria",
+          "url": "https://prnigeria.com/2026/08/29/police-bust-trafficking/",
+          "body": "Acting on an Interpol tip from Bogotá, Nigeria's police Interpol bureau raided a property in Lagos on 26 August and freed two Colombian women, identified in the police statement as Maria Camila Rodas Ortiz and Yuliet Fernanda Rios Mesa, who officers say had been lured to Nigeria with false job offers and then held with their travel documents confiscated by Chinese nationals running the operation. The suspects fled before officers arrived; police said they are working to track them down, and the Colombian embassy in Accra is arranging the women's return home.",
+          "recovered": [
+            {
+              "victims": 2,
+              "place": "Nigeria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "US and Colombian officials detail years-long crackdown on Americans trafficking children in Medellín",
+          "location": "Phoenix, Arizona / Medellín, Colombia",
+          "arrests": "35 charged",
+          "source": "AZFamily",
+          "url": "https://www.azfamily.com/2026/08/26/arizona-officials-colombian-mayor-detail-operation-against-child-sex-trafficking/",
+          "body": "Homeland Security Investigations, the FBI's Phoenix field office, the U.S. Attorney's Office in Arizona and prosecutors from Medellín, Colombia held a joint briefing on 26 August on a multi-year effort against Americans who travel to Colombia to sexually exploit and traffic children. Officials said the campaign has produced 35 arrests of American and Colombian nationals and identified 43 more prioritized cases, with two defendants already sentenced to life in prison and a Phoenix man sentenced to 11 years for trafficking a 16-year-old. HSI said it now keeps a permanent investigative unit inside Colombia's national prosecutor's office to keep building cases."
+        },
+        {
+          "headline": "Former New Orleans teacher gets 33 years for trafficking a runaway teenager he found on social media",
+          "location": "New Orleans, Louisiana",
+          "arrests": "1 sentenced",
+          "source": "U.S. Attorney's Office, Eastern District of Louisiana",
+          "url": "https://www.justice.gov/usao-edla/pr/local-high-school-teacher-sentenced-33-years-sex-trafficking-16-year-old-girl",
+          "body": "A federal judge in New Orleans sentenced Aaron Terod Johnson, a 38-year-old former high school teacher, to 33 years in prison on 19 August after a jury convicted him of sex trafficking a minor and coercion and enticement of a minor into prostitution. Prosecutors said Johnson found a 16-year-old runaway through social media in February 2024 and trafficked her for commercial sex; the case was investigated by Homeland Security Investigations' New Orleans office."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Rohnert Park charges two men with buying sex from a minor in an ongoing demand-side sting",
+          "location": "Rohnert Park, California",
+          "arrests": "2 charged",
+          "source": "The Press Democrat",
+          "url": "https://www.pressdemocrat.com/2026/08/28/charges-filed-against-two-people-in-rohnert-park-human-trafficking-case/",
+          "body": "Rohnert Park's Department of Public Safety filed charges on 26 August against two men, Blake Allen Johnson, 40, and Harlaik Singh, 48, accusing Singh of causing a minor to engage in commercial sex and both men of contacting a minor with intent to commit a sex offense. The arrests are part of the department's ongoing operations targeting buyers of commercial sex, which California law treats as trafficking when the person being sold is a minor."
+        },
+        {
+          "headline": "Modesto task force ends months-long investigation with minors recovered and six arrests",
+          "location": "Modesto, California",
+          "arrests": "6 arrested",
+          "source": "Crime Voice",
+          "url": "https://www.crimevoice.com/2026/08/18/h-e-a-t-task-force-arrests-six-in-juvenile-human-trafficking-investigation/",
+          "body": "The Stanislaus County Sheriff's Human Exploitation and Trafficking Task Force wrapped up a multi-month investigation into a commercial sex-trafficking operation run out of a Modesto apartment, announced 18 August. Investigators recovered several minor victims, bringing the county's count for the year to nine juveniles, and arrested five adults and one juvenile on charges including human trafficking of a minor, pimping and pandering."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Thai police capture American fugitive wanted on child sex-trafficking warrants from Alabama",
+          "location": "Phuket, Thailand",
+          "arrests": "1 arrested",
+          "source": "Khaosod English",
+          "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/08/30/thai-police-arrest-us-man-wanted-on-eight-child-sex-abuse-warrants/",
+          "body": "Royal Thai Police, acting on an FBI request, arrested 48-year-old American Lance Michael Bec at a hotel in Phuket's Thalang district on 29 August. Bec faces eight outstanding warrants, including a federal one from Alabama, accusing him of raping and sexually abusing children under 14 and recording the assaults before fleeing the United States; one warrant specifically charges trafficking and facilitating children's travel for sex. He is being held at an immigration detention center pending extradition."
+        },
+        {
+          "headline": "Cambodia says it has shut down its online scam compounds; trafficking monitors are skeptical",
+          "location": "Phnom Penh, Cambodia",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/8/28/cambodias-claim-to-have-ended-scam-compounds-met-with-scepticism",
+          "body": "Cambodia's anti-scam commission told foreign diplomats on 28 August that the country no longer hosts any scam compounds, citing raids on 624 of 793 suspected sites since July 2025 that led to the deportation of more than 58,000 foreign nationals and the arrest of over 3,400 suspects. Independent anti-trafficking researchers pushed back, saying credible reporting shows recruitment into Cambodian scam operations and detentions of trafficked workers are continuing despite the government's announcement."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": [
+        {
+          "headline": "Georgia indicts an Atlanta-area man over a teenager recovered during June's Global Chain sweep",
+          "location": "Decatur, Georgia",
+          "arrests": "1 indicted",
+          "source": "Georgia Attorney General's Office",
+          "url": "https://law.georgia.gov/press-releases/2026-08-18/carr-secures-new-indictment-trafficking-16-year-old-following-operation",
+          "body": "What's new: Georgia's attorney general secured a Fulton County grand jury indictment on 17 August against Eric Gordon, 36, of Decatur, charging him with trafficking a 16-year-old for sexual servitude — a case that grew out of Operation Global Chain, the 59-country sweep covered in this roundup on 28 August. Gordon was arrested 4 August. The operation, run with the FBI, Interpol, Europol and Ameripol, had already recovered 11 missing children in Georgia in June, before this indictment."
+        }
+      ]
+    }
+  ]
+}
