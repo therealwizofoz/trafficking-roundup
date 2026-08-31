@@ -1,39 +1,29 @@
 {
- "date": "2026-08-30",
- "dateLabel": "Sunday, August 30, 2026",
- "window": "The 24 hours to 30 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
+ "date": "2026-08-31",
+ "dateLabel": "Monday, August 31, 2026",
+ "window": "The 24 hours to 31 August 2026, plus a few slower-breaking cases search indexes surfaced late.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 9,
+ "storyCount": 6,
  "yearToDate": {
   "year": "2026",
-  "victims": 691,
-  "minors": 351,
-  "arrests": 1117
+  "victims": 1753,
+  "minors": 1016,
+  "arrests": 1119
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 2
+   "count": 4
   },
   {
    "id": "federal",
    "name": "National / Federal (US)",
-   "count": 2
+   "count": 1
   },
   {
    "id": "local",
    "name": "Local & State Cases",
-   "count": 2
-  },
-  {
-   "id": "world",
-   "name": "International",
-   "count": 2
-  },
-  {
-   "id": "ongoing",
-   "name": "Ongoing Cases with New Developments",
    "count": 1
   }
  ],
@@ -41,101 +31,68 @@
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Border unit intercepts six women and girls headed toward Nepal on trafficking concerns",
-   "summary": "India's Sashastra Seema Bal stopped four teenage girls and two women from Tripura at the Panitanki border crossing in West Bengal on 28 August, after the group could not explain…",
-   "location": "Panitanki, West Bengal, India",
-   "victims": "6 recovered",
+   "headline": "Ghana immigration raid removes 1,055 people, most of them children, from a trafficking-linked begging network",
+   "summary": "Ghana's Immigration Service raided organized street-begging operations across Accra and Kumasi in the early hours of 29 August, removing 1,055 West African nationals — 662 of them…",
+   "location": "Accra and Kumasi, Ghana",
+   "victims": "1,055 recovered · 662 minors",
    "arrests": "",
-   "source": "The Print",
-   "url": "https://theprint.in/india/four-girls-among-six-from-tripura-rescued-from-trafficking-bid-at-india-nepal-border-in-bengal/3028056/"
+   "source": "The Ghana Report",
+   "url": "https://theghanareport.com/news/1055-street-beggars-removed-from-accra-kumasi-streets-gis/"
   },
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Nigerian police free two Colombian women held by a Lagos trafficking ring",
-   "summary": "Acting on an Interpol tip from Bogotá, Nigeria's police Interpol bureau raided a property in Lagos on 26 August and freed two Colombian women, identified in the police statement…",
-   "location": "Lagos, Nigeria",
-   "victims": "2 recovered",
+   "headline": "US Marshals find a second, unreported missing teenager while rescuing a trafficked 16-year-old in Arizona",
+   "summary": "The U.S. Marshals Service, searching a Tolleson home on 26 August for a 16-year-old who had been missing since mid-June, found her along with a second, previously unreported…",
+   "location": "Tolleson, Arizona",
+   "victims": "2 recovered · 2 minors",
    "arrests": "",
-   "source": "PRNigeria",
-   "url": "https://prnigeria.com/2026/08/29/police-bust-trafficking/"
+   "source": "FOX 10 Phoenix",
+   "url": "https://www.fox10phoenix.com/news/2-missing-girls-rescued-from-sex-trafficking-ring-tolleson-home-us-marshals-say"
   },
   {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "US and Colombian officials detail years-long crackdown on Americans trafficking children in Medellín",
-   "summary": "Homeland Security Investigations, the FBI's Phoenix field office, the U.S. Attorney's Office in Arizona and prosecutors from Medellín, Colombia held a joint briefing on 26 August…",
-   "location": "Phoenix, Arizona / Medellín, Colombia",
-   "victims": "",
-   "arrests": "35 charged",
-   "source": "AZFamily",
-   "url": "https://www.azfamily.com/2026/08/26/arizona-officials-colombian-mayor-detail-operation-against-child-sex-trafficking/"
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Argentine officials free four farmworkers held in unsanitary conditions near La Rioja",
+   "summary": "Argentine officials raided a property on Provincial Route 5 outside the city of La Rioja and removed four adults — three men and one woman, all from Santiago del Estero province —…",
+   "location": "La Rioja, Argentina",
+   "victims": "4 recovered",
+   "arrests": "1 held",
+   "source": "Government of Argentina",
+   "url": "https://www.argentina.gob.ar/noticias/la-rioja-rescataron-cuatro-ciudadanos-en-el-marco-de-una-causa-por-presunta-trata-de"
   },
   {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Former New Orleans teacher gets 33 years for trafficking a runaway teenager he found on social media",
-   "summary": "A federal judge in New Orleans sentenced Aaron Terod Johnson, a 38-year-old former high school teacher, to 33 years in prison on 19 August after a jury convicted him of sex…",
-   "location": "New Orleans, Louisiana",
-   "victims": "",
-   "arrests": "1 sentenced",
-   "source": "U.S. Attorney's Office, Eastern District of Louisiana",
-   "url": "https://www.justice.gov/usao-edla/pr/local-high-school-teacher-sentenced-33-years-sex-trafficking-16-year-old-girl"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Rohnert Park charges two men with buying sex from a minor in an ongoing demand-side sting",
-   "summary": "Rohnert Park's Department of Public Safety filed charges on 26 August against two men, Blake Allen Johnson, 40, and Harlaik Singh, 48, accusing Singh of causing a minor to engage…",
-   "location": "Rohnert Park, California",
-   "victims": "",
-   "arrests": "2 charged",
-   "source": "The Press Democrat",
-   "url": "https://www.pressdemocrat.com/2026/08/28/charges-filed-against-two-people-in-rohnert-park-human-trafficking-case/"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Modesto task force ends months-long investigation with minors recovered and six arrests",
-   "summary": "The Stanislaus County Sheriff's Human Exploitation and Trafficking Task Force wrapped up a multi-month investigation into a commercial sex-trafficking operation run out of a…",
-   "location": "Modesto, California",
-   "victims": "",
-   "arrests": "6 arrested",
-   "source": "Crime Voice",
-   "url": "https://www.crimevoice.com/2026/08/18/h-e-a-t-task-force-arrests-six-in-juvenile-human-trafficking-investigation/"
-  },
-  {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Thai police capture American fugitive wanted on child sex-trafficking warrants from Alabama",
-   "summary": "Royal Thai Police, acting on an FBI request, arrested 48-year-old American Lance Michael Bec at a hotel in Phuket's Thalang district on 29 August.",
-   "location": "Phuket, Thailand",
-   "victims": "",
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Fulton County task force locates a trafficked teenager reported missing from North Carolina",
+   "summary": "After Fayetteville, North Carolina police reported a teenage girl missing and asked for help, Fulton County Sheriff's Office investigators traced online commercial-sex…",
+   "location": "East Point, Georgia",
+   "victims": "1 recovered · 1 minor",
    "arrests": "1 arrested",
-   "source": "Khaosod English",
-   "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/08/30/thai-police-arrest-us-man-wanted-on-eight-child-sex-abuse-warrants/"
+   "source": "WSB-TV",
+   "url": "https://www.wsbtv.com/news/local/child-sex-trafficking-victim-rescued-suspect-arrested/R2KXRHMNFRAVTKSGTICZFIPKXA/"
   },
   {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Cambodia says it has shut down its online scam compounds; trafficking monitors are skeptical",
-   "summary": "Cambodia's anti-scam commission told foreign diplomats on 28 August that the country no longer hosts any scam compounds, citing raids on 624 of 793 suspected sites since July 2025…",
-   "location": "Phnom Penh, Cambodia",
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Aurora forced-labor ring indicted over migrants held to work off smuggling debts",
+   "summary": "A federal grand jury in Denver indicted seven people on 25 August, charging them with smuggling six victims into the United States between October 2021 and July 2023 and then…",
+   "location": "Aurora, Colorado",
    "victims": "",
-   "arrests": "",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/8/28/cambodias-claim-to-have-ended-scam-compounds-met-with-scepticism"
+   "arrests": "7 charged",
+   "source": "U.S. Attorney's Office, District of Colorado",
+   "url": "https://www.fbi.gov/contact-us/field-offices/denver/news/district-of-colorado-indicts-seven-defendants-on-alien-smuggling-forced-labor-charges-as-a-result-of-human-trafficking-scheme"
   },
   {
-   "section": "ongoing",
-   "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Georgia indicts an Atlanta-area man over a teenager recovered during June's Global Chain sweep",
-   "summary": "What's new: Georgia's attorney general secured a Fulton County grand jury indictment on 17 August against Eric Gordon, 36, of Decatur, charging him with trafficking a 16-year-old…",
-   "location": "Decatur, Georgia",
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Anaheim buyer sting nets ten arrests and identifies a suspected pimp",
+   "summary": "The Orange County Human Trafficking Task Force and Anaheim police arrested 10 people on 27 August in a demand-side operation targeting buyers of commercial sex, and identified one…",
+   "location": "Anaheim, California",
    "victims": "",
-   "arrests": "1 indicted",
-   "source": "Georgia Attorney General's Office",
-   "url": "https://law.georgia.gov/press-releases/2026-08-18/carr-secures-new-indictment-trafficking-16-year-old-following-operation"
+   "arrests": "10 arrested",
+   "source": "New Santa Ana",
+   "url": "https://newsantaana.com/10-arrested-in-human-trafficking-crackdown-in-anaheim/"
   }
  ]
 }

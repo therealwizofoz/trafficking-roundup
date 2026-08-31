@@ -1,21 +1,29 @@
-Edition for 30 August 2026, covering the 24 hours to that date (with several
-items a few days to two weeks older, dated in the body, where search indexes
-lagged or the news was a genuine new development on an older case). 9 stories
-included: 2 victims recovered, 2 national/federal, 2 local & state, 2
-international, 1 ongoing. Recorded in the tally for this edition: 8 people
-recovered (6 intercepted at an India-Nepal border crossing suspected of being
-trafficked to Nepal, 2 Colombian women freed from a Lagos trafficking house),
-none confirmed as minors and no arrests reported in either case. Excluded from
-the tally by design: a Modesto, California task force case that recovered
-"several" minor victims with no exact count given, a years-long US-Colombia
-child-trafficking crackdown announced as a cumulative total (35 arrests), a
-Louisiana sentencing and a Georgia indictment that each describe rescues
-already carried out and (in Georgia's case) already covered in an earlier
-edition, and a Thai arrest of an American fugitive with no new victim count.
-Year-to-date running tally across all three editions published so far: 691
-people recovered across 9 places, 351 minors, 1,117 arrests. No image was
-published — no qualifying US federal government photograph was found for any
-of today's stories, which is the expected outcome most days. The build ran
-cleanly (python3 build.py, 3 editions built) and the JSON validated before the
-build. This run does not push or verify the live site itself; that is done by
-the workflow step that follows.
+Edition for 31 August 2026, covering the 24 hours to that date (with several
+items three to six days older, dated in the body, where search indexes
+lagged). 6 stories included: 4 victims recovered, 1 national/federal, 1
+local & state, 0 international, 0 ongoing. Recorded in the tally for this
+edition: 1,062 people recovered (1,055 removed from a trafficking-linked
+street-begging network in Accra and Kumasi, Ghana, including 662 children;
+2 teenagers recovered from a Tolleson, Arizona home; 4 farmworkers freed near
+La Rioja, Argentina; 1 teenager recovered in East Point, Georgia), 665 of
+them minors, and 2 arrests tied to those recoveries. Excluded from the tally
+by design: a Colorado forced-labor indictment describing six victims
+trafficked into the US in 2021-2023 and already presumably counted at the
+time, and an Anaheim, California demand-side sting with 10 arrests and no
+victim count reported. One story was drafted and then dropped before
+publication: a search hit on an Arunachal Pradesh, India child-recovery case
+turned out to be the same event already covered in the 28 August edition
+(same 19 children, same three arrested brokers, different outlet) -- caught
+against the dedupe log before publishing and removed. The International
+section is empty today; the day's substantial international recovery news
+(Ghana, Argentina) is carried in Victims Recovered instead, consistent with
+how earlier editions have categorized recoveries regardless of country, and
+no additional non-recovery international story cleared the freshness bar
+after a thorough search across law-enforcement, NGO and regional-outlet
+sources. Year-to-date running tally across all four editions published so
+far: 1,753 people recovered across 12 places, 1,016 minors, 1,119 arrests.
+No image was published -- no qualifying US federal government photograph was
+found for any of today's stories. The build ran cleanly (python3 build.py, 4
+editions built) and the JSON validated before the build. This run does not
+push or verify the live site itself; that is done by the workflow step that
+follows.
