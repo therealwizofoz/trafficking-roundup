@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-01",
+  "window": "The 24 hours to 1 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": []
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Shasta County houseboat sting arrests eight in a commercial-sex operation",
+          "location": "Shasta Lake, California",
+          "arrests": "8 arrested",
+          "source": "Redheaded Blackbelt",
+          "url": "https://kymkemp.com/2026/09/01/eight-arrested-in-shasta-lake-human-trafficking-sting/",
+          "body": "Shasta County sheriff's investigators, working with Redding police and the FBI, used a houseboat on the lake's shoreline as an undercover meeting point over the weekend of Aug. 28-30, arresting eight people. Six were accused of agreeing to pay for sex acts and one man was accused of profiting from a woman's prostitution; an eighth person was booked on an unrelated warrant and a drug charge. Investigators said they offered help to anyone contacted who showed signs of exploitation, but the operation did not report identifying or recovering a trafficking victim."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
