@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-02",
+  "window": "The 24 hours to 2 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Escaped 12-year-old leads Dominican police to 14 children held at a fake 'foundation'",
+          "victims": "14 recovered · 14 minors",
+          "location": "Haina, Dominican Republic",
+          "arrests": "20 detained",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/republica-dominicana/2026/09/01/la-fuga-de-un-nino-destapo-una-red-de-explotacion-infantil-y-permitio-el-rescate-de-13-menores-en-republica-dominicana/",
+          "body": "Dominican police said a 12-year-old boy who escaped a Haina facility calling itself a children's foundation reported what was happening there in late August, leading investigators to raid the site and recover 14 more children, ages three months to 13. Twenty people were detained for investigation on charges including child abuse, labor exploitation and human trafficking; police said the children had been kept from school and put to construction and woodworking work at the site. The children were moved into state protective custody for medical and psychological evaluation, officials said Sept. 1.",
+          "recovered": [
+            {"victims": 14, "minors": 14, "place": "Dominican Republic"}
+          ]
+        },
+        {
+          "headline": "Assam police stop an interstate trafficking ring before two women could be moved to Bihar",
+          "victims": "2 recovered",
+          "location": "Gauripur, Assam, India",
+          "arrests": "1 arrested",
+          "source": "Pratidin Time",
+          "url": "https://www.pratidintime.com/latest-assam-news-breaking-news-assam/dhubri/assam-human-trafficking-gauripur-women-rescued-12480785",
+          "body": "Police in Assam's Dhubri district raided a house in Gauripur on 1 September and freed two women from Barpeta district who had been lured from home with promises of jobs, arresting a woman accused of running the operation. Investigators said the pair were being held at the house as a transit stop before being moved across the state border into Bihar, and said they are now working to trace the wider network the suspect is believed to be connected to.",
+          "recovered": [
+            {"victims": 2, "arrests": 1, "place": "India"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Alabama sex-trafficking sting grows to seven arrests as a last suspect is charged",
+          "location": "Lauderdale County, Alabama",
+          "arrests": "7 arrested",
+          "source": "WAFF",
+          "url": "https://www.waff.com/2026/09/02/seventh-arrest-made-lauderdale-county-child-exploitation-sting/",
+          "body": "Lauderdale County investigators ran an online undercover operation over the weekend of Aug. 29-30, working with Florence police, the FBI and a regional task force to identify adults seeking to meet children for sex. A seventh man was arrested Sept. 1 and charged with human trafficking and traveling to meet a child for sex after allegedly agreeing to pay $60 for the encounter; six of the seven men now face trafficking-related charges and one faces a solicitation charge. Investigators did not report finding an actual child victim during the operation."
+        },
+        {
+          "headline": "California Assembly panel kills a bill to create a statewide trafficking task force",
+          "location": "California",
+          "source": "The Signal",
+          "url": "https://signalscv.com/2026/09/sacramento-kills-valladares-bill-to-protect-human-trafficking-victims/",
+          "body": "A bill that would have created California's first statewide coordinated task force on human trafficking, bringing together law enforcement, state agencies and victim-services nonprofits, was voted down in the Assembly Appropriations Committee this week despite passing the full state Senate unanimously. The task force was estimated to cost about $289,000 a year to run. Its author, state Sen. Suzette Martinez Valladares, called the vote \"a painful setback for trafficking victims across California.\""
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Nigeria's trafficking agency says recruiters are moving from ports to phones",
+          "location": "Nigeria",
+          "source": "allAfrica",
+          "url": "https://allafrica.com/stories/202609020165.html",
+          "body": "Nigeria's National Agency for the Prohibition of Trafficking in Persons said it rescued more than 80 suspected trafficking victims and secured nine convictions in July and August alone, part of a broader 2026 tally in which the agency says it has helped more than 3,000 victims of sexual and gender-based violence and secured over 20 convictions. Its spokesperson said recruiters increasingly approach Nigerian youth through social media, encrypted messaging apps and fake job portals instead of in-person brokers, funneling some victims toward forced labor in Southeast Asian scam centers. \"Human trafficking is migrating to the digital space, and we must adapt our response to meet this emerging threat,\" the spokesperson said."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}

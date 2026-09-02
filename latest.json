@@ -1,33 +1,87 @@
 {
- "date": "2026-09-01",
- "dateLabel": "Tuesday, September 1, 2026",
- "window": "The 24 hours to 1 September 2026.",
+ "date": "2026-09-02",
+ "dateLabel": "Wednesday, September 2, 2026",
+ "window": "The 24 hours to 2 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 1,
+ "storyCount": 5,
  "yearToDate": {
   "year": "2026",
-  "victims": 1753,
-  "minors": 1016,
-  "arrests": 1119
+  "victims": 1769,
+  "minors": 1030,
+  "arrests": 1120
  },
  "sectionCounts": [
   {
+   "id": "rescues",
+   "name": "Victims Recovered",
+   "count": 2
+  },
+  {
    "id": "local",
    "name": "Local & State Cases",
+   "count": 2
+  },
+  {
+   "id": "world",
+   "name": "International",
    "count": 1
   }
  ],
  "stories": [
   {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Escaped 12-year-old leads Dominican police to 14 children held at a fake 'foundation'",
+   "summary": "Dominican police said a 12-year-old boy who escaped a Haina facility calling itself a children's foundation reported what was happening there in late August, leading investigators…",
+   "location": "Haina, Dominican Republic",
+   "victims": "14 recovered · 14 minors",
+   "arrests": "20 detained",
+   "source": "Infobae",
+   "url": "https://www.infobae.com/republica-dominicana/2026/09/01/la-fuga-de-un-nino-destapo-una-red-de-explotacion-infantil-y-permitio-el-rescate-de-13-menores-en-republica-dominicana/"
+  },
+  {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Assam police stop an interstate trafficking ring before two women could be moved to Bihar",
+   "summary": "Police in Assam's Dhubri district raided a house in Gauripur on 1 September and freed two women from Barpeta district who had been lured from home with promises of jobs, arresting…",
+   "location": "Gauripur, Assam, India",
+   "victims": "2 recovered",
+   "arrests": "1 arrested",
+   "source": "Pratidin Time",
+   "url": "https://www.pratidintime.com/latest-assam-news-breaking-news-assam/dhubri/assam-human-trafficking-gauripur-women-rescued-12480785"
+  },
+  {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Shasta County houseboat sting arrests eight in a commercial-sex operation",
-   "summary": "Shasta County sheriff's investigators, working with Redding police and the FBI, used a houseboat on the lake's shoreline as an undercover meeting point over the weekend of Aug.",
-   "location": "Shasta Lake, California",
+   "headline": "Alabama sex-trafficking sting grows to seven arrests as a last suspect is charged",
+   "summary": "Lauderdale County investigators ran an online undercover operation over the weekend of Aug.",
+   "location": "Lauderdale County, Alabama",
    "victims": "",
-   "arrests": "8 arrested",
-   "source": "Redheaded Blackbelt",
-   "url": "https://kymkemp.com/2026/09/01/eight-arrested-in-shasta-lake-human-trafficking-sting/"
+   "arrests": "7 arrested",
+   "source": "WAFF",
+   "url": "https://www.waff.com/2026/09/02/seventh-arrest-made-lauderdale-county-child-exploitation-sting/"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "California Assembly panel kills a bill to create a statewide trafficking task force",
+   "summary": "A bill that would have created California's first statewide coordinated task force on human trafficking, bringing together law enforcement, state agencies and victim-services…",
+   "location": "California",
+   "victims": "",
+   "arrests": "",
+   "source": "The Signal",
+   "url": "https://signalscv.com/2026/09/sacramento-kills-valladares-bill-to-protect-human-trafficking-victims/"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Nigeria's trafficking agency says recruiters are moving from ports to phones",
+   "summary": "Nigeria's National Agency for the Prohibition of Trafficking in Persons said it rescued more than 80 suspected trafficking victims and secured nine convictions in July and August…",
+   "location": "Nigeria",
+   "victims": "",
+   "arrests": "",
+   "source": "allAfrica",
+   "url": "https://allafrica.com/stories/202609020165.html"
   }
  ]
 }
