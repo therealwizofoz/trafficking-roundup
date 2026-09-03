@@ -1,0 +1,57 @@
+{
+  "date": "2026-09-03",
+  "window": "The 24 hours to 3 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": []
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Brooklyn man admits sex trafficking, kidnapping six more women lured through escort sites",
+          "victims": "7 named in plea",
+          "location": "Brooklyn, New York",
+          "source": "Department of Justice",
+          "url": "https://www.justice.gov/opa/pr/trinidadian-foreign-national-pleads-guilty-sex-trafficking-new-york",
+          "body": "A Trinidadian national living in Brooklyn pleaded guilty Sept. 2 to sex trafficking a woman by force after luring her to his home through an escort website, then robbing and assaulting her. As part of the plea, he admitted using the same method to kidnap six additional women between 2022 and 2023, threatening them to keep them from fleeing or reporting him. He was arrested in 2023 and had faced a series of expanding federal indictments since then."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "San Diego task force poses as children online, arrests 12 men seeking to meet minors for sex",
+          "location": "San Diego County, California",
+          "arrests": "15 arrested",
+          "source": "Hoodline",
+          "url": "https://hoodline.com/2026/09/san-diego-sting-nets-15-arrests-catches-offender-with-child-abuse-images/",
+          "body": "The California Department of Justice's San Diego Human Trafficking Task Force and Homeland Security Investigations' Child Exploitation Group ran an undercover operation through Aug. 25 in which agents posed online as children between the ages of 10 and 16. Fifteen people were arrested: twelve on charges of arranging to meet a minor for sex, and three on outstanding parole violations. One of those arrested was also found with suspected child sexual abuse material."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Brazil's forced-labor rescues fall nationally but surge in São Paulo, land-rights group reports",
+          "location": "São Paulo, Brazil",
+          "source": "Agência Pública",
+          "url": "https://apublica.org/2026/09/resgates-de-pessoas-em-condicao-de-escravidao-caem-no-brasil-mas-disparam-em-sp-diz-cpt/",
+          "body": "Brazil's Comissão Pastoral da Terra, a Catholic land-rights group that tracks forced-labor cases, reported Sept. 2 that 355 workers were freed from slavery-like conditions across 30 cases nationwide in the first half of 2026, well below the 842 rescued in all of 2025. São Paulo state bucked that trend: its 148 rescues in the first six months of 2026 already topped the 142 recorded for all of last year, with most cases tied to sugarcane planting and harvesting. The group's coordinator said forced labor is increasingly turning up in more mechanized farm operations, not just the most remote or informal ones."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
