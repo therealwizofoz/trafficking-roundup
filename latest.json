@@ -1,7 +1,7 @@
 {
- "date": "2026-09-03",
- "dateLabel": "Thursday, September 3, 2026",
- "window": "The 24 hours to 3 September 2026.",
+ "date": "2026-09-04",
+ "dateLabel": "Friday, September 4, 2026",
+ "window": "The 24 hours to 4 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
  "storyCount": 3,
  "yearToDate": {
@@ -31,35 +31,35 @@
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "Brooklyn man admits sex trafficking, kidnapping six more women lured through escort sites",
-   "summary": "A Trinidadian national living in Brooklyn pleaded guilty Sept. 2 to sex trafficking a woman by force after luring her to his home through an escort website, then robbing and…",
-   "location": "Brooklyn, New York",
-   "victims": "7 named in plea",
-   "arrests": "",
-   "source": "Department of Justice",
-   "url": "https://www.justice.gov/opa/pr/trinidadian-foreign-national-pleads-guilty-sex-trafficking-new-york"
+   "headline": "Massachusetts man indicted after arranging to pay for sex with a decoy 15-year-old",
+   "summary": "A federal grand jury in Worcester indicted a 39-year-old Marlborough man Sept. 3 on a charge of attempted sex trafficking of a minor.",
+   "location": "Marlborough, Massachusetts",
+   "victims": "",
+   "arrests": "1 indicted",
+   "source": "U.S. Attorney's Office, District of Massachusetts",
+   "url": "https://www.justice.gov/usao-ma/pr/marlborough-man-indicted-federal-grand-jury-attempted-sex-trafficking-minor"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "San Diego task force poses as children online, arrests 12 men seeking to meet minors for sex",
-   "summary": "The California Department of Justice's San Diego Human Trafficking Task Force and Homeland Security Investigations' Child Exploitation Group ran an undercover operation through…",
-   "location": "San Diego County, California",
+   "headline": "Five arrested in Kentucky after a sex-trafficking case's key witness turns up dead",
+   "summary": "Kentucky authorities arrested five people this week after Bobby Smith, a key witness against sex-trafficking defendant Darrell Carnahan, was found dead in Harlan County in late…",
+   "location": "Bell and Harlan counties, Kentucky",
    "victims": "",
-   "arrests": "15 arrested",
-   "source": "Hoodline",
-   "url": "https://hoodline.com/2026/09/san-diego-sting-nets-15-arrests-catches-offender-with-child-abuse-images/"
+   "arrests": "5 arrested",
+   "source": "WYMT",
+   "url": "https://www.wymt.com/2026/09/03/multiple-arrests-made-connection-with-death-key-witness-sex-trafficking-case/"
   },
   {
    "section": "world",
    "sectionName": "International",
-   "headline": "Brazil's forced-labor rescues fall nationally but surge in São Paulo, land-rights group reports",
-   "summary": "Brazil's Comissão Pastoral da Terra, a Catholic land-rights group that tracks forced-labor cases, reported Sept.",
+   "headline": "Brazilian federal police screen five citizens as possible trafficking victims returning from Laos",
+   "summary": "Brazil's Federal Police said Sept. 1 that, between Aug. 28 and Sept. 1, they took in five Brazilian nationals arriving at São Paulo's Guarulhos International Airport from Laos…",
    "location": "São Paulo, Brazil",
-   "victims": "",
+   "victims": "5 possible victims",
    "arrests": "",
-   "source": "Agência Pública",
-   "url": "https://apublica.org/2026/09/resgates-de-pessoas-em-condicao-de-escravidao-caem-no-brasil-mas-disparam-em-sp-diz-cpt/"
+   "source": "Polícia Federal",
+   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-realiza-prisoes-apreensoes-e-acolhe-vitimas-de-possivel-trafico-de-pessoas-no-aeroporto-de-guarulhos-sp"
   }
  ]
 }

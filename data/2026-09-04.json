@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-04",
+  "window": "The 24 hours to 4 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": []
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Massachusetts man indicted after arranging to pay for sex with a decoy 15-year-old",
+          "location": "Marlborough, Massachusetts",
+          "arrests": "1 indicted",
+          "source": "U.S. Attorney's Office, District of Massachusetts",
+          "url": "https://www.justice.gov/usao-ma/pr/marlborough-man-indicted-federal-grand-jury-attempted-sex-trafficking-minor",
+          "body": "A federal grand jury in Worcester indicted a 39-year-old Marlborough man Sept. 3 on a charge of attempted sex trafficking of a minor. Prosecutors say he responded to an undercover ad, agreed by phone and text to pay $150 to have sex with someone he was told was a 15-year-old, and said he planned to record the encounter, before he was arrested arriving at a prearranged hotel. He was first taken into custody on a criminal complaint in July and now faces a mandatory minimum of 10 years in prison if convicted."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Five arrested in Kentucky after a sex-trafficking case's key witness turns up dead",
+          "location": "Bell and Harlan counties, Kentucky",
+          "arrests": "5 arrested",
+          "source": "WYMT",
+          "url": "https://www.wymt.com/2026/09/03/multiple-arrests-made-connection-with-death-key-witness-sex-trafficking-case/",
+          "body": "Kentucky authorities arrested five people this week after Bobby Smith, a key witness against sex-trafficking defendant Darrell Carnahan, was found dead in Harlan County in late August; officials have not disclosed a cause of death. Investigators allege Carnahan phoned associates from jail to pressure witnesses into changing their testimony and that three of those now charged benefited financially from Smith's death. One of the five, Joseph Jackson, was separately charged with human trafficking tied to the underlying case."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Brazilian federal police screen five citizens as possible trafficking victims returning from Laos",
+          "location": "São Paulo, Brazil",
+          "victims": "5 possible victims",
+          "source": "Polícia Federal",
+          "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-realiza-prisoes-apreensoes-e-acolhe-vitimas-de-possivel-trafico-de-pessoas-no-aeroporto-de-guarulhos-sp",
+          "body": "Brazil's Federal Police said Sept. 1 that, between Aug. 28 and Sept. 1, they took in five Brazilian nationals arriving at São Paulo's Guarulhos International Airport from Laos, treating them as possible victims of human trafficking and opening an inquiry into the conditions they described experiencing there. No arrests have been announced in that case. Laos borders Myanmar and Cambodia, where trafficked workers by the thousands have been forced to staff online scam operations for criminal networks."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
