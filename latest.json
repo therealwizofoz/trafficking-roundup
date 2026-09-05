@@ -1,65 +1,60 @@
 {
- "date": "2026-09-04",
- "dateLabel": "Friday, September 4, 2026",
- "window": "The 24 hours to 4 September 2026.",
+ "date": "2026-09-05",
+ "dateLabel": "Saturday, September 5, 2026",
+ "window": "The 24 hours to 5 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
  "storyCount": 3,
  "yearToDate": {
   "year": "2026",
-  "victims": 1769,
-  "minors": 1030,
-  "arrests": 1120
+  "victims": 1784,
+  "minors": 1045,
+  "arrests": 1123
  },
  "sectionCounts": [
   {
-   "id": "federal",
-   "name": "National / Federal (US)",
+   "id": "rescues",
+   "name": "Victims Recovered",
    "count": 1
   },
   {
    "id": "local",
    "name": "Local & State Cases",
-   "count": 1
-  },
-  {
-   "id": "world",
-   "name": "International",
-   "count": 1
+   "count": 2
   }
  ],
  "stories": [
   {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Massachusetts man indicted after arranging to pay for sex with a decoy 15-year-old",
-   "summary": "A federal grand jury in Worcester indicted a 39-year-old Marlborough man Sept. 3 on a charge of attempted sex trafficking of a minor.",
-   "location": "Marlborough, Massachusetts",
-   "victims": "",
-   "arrests": "1 indicted",
-   "source": "U.S. Attorney's Office, District of Massachusetts",
-   "url": "https://www.justice.gov/usao-ma/pr/marlborough-man-indicted-federal-grand-jury-attempted-sex-trafficking-minor"
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Nigerian security unit frees 15 children sold through a fake back-to-school charity",
+   "summary": "Nigeria's Security and Civil Defence Corps said Sept. 4 it had recovered 15 children sold for roughly 2 million naira each after a man posing as an official of a child-rights…",
+   "location": "Nasarawa State, Nigeria",
+   "victims": "15 recovered · 15 minors",
+   "arrests": "3 arrested",
+   "source": "Nigeria Security and Civil Defence Corps",
+   "url": "https://www.firstawareness.com.ng/2026/09/nscdc-rescues-15-minors-from-human.html"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Five arrested in Kentucky after a sex-trafficking case's key witness turns up dead",
-   "summary": "Kentucky authorities arrested five people this week after Bobby Smith, a key witness against sex-trafficking defendant Darrell Carnahan, was found dead in Harlan County in late…",
-   "location": "Bell and Harlan counties, Kentucky",
+   "headline": "Metro Detroit massage-parlor trafficker sentenced to up to 20 years",
+   "summary": "A Macomb County judge sentenced Jingyu Jin, 46, to 40 months to 20 years in prison on Sept.",
+   "location": "Macomb County, Michigan",
    "victims": "",
-   "arrests": "5 arrested",
-   "source": "WYMT",
-   "url": "https://www.wymt.com/2026/09/03/multiple-arrests-made-connection-with-death-key-witness-sex-trafficking-case/"
+   "arrests": "1 sentenced",
+   "source": "Michigan Attorney General's Office",
+   "url": "https://www.michigan.gov/ag/news/press-releases/2026/09/04/chinese-national-sentenced-for-operating-illicit-massage-parlors-in-metro-detroit"
   },
   {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Brazilian federal police screen five citizens as possible trafficking victims returning from Laos",
-   "summary": "Brazil's Federal Police said Sept. 1 that, between Aug. 28 and Sept. 1, they took in five Brazilian nationals arriving at São Paulo's Guarulhos International Airport from Laos…",
-   "location": "São Paulo, Brazil",
-   "victims": "5 possible victims",
-   "arrests": "",
-   "source": "Polícia Federal",
-   "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/09/pf-realiza-prisoes-apreensoes-e-acolhe-vitimas-de-possivel-trafico-de-pessoas-no-aeroporto-de-guarulhos-sp"
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Alabama sheriff's office arrests a second man on trafficking charges in a separate case",
+   "summary": "The Lauderdale County Sheriff's Office arrested Robert Earl Danford, 69, of Hamilton on Sept.",
+   "location": "Lauderdale County, Alabama",
+   "victims": "",
+   "arrests": "1 arrested",
+   "source": "WAFF",
+   "url": "https://www.waff.com/2026/09/04/lauderdale-county-man-arrested-human-trafficking-child-sex-charges/"
   }
  ]
 }

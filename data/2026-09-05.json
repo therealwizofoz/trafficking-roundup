@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-05",
+  "window": "The 24 hours to 5 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Nigerian security unit frees 15 children sold through a fake back-to-school charity",
+          "victims": "15 recovered · 15 minors",
+          "location": "Nasarawa State, Nigeria",
+          "arrests": "3 arrested",
+          "source": "Nigeria Security and Civil Defence Corps",
+          "url": "https://www.firstawareness.com.ng/2026/09/nscdc-rescues-15-minors-from-human.html",
+          "body": "Nigeria's Security and Civil Defence Corps said Sept. 4 it had recovered 15 children sold for roughly 2 million naira each after a man posing as an official of a child-rights group lured farming families in Nasarawa State with promises of free schooling under a bogus \"Back to School\" charity. Investigators tracked three of the children to Anambra, Imo and Enugu states and the rest along what they described as an eastern transit route, and arrested three suspected buyers, a man and two women.",
+          "recovered": [
+            {"victims": 15, "minors": 15, "arrests": 3, "place": "Nigeria"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Metro Detroit massage-parlor trafficker sentenced to up to 20 years",
+          "location": "Macomb County, Michigan",
+          "arrests": "1 sentenced",
+          "source": "Michigan Attorney General's Office",
+          "url": "https://www.michigan.gov/ag/news/press-releases/2026/09/04/chinese-national-sentenced-for-operating-illicit-massage-parlors-in-metro-detroit",
+          "body": "A Macomb County judge sentenced Jingyu Jin, 46, to 40 months to 20 years in prison on Sept. 4 after she pleaded no contest to running a criminal enterprise built on two illicit massage businesses, in St. Clair Shores and Sterling Heights. Prosecutors said the parlors were part of an international ring that brought women from China and Korea into the country and forced them into commercial sex, a case Homeland Security Investigations, Michigan State Police and local departments began investigating after Jin was charged in December 2024."
+        },
+        {
+          "headline": "Alabama sheriff's office arrests a second man on trafficking charges in a separate case",
+          "location": "Lauderdale County, Alabama",
+          "arrests": "1 arrested",
+          "source": "WAFF",
+          "url": "https://www.waff.com/2026/09/04/lauderdale-county-man-arrested-human-trafficking-child-sex-charges/",
+          "body": "The Lauderdale County Sheriff's Office arrested Robert Earl Danford, 69, of Hamilton on Sept. 4 on charges of first-degree human trafficking and traveling to meet a child for an unlawful sex act. The case is separate from the seven-arrest undercover sting the same office announced earlier in the week; investigators have not described an actual child victim in Danford's case, and he is being held pending an Aniah's Law hearing."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
