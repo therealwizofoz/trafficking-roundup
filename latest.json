@@ -1,60 +1,125 @@
 {
- "date": "2026-09-05",
- "dateLabel": "Saturday, September 5, 2026",
- "window": "The 24 hours to 5 September 2026.",
+ "date": "2026-09-06",
+ "dateLabel": "Sunday, September 6, 2026",
+ "window": "The 24 hours to 6 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 3,
+ "storyCount": 8,
  "yearToDate": {
   "year": "2026",
-  "victims": 1784,
-  "minors": 1045,
-  "arrests": 1123
+  "victims": 1969,
+  "minors": 1230,
+  "arrests": 1125
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 1
+   "count": 2
+  },
+  {
+   "id": "federal",
+   "name": "National / Federal (US)",
+   "count": 3
   },
   {
    "id": "local",
    "name": "Local & State Cases",
    "count": 2
+  },
+  {
+   "id": "world",
+   "name": "International",
+   "count": 1
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Nigerian security unit frees 15 children sold through a fake back-to-school charity",
-   "summary": "Nigeria's Security and Civil Defence Corps said Sept. 4 it had recovered 15 children sold for roughly 2 million naira each after a man posing as an official of a child-rights…",
-   "location": "Nasarawa State, Nigeria",
-   "victims": "15 recovered · 15 minors",
-   "arrests": "3 arrested",
-   "source": "Nigeria Security and Civil Defence Corps",
-   "url": "https://www.firstawareness.com.ng/2026/09/nscdc-rescues-15-minors-from-human.html"
+   "headline": "Nigerian agency recovers more than 180 children sold through fake back-to-school charities",
+   "summary": "Nigeria's National Agency for the Prohibition of Trafficking in Persons said it has recovered more than 180 children trafficked out of five states by criminal networks posing as…",
+   "location": "Benue, Nasarawa, Kaduna and Anambra states, Nigeria",
+   "victims": "180+ recovered · all minors",
+   "arrests": "1 arrested, manhunt underway",
+   "source": "NAPTIP",
+   "url": "https://naptip.gov.ng/naptip-recovers-over-180-trafficked-children-across-five-states-in-nigeria-in-a-latest-counter-trafficking-operation/"
   },
   {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Metro Detroit massage-parlor trafficker sentenced to up to 20 years",
-   "summary": "A Macomb County judge sentenced Jingyu Jin, 46, to 40 months to 20 years in prison on Sept.",
-   "location": "Macomb County, Michigan",
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Kenyan police pull four young children from a suspected trafficker's rented room",
+   "summary": "Kenya Police, the Administration Police Service and the Directorate of Criminal Investigations arrested a man on Sept.",
+   "location": "Isinya, Kajiado County, Kenya",
+   "victims": "4 recovered · ages 1-17",
+   "arrests": "1 arrested",
+   "source": "Kenya Police Service",
+   "url": "https://www.dailypost-ke.com/2026/09/detectives-arrest-kikuyu-man-suspected.html"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Federal indictment accuses LA gang members of trafficking 51 people, many runaways, on the Figueroa Corridor",
+   "summary": "A federal indictment unsealed this week charges 11 reputed members and associates of Los Angeles's Hoover Criminal Gang with racketeering conspiracy for running a sex-trafficking…",
+   "location": "Los Angeles, California",
    "victims": "",
-   "arrests": "1 sentenced",
-   "source": "Michigan Attorney General's Office",
-   "url": "https://www.michigan.gov/ag/news/press-releases/2026/09/04/chinese-national-sentenced-for-operating-illicit-massage-parlors-in-metro-detroit"
+   "arrests": "11 charged",
+   "source": "U.S. Attorney's Office, Central District of California",
+   "url": "https://www.justice.gov/usao-cdca/pr/11-charged-federal-indictment-alleging-extensive-sex-trafficking-minors-and-young"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Second guilty plea in Washington state scheme that recruited 518 Mexican farmworkers under false terms",
+   "summary": "Erica Cisneros, a recruiter for the Kennewick-based labor contractor Harvest Plus, pleaded guilty Aug. 27 to fraud in foreign labor contracting and aggravated identity theft.",
+   "location": "Kennewick, Washington",
+   "victims": "",
+   "arrests": "1 pleaded guilty",
+   "source": "Capital Press",
+   "url": "https://capitalpress.com/2026/09/01/u-s-gets-second-guilty-plea-in-scheme-that-victimized-518-farmworkers/"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Appeals court upholds $1.4 million verdict against Michigan farm labor contractor for forced labor",
+   "summary": "The U.S. Court of Appeals for the Sixth Circuit ruled Aug. 28 to uphold a jury verdict of roughly $1.4 million against Purpose Point Harvesting, finding the Michigan farm labor…",
+   "location": "Michigan",
+   "victims": "",
+   "arrests": "",
+   "source": "Sixth Circuit Court of Appeals",
+   "url": "https://law.justia.com/cases/federal/appellate-courts/ca6/25-2080/25-2080-2026-08-28.html"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Alabama sheriff's office arrests a second man on trafficking charges in a separate case",
-   "summary": "The Lauderdale County Sheriff's Office arrested Robert Earl Danford, 69, of Hamilton on Sept.",
-   "location": "Lauderdale County, Alabama",
+   "headline": "Alabama sheriff's deputy charged with trafficking and raping his girlfriend under threat of deportation",
+   "summary": "Blount County authorities arrested Jefferson County sheriff's deputy Robert Nicholas Lisle, 47, on Sept.",
+   "location": "Blount County, Alabama",
    "victims": "",
    "arrests": "1 arrested",
-   "source": "WAFF",
-   "url": "https://www.waff.com/2026/09/04/lauderdale-county-man-arrested-human-trafficking-child-sex-charges/"
+   "source": "Trussville Tribune",
+   "url": "https://www.trussvilletribune.com/2026/09/01/jefferson-county-deputy-charged-with-rape-human-trafficking-in-blount-county/"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "New York woman charged with running a Pennsylvania massage parlor as a trafficking operation",
+   "summary": "The Lebanon County Human Trafficking Task Force charged Na Wei, 41, of Rochester, New York, on Sept.",
+   "location": "North Londonderry Township, Pennsylvania",
+   "victims": "",
+   "arrests": "1 charged",
+   "source": "FOX43",
+   "url": "https://www.fox43.com/article/news/crime/na-wei-arrest-prostitution-human-trafficking-lebanon-detectives-bureau-palmyra/521-41d474a7-bc44-4bf6-973d-e6e863692fe9"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Brazilian police investigate ring accused of selling an infant across the border into Paraguay",
+   "summary": "Brazil's Federal Police opened \"Operação Repatriar\" on Sept. 4, serving three search warrants in Foz do Iguaçu after a five-month-old baby was allegedly sold and taken into…",
+   "location": "Foz do Iguaçu, Brazil",
+   "victims": "",
+   "arrests": "",
+   "source": "SOT",
+   "url": "https://sot.inf.br/noticia/59392/pf-deflagra-operacao-em-foz-do-iguacu-para-investigar-trafico-internacional-de-bebe-de-cinco-meses"
   }
  ]
 }

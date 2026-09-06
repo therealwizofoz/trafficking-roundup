@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-06",
+  "window": "The 24 hours to 6 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Nigerian agency recovers more than 180 children sold through fake back-to-school charities",
+          "victims": "180+ recovered · all minors",
+          "location": "Benue, Nasarawa, Kaduna and Anambra states, Nigeria",
+          "arrests": "1 arrested, manhunt underway",
+          "source": "NAPTIP",
+          "url": "https://naptip.gov.ng/naptip-recovers-over-180-trafficked-children-across-five-states-in-nigeria-in-a-latest-counter-trafficking-operation/",
+          "body": "Nigeria's National Agency for the Prohibition of Trafficking in Persons said it has recovered more than 180 children trafficked out of five states by criminal networks posing as civil-society groups and offering free schooling to families displaced by violence and insecurity. Investigators arrested a nurse in Onitsha, Anambra State, who was found caring for one of the children, and have opened a manhunt for other suspects behind the wider network.",
+          "recovered": [
+            {"victims": 180, "minors": 180, "arrests": 1, "place": "Nigeria"}
+          ]
+        },
+        {
+          "headline": "Kenyan police pull four young children from a suspected trafficker's rented room",
+          "victims": "4 recovered · ages 1-17",
+          "location": "Isinya, Kajiado County, Kenya",
+          "arrests": "1 arrested",
+          "source": "Kenya Police Service",
+          "url": "https://www.dailypost-ke.com/2026/09/detectives-arrest-kikuyu-man-suspected.html",
+          "body": "Kenya Police, the Administration Police Service and the Directorate of Criminal Investigations arrested a man on Sept. 4 in Isinya, Kajiado County, and recovered four children between the ages of 1 and 17 who were living in his single rented room. Investigators say his activities may have extended to Mashuru and Nakuru County as well, and the children are undergoing medical evaluation while police work to establish the full scope of the case.",
+          "recovered": [
+            {"victims": 4, "minors": 4, "arrests": 1, "place": "Kenya"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Federal indictment accuses LA gang members of trafficking 51 people, many runaways, on the Figueroa Corridor",
+          "location": "Los Angeles, California",
+          "arrests": "11 charged",
+          "source": "U.S. Attorney's Office, Central District of California",
+          "url": "https://www.justice.gov/usao-cdca/pr/11-charged-federal-indictment-alleging-extensive-sex-trafficking-minors-and-young",
+          "body": "A federal indictment unsealed this week charges 11 reputed members and associates of Los Angeles's Hoover Criminal Gang with racketeering conspiracy for running a sex-trafficking operation on South LA's Figueroa Corridor from February 2021 to August 2025. Prosecutors say the network recruited at least 51 victims, including runaways and children from foster care as young as 14, often through social media, and marked some of them with tattoos."
+        },
+        {
+          "headline": "Second guilty plea in Washington state scheme that recruited 518 Mexican farmworkers under false terms",
+          "location": "Kennewick, Washington",
+          "arrests": "1 pleaded guilty",
+          "source": "Capital Press",
+          "url": "https://capitalpress.com/2026/09/01/u-s-gets-second-guilty-plea-in-scheme-that-victimized-518-farmworkers/",
+          "body": "Erica Cisneros, a recruiter for the Kennewick-based labor contractor Harvest Plus, pleaded guilty Aug. 27 to fraud in foreign labor contracting and aggravated identity theft. She is the second defendant to plead guilty in a case accusing Harvest Plus of fraudulently recruiting 518 Mexican farmworkers between 2022 and 2024 and placing them under the H-2A visa program in substandard jobs, housing and pay. The company's owner remains jailed awaiting trial, and his wife faces a separate forced-labor charge."
+        },
+        {
+          "headline": "Appeals court upholds $1.4 million verdict against Michigan farm labor contractor for forced labor",
+          "location": "Michigan",
+          "source": "Sixth Circuit Court of Appeals",
+          "url": "https://law.justia.com/cases/federal/appellate-courts/ca6/25-2080/25-2080-2026-08-28.html",
+          "body": "The U.S. Court of Appeals for the Sixth Circuit ruled Aug. 28 to uphold a jury verdict of roughly $1.4 million against Purpose Point Harvesting, finding the Michigan farm labor contractor liable for trafficking and forced-labor violations against five Guatemalan workers brought in on H-2A visas. The workers had testified that the company confiscated their passports, charged illegal recruitment fees and forced them to work up to 19 hours a day between 2017 and 2019 while paying them for only a fraction of those hours."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Alabama sheriff's deputy charged with trafficking and raping his girlfriend under threat of deportation",
+          "location": "Blount County, Alabama",
+          "arrests": "1 arrested",
+          "source": "Trussville Tribune",
+          "url": "https://www.trussvilletribune.com/2026/09/01/jefferson-county-deputy-charged-with-rape-human-trafficking-in-blount-county/",
+          "body": "Blount County authorities arrested Jefferson County sheriff's deputy Robert Nicholas Lisle, 47, on Sept. 1 on charges of second-degree human trafficking, first-degree rape and unlawful imprisonment. Investigators say Lisle threatened to report his girlfriend to immigration authorities to coerce her into sexual servitude between July and August, including a forcible rape on July 15. He has been placed on leave from the Jefferson County Sheriff's Office pending an internal investigation."
+        },
+        {
+          "headline": "New York woman charged with running a Pennsylvania massage parlor as a trafficking operation",
+          "location": "North Londonderry Township, Pennsylvania",
+          "arrests": "1 charged",
+          "source": "FOX43",
+          "url": "https://www.fox43.com/article/news/crime/na-wei-arrest-prostitution-human-trafficking-lebanon-detectives-bureau-palmyra/521-41d474a7-bc44-4bf6-973d-e6e863692fe9",
+          "body": "The Lebanon County Human Trafficking Task Force charged Na Wei, 41, of Rochester, New York, on Sept. 3 with human trafficking, involuntary servitude and corrupt organizations following an investigation of the New Venus Spa in North Londonderry Township. Investigators say Wei required workers to perform sex acts for money on a seven-day schedule and threatened to fire anyone who refused. The spa is the fifth illicit massage business the task force has shut down in the past ten months."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Brazilian police investigate ring accused of selling an infant across the border into Paraguay",
+          "location": "Foz do Iguaçu, Brazil",
+          "source": "SOT",
+          "url": "https://sot.inf.br/noticia/59392/pf-deflagra-operacao-em-foz-do-iguacu-para-investigar-trafico-internacional-de-bebe-de-cinco-meses",
+          "body": "Brazil's Federal Police opened \"Operação Repatriar\" on Sept. 4, serving three search warrants in Foz do Iguaçu after a five-month-old baby was allegedly sold and taken into Paraguay in late August as part of what investigators believe is an illegal-adoption trafficking scheme, with part of the payment reportedly made through Brazil's Pix instant-payment system. The infant has since been located and returned, and police are investigating whether a wider network is involved in placing Brazilian children abroad.",
+          "recovered": [
+            {"victims": 1, "minors": 1, "place": "Brazil"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
