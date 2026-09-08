@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-08",
+  "window": "The 24 hours to 8 September 2026, plus a slower-breaking court ruling search indexes surfaced late.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Nigerian police dismantle a child-trafficking ring spanning three states, recovering 19 people",
+          "victims": "19 recovered · 17 minors",
+          "location": "Oyo, Ogun and Delta states, Nigeria",
+          "arrests": "7 arrested",
+          "source": "Vanguard",
+          "url": "https://www.vanguardngr.com/2026/09/police-bust-child-trafficking-syndicate-in-oyo-rescue-17-children/",
+          "body": "Police in Nigeria's Oyo State say they have broken up a ring that stole children from churches, parties and other gatherings and sold them, recovering 17 children and two pregnant young women from suspects' custody across Oyo, Ogun and Delta states and arresting seven people. The investigation began after a 3-year-old went missing from a festival in Oyo town in late June; police say six other children died while in the traffickers' custody and are examining unconfirmed claims that the bodies were passed to people involved in ritual practices.",
+          "recovered": [
+            {
+              "victims": 19,
+              "minors": 17,
+              "arrests": 7,
+              "place": "Nigeria"
+            }
+          ]
+        },
+        {
+          "headline": "Peruvian police free 18 people from a Juliaca ring posing as an escort service",
+          "victims": "18 recovered",
+          "location": "Juliaca, Peru",
+          "arrests": "5 arrested",
+          "source": "Los Andes",
+          "url": "https://losandes.com.pe/desarticulan-banda-de-trata-de-personas-y-rescatan-a-18-personas-en-juliaca/",
+          "body": "Police in the southern Peruvian city of Juliaca raided a network known as \"Los Fuertes del Totoral\" on September 7, recovering 18 adults who prosecutors suspect were being trafficked for commercial sex under the cover of paid companionship work. Five suspects, four men and a woman, were arrested, and the case was referred to prosecutors' human-trafficking division.",
+          "recovered": [
+            {
+              "victims": 18,
+              "arrests": 5,
+              "place": "Peru"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": []
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Philippine Supreme Court rules trafficking victims can't sign away their own cases",
+          "location": "Philippines",
+          "source": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/09/02/news/national/trafficking-cases-endure-despite-victims-withdrawal-court/2416334",
+          "body": "The Philippine Supreme Court upheld the life sentence of a woman convicted of trafficking a 13-year-old girl for commercial sex, ruling that a signed affidavit withdrawing a trafficking complaint cannot be used to dismiss the case. The court called such affidavits \"highly suspect,\" especially from child victims, after evidence showed the girl in this case had been paid to sign hers before reaffirming her original testimony at trial."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
