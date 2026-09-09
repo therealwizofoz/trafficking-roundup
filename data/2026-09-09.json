@@ -1,0 +1,82 @@
+{
+  "date": "2026-09-09",
+  "window": "The 24 hours to 9 September 2026, plus two slower-breaking cases search indexes surfaced late: an Ohio missing-children operation and a Spanish-Colombian labor-trafficking case that took years to build but were announced this week.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Operation Meridian recovers 79 missing and endangered children across Ohio",
+          "victims": "79 recovered · mixed missing-child cases",
+          "location": "Ohio",
+          "source": "U.S. Marshals Service",
+          "url": "https://www.usmarshals.gov/news/press-release/operation-meridian-concludes-79-reported-missing-children-found",
+          "body": "The U.S. Marshals Service and more than 30 federal, state and local partners spent August running Operation Meridian, locating 79 children ages 6 to 17 who had been reported missing or endangered across Ohio, in what officials called the largest such operation in the state's history. The cases spanned suspected sex trafficking, abuse, neglect and runaways; in Toledo, a 16-year-old was found with an adult man now under investigation for possible trafficking, while in Lockbourne, a 13-year-old missing since 2024 was found hidden in a basement crawlspace."
+        },
+        {
+          "headline": "Bangladesh's RAB intercepts a group staged for a trafficking voyage to Malaysia",
+          "victims": "5 recovered",
+          "location": "Teknaf, Cox's Bazar, Bangladesh",
+          "arrests": "None; suspects fled",
+          "source": "The Business Standard",
+          "url": "https://www.tbsnews.net/bangladesh/rab-rescues-5-people-gathered-trafficking-malaysia-sea-teknaf-1535581",
+          "body": "Bangladesh's Rapid Action Battalion rescued five people before dawn on September 7 from a coastal village in Teknaf after a tip that they had been gathered for a boat crossing to Malaysia. The suspected traffickers ran before they could be caught, and the five were handed to local police to be reunited with their families.",
+          "recovered": [
+            {
+              "victims": 5,
+              "place": "Bangladesh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Final defendant in a South Carolina teen sex-trafficking ring sentenced to 25 years",
+          "location": "Columbia, South Carolina",
+          "arrests": "Last of 4 defendants sentenced",
+          "source": "U.S. Attorney's Office, District of South Carolina",
+          "url": "https://www.justice.gov/usao-sc/pr/final-defendant-child-sex-trafficking-ring-sentenced-25-years-federal-prison",
+          "body": "A federal judge in Columbia sentenced Antonio Marquis Nicholson to 25 years for leading a ring that trafficked three teenage girls, among them a runaway and two high school students, for commercial sex across South Carolina, Georgia and North Carolina in 2022 and 2023. He is the last of four defendants sentenced in the case; the victims were recovered in an earlier rescue operation, not this week."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Decatur County, Indiana buyer sting charges four out-of-state men with soliciting a minor",
+          "location": "Decatur County, Indiana",
+          "arrests": "4 charged",
+          "source": "Decatur County Prosecutor's Office",
+          "url": "https://www.812noww.com/post/4-jailed-after-human-trafficking-operation-in-greensburg",
+          "body": "The Greensburg Police Department and Decatur County Sheriff's Office arrested four men from Ohio and Kentucky in an undercover sting targeting adults seeking to buy sex from minors, after officers trained specifically on identifying trafficking cases. All four face felony child-solicitation and human-trafficking-promotion charges."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Spanish and Colombian police close a years-long case exploiting Colombians as hospitality workers",
+          "location": "Tarragona and Madrid, Spain; Bogotá, Colombia",
+          "arrests": "30 arrested across the case",
+          "source": "Spain's Ministry of the Interior",
+          "url": "https://www.moncloa.com/2026/09/08/policia-nacional-trata-30-detenidos-3427903",
+          "body": "Spain's National Police and Civil Guard, working with Colombian police, announced the close of a nearly two-year case against a network that recruited vulnerable Colombians with false promises of academic and internship programs, then used manufactured debt to trap them in bar and hotel jobs in Tarragona and Madrid. Arrest phases in 2024, 2025 and this month brought the total to 30 people arrested and 57 victims identified; the final arrests, of organizers in Tarragona and Bogotá, were announced this week."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
