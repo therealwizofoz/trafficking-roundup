@@ -1,0 +1,64 @@
+{
+  "date": "2026-09-10",
+  "window": "The 24 hours to 10 September 2026, plus a Brazilian labor-rescue tally for August and a Brooklyn state indictment that search indexes surfaced a day or two late, published 9 and 8 September respectively.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Brazilian labor task force frees 479 workers, including 13 children, from slavery-like conditions",
+          "victims": "479 recovered · 13 minors",
+          "location": "Brazil",
+          "source": "Ministério Público do Trabalho",
+          "url": "https://racismoambiental.net.br/2026/09/09/operacao-resgate-2026-quase-500-trabalhadores-vitimas-de-trabalho-analogo-ao-escravo-sao-resgatados-no-mes-de-agosto/",
+          "body": "Brazil's federal labor task force ran 231 inspections across 27 states in August under Operacão Resgate VI, freeing 479 people from work prosecutors described as analogous to slavery, most in agriculture and construction and with the largest single cluster — 208 people — in Minas Gerais. Thirteen of those freed were children or teenagers, and inspectors also identified 66 migrant workers from elsewhere in South America and from West Africa; regulators issued roughly 1,800 violation notices and shut down 28 work sites.",
+          "recovered": [
+            {
+              "victims": 479,
+              "minors": 13,
+              "place": "Brazil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Two Brooklyn residents indicted after FBI recovered a missing teen advertised for sex from a Newark hotel",
+          "location": "Brooklyn, New York",
+          "arrests": "2 charged",
+          "source": "Brooklyn District Attorney's Office",
+          "url": "https://www.brooklynda.org/2026/09/08/brooklyn-man-indicted-for-alleged-sex-trafficking-of-teenager/",
+          "body": "Kings County prosecutors indicted Carlton Foster, 38, and Jaeandrea Herriot, 19, on charges that include sex trafficking of a child and promoting prostitution, saying the pair advertised a 16-year-old who had run away from a group home for commercial sex starting in March. The National Center for Missing & Exploited Children flagged the ads to the FBI, which recovered the teenager from a hotel room in Newark, New Jersey, in May; the case reached indictment this month."
+        },
+        {
+          "headline": "New Orleans police charge two in a trafficking scheme spanning the city and Mississippi, appeal for more victims",
+          "location": "New Orleans, Louisiana",
+          "arrests": "2 charged",
+          "source": "Hoodline / NOPD",
+          "url": "https://hoodline.com/2026/09/nopd-announces-arrests-in-human-trafficking-probe-involving-multiple-victims/",
+          "body": "New Orleans police, working with the U.S. Marshals Service and the district attorney's Special Victims Unit under an initiative called Operation Safe Voice, arrested Marcus Davis, 22, and Renee Schulze, 28, on sex-trafficking and related charges. Investigators say the two did not work together but preyed on and repeatedly victimized some of the same people across New Orleans and into Mississippi, and are now asking additional survivors and witnesses to come forward."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}

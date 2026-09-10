@@ -1,92 +1,60 @@
 {
- "date": "2026-09-09",
- "dateLabel": "Wednesday, September 9, 2026",
- "window": "The 24 hours to 9 September 2026, plus two slower-breaking cases search indexes surfaced late: an Ohio missing-children operation and a Spanish-Colombian labor-trafficking case that took years to build but were announced this week.",
+ "date": "2026-09-10",
+ "dateLabel": "Thursday, September 10, 2026",
+ "window": "The 24 hours to 10 September 2026, plus a Brazilian labor-rescue tally for August and a Brooklyn state indictment that search indexes surfaced a day or two late, published 9 and 8 September respectively.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 5,
+ "storyCount": 3,
  "yearToDate": {
   "year": "2026",
-  "victims": 2012,
-  "minors": 1248,
+  "victims": 2491,
+  "minors": 1261,
   "arrests": 1138
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 2
-  },
-  {
-   "id": "federal",
-   "name": "National / Federal (US)",
    "count": 1
   },
   {
    "id": "local",
    "name": "Local & State Cases",
-   "count": 1
-  },
-  {
-   "id": "world",
-   "name": "International",
-   "count": 1
+   "count": 2
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Operation Meridian recovers 79 missing and endangered children across Ohio",
-   "summary": "The U.S. Marshals Service and more than 30 federal, state and local partners spent August running Operation Meridian, locating 79 children ages 6 to 17 who had been reported…",
-   "location": "Ohio",
-   "victims": "79 recovered · mixed missing-child cases",
+   "headline": "Brazilian labor task force frees 479 workers, including 13 children, from slavery-like conditions",
+   "summary": "Brazil's federal labor task force ran 231 inspections across 27 states in August under Operacão Resgate VI, freeing 479 people from work prosecutors described as analogous to…",
+   "location": "Brazil",
+   "victims": "479 recovered · 13 minors",
    "arrests": "",
-   "source": "U.S. Marshals Service",
-   "url": "https://www.usmarshals.gov/news/press-release/operation-meridian-concludes-79-reported-missing-children-found"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Bangladesh's RAB intercepts a group staged for a trafficking voyage to Malaysia",
-   "summary": "Bangladesh's Rapid Action Battalion rescued five people before dawn on September 7 from a coastal village in Teknaf after a tip that they had been gathered for a boat crossing to…",
-   "location": "Teknaf, Cox's Bazar, Bangladesh",
-   "victims": "5 recovered",
-   "arrests": "None; suspects fled",
-   "source": "The Business Standard",
-   "url": "https://www.tbsnews.net/bangladesh/rab-rescues-5-people-gathered-trafficking-malaysia-sea-teknaf-1535581"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Final defendant in a South Carolina teen sex-trafficking ring sentenced to 25 years",
-   "summary": "A federal judge in Columbia sentenced Antonio Marquis Nicholson to 25 years for leading a ring that trafficked three teenage girls, among them a runaway and two high school…",
-   "location": "Columbia, South Carolina",
-   "victims": "",
-   "arrests": "Last of 4 defendants sentenced",
-   "source": "U.S. Attorney's Office, District of South Carolina",
-   "url": "https://www.justice.gov/usao-sc/pr/final-defendant-child-sex-trafficking-ring-sentenced-25-years-federal-prison"
+   "source": "Ministério Público do Trabalho",
+   "url": "https://racismoambiental.net.br/2026/09/09/operacao-resgate-2026-quase-500-trabalhadores-vitimas-de-trabalho-analogo-ao-escravo-sao-resgatados-no-mes-de-agosto/"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Decatur County, Indiana buyer sting charges four out-of-state men with soliciting a minor",
-   "summary": "The Greensburg Police Department and Decatur County Sheriff's Office arrested four men from Ohio and Kentucky in an undercover sting targeting adults seeking to buy sex from…",
-   "location": "Decatur County, Indiana",
+   "headline": "Two Brooklyn residents indicted after FBI recovered a missing teen advertised for sex from a Newark hotel",
+   "summary": "Kings County prosecutors indicted Carlton Foster, 38, and Jaeandrea Herriot, 19, on charges that include sex trafficking of a child and promoting prostitution, saying the pair…",
+   "location": "Brooklyn, New York",
    "victims": "",
-   "arrests": "4 charged",
-   "source": "Decatur County Prosecutor's Office",
-   "url": "https://www.812noww.com/post/4-jailed-after-human-trafficking-operation-in-greensburg"
+   "arrests": "2 charged",
+   "source": "Brooklyn District Attorney's Office",
+   "url": "https://www.brooklynda.org/2026/09/08/brooklyn-man-indicted-for-alleged-sex-trafficking-of-teenager/"
   },
   {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Spanish and Colombian police close a years-long case exploiting Colombians as hospitality workers",
-   "summary": "Spain's National Police and Civil Guard, working with Colombian police, announced the close of a nearly two-year case against a network that recruited vulnerable Colombians with…",
-   "location": "Tarragona and Madrid, Spain; Bogotá, Colombia",
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "New Orleans police charge two in a trafficking scheme spanning the city and Mississippi, appeal for more victims",
+   "summary": "New Orleans police, working with the U.S. Marshals Service and the district attorney's Special Victims Unit under an initiative called Operation Safe Voice, arrested Marcus Davis…",
+   "location": "New Orleans, Louisiana",
    "victims": "",
-   "arrests": "30 arrested across the case",
-   "source": "Spain's Ministry of the Interior",
-   "url": "https://www.moncloa.com/2026/09/08/policia-nacional-trata-30-detenidos-3427903"
+   "arrests": "2 charged",
+   "source": "Hoodline / NOPD",
+   "url": "https://hoodline.com/2026/09/nopd-announces-arrests-in-human-trafficking-probe-involving-multiple-victims/"
   }
  ]
 }
