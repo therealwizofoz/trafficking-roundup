@@ -1,60 +1,120 @@
 {
- "date": "2026-09-10",
- "dateLabel": "Thursday, September 10, 2026",
- "window": "The 24 hours to 10 September 2026, plus a Brazilian labor-rescue tally for August and a Brooklyn state indictment that search indexes surfaced a day or two late, published 9 and 8 September respectively.",
+ "date": "2026-09-11",
+ "dateLabel": "Friday, September 11, 2026",
+ "window": "The 24 hours to 11 September 2026, plus a Minnesota recovery operation from late August and a Brazilian rescue from 9 September that search indexes surfaced a day or two late.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 3,
+ "storyCount": 8,
  "yearToDate": {
   "year": "2026",
-  "victims": 2491,
+  "victims": 2528,
   "minors": 1261,
-  "arrests": 1138
+  "arrests": 1150
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 1
+   "count": 4
   },
   {
    "id": "local",
    "name": "Local & State Cases",
-   "count": 2
+   "count": 3
+  },
+  {
+   "id": "ongoing",
+   "name": "Ongoing Cases with New Developments",
+   "count": 1
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Brazilian labor task force frees 479 workers, including 13 children, from slavery-like conditions",
-   "summary": "Brazil's federal labor task force ran 231 inspections across 27 states in August under Operacão Resgate VI, freeing 479 people from work prosecutors described as analogous to…",
-   "location": "Brazil",
-   "victims": "479 recovered · 13 minors",
+   "headline": "Minnesota task force identifies 18 trafficking victims in a Bloomington recovery operation",
+   "summary": "A multi-agency operation in Bloomington on August 26-27, run by Bloomington police with Minnesota's Bureau of Criminal Apprehension, the Hennepin and Dakota County sheriff's…",
+   "location": "Bloomington, Minnesota",
+   "victims": "18 recovered",
+   "arrests": "2 charged",
+   "source": "Star Tribune",
+   "url": "https://www.startribune.com/two-arrested-in-sweeping-human-trafficking-operation-in-bloomington-involving-18-victims/601888092"
+  },
+  {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Peruvian police free 10 women lured to Arequipa nightclubs with fake job offers",
+   "summary": "Peruvian investigators raided a trafficking network before dawn on September 10 and rescued 10 women from Peru, Venezuela, Cuba and Paraguay who prosecutors say were recruited…",
+   "location": "Camaná, Arequipa, Peru",
+   "victims": "10 recovered",
+   "arrests": "4 arrested",
+   "source": "Diario Correo",
+   "url": "https://diariocorreo.pe/edicion/arequipa/trata-de-personas-en-arequipa-detienen-a-4-personas-y-rescatan-a-10-posibles-victimas-en-camana-noticia/"
+  },
+  {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Mexican authorities free eight men held to treat wounded cartel fighters at a hidden Jalisco clinic",
+   "summary": "Jalisco state prosecutors, backed by the National Guard and the army, raided a ranch in Tecalitlán on September 10 and found eight men, ages 16 to 43 and from five different…",
+   "location": "Tecalitlán, Jalisco, Mexico",
+   "victims": "8 recovered",
+   "arrests": "6 detained",
+   "source": "El Financiero",
+   "url": "https://www.elfinanciero.com.mx/estados/2026/09/10/hallan-hospital-clandestino-del-cjng-en-tecalitlan-rescatan-a-ocho-personas/"
+  },
+  {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Brazilian federal police free a Paraguayan woman held for sexual exploitation in Paraná",
+   "summary": "Acting on a tip from Paraguay's national police, Brazil's Federal Police, a state anti-organized-crime task force and military police freed a Paraguayan woman on September 9 who…",
+   "location": "Marechal Cândido Rondon, Paraná, Brazil",
+   "victims": "1 recovered",
    "arrests": "",
-   "source": "Ministério Público do Trabalho",
-   "url": "https://racismoambiental.net.br/2026/09/09/operacao-resgate-2026-quase-500-trabalhadores-vitimas-de-trabalho-analogo-ao-escravo-sao-resgatados-no-mes-de-agosto/"
+   "source": "Polícia Federal",
+   "url": "https://www.matogrossomaisnoticias.com.br/policia-federal/pf-em-acao-conjunta-resgata-paraguaia-em-marechal-candido-rondon-pr/"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Two Brooklyn residents indicted after FBI recovered a missing teen advertised for sex from a Newark hotel",
-   "summary": "Kings County prosecutors indicted Carlton Foster, 38, and Jaeandrea Herriot, 19, on charges that include sex trafficking of a child and promoting prostitution, saying the pair…",
-   "location": "Brooklyn, New York",
+   "headline": "Minneapolis-area hotel raids net 23 arrests in a year-long sex-trafficking and gun investigation",
+   "summary": "Brooklyn Center police, the Hennepin County Sheriff's Office and federal partners including the FBI raided four hotels on September 9 after a year-long investigation into…",
+   "location": "Brooklyn Center, Minnesota",
    "victims": "",
-   "arrests": "2 charged",
-   "source": "Brooklyn District Attorney's Office",
-   "url": "https://www.brooklynda.org/2026/09/08/brooklyn-man-indicted-for-alleged-sex-trafficking-of-teenager/"
+   "arrests": "23 arrested",
+   "source": "MPR News",
+   "url": "https://www.mprnews.org/story/2026/09/09/nearly-two-dozen-arrested-in-brooklyn-center-human-trafficking-investigation"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "New Orleans police charge two in a trafficking scheme spanning the city and Mississippi, appeal for more victims",
-   "summary": "New Orleans police, working with the U.S. Marshals Service and the district attorney's Special Victims Unit under an initiative called Operation Safe Voice, arrested Marcus Davis…",
-   "location": "New Orleans, Louisiana",
+   "headline": "Tennessee massage-parlor raid finds unlawfully present workers, seizes $104,000",
+   "summary": "Columbia police, the Tennessee Bureau of Investigation, the state's Human Trafficking Task Force and ICE searched two massage businesses on September 10 after a months-long…",
+   "location": "Columbia, Tennessee",
    "victims": "",
    "arrests": "2 charged",
-   "source": "Hoodline / NOPD",
-   "url": "https://hoodline.com/2026/09/nopd-announces-arrests-in-human-trafficking-probe-involving-multiple-victims/"
+   "source": "WSMV",
+   "url": "https://www.wsmv.com/2026/09/10/2-arrested-more-than-100k-seized-massage-parlor-investigation-operations-targeting-prostitution-human-trafficking-continue-tennessee/"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Jacksonville sting arrests 18 men seeking to pay for sex in a demand-reduction operation",
+   "summary": "The Jacksonville Sheriff's Office Vice Unit ran a three-day undercover sting called Operation Back to School, monitoring websites known for solicitation and arresting men who…",
+   "location": "Jacksonville, Florida",
+   "victims": "",
+   "arrests": "18 arrested",
+   "source": "News4Jax",
+   "url": "https://www.news4jax.com/news/local/2026/09/11/jso-nabs-18-arrests-in-undercover-sting-targeting-prostitution-human-trafficking-demand/"
+  },
+  {
+   "section": "ongoing",
+   "sectionName": "Ongoing Cases with New Developments",
+   "headline": "US judge keeps Andrew and Tristan Tate in custody as they fight UK extradition alongside Romanian trafficking case",
+   "summary": "Days after Romanian prosecutors indicted Andrew and Tristan Tate on charges of trafficking minors and money laundering, a US judge ruled on September 9 that the brothers must…",
+   "location": "United States",
+   "victims": "",
+   "arrests": "",
+   "source": "CNN",
+   "url": "https://www.cnn.com/2026/09/09/us/tate-brothers-remain-custody"
   }
  ]
 }

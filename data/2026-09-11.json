@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-11",
+  "window": "The 24 hours to 11 September 2026, plus a Minnesota recovery operation from late August and a Brazilian rescue from 9 September that search indexes surfaced a day or two late.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Minnesota task force identifies 18 trafficking victims in a Bloomington recovery operation",
+          "victims": "18 recovered",
+          "location": "Bloomington, Minnesota",
+          "arrests": "2 charged",
+          "source": "Star Tribune",
+          "url": "https://www.startribune.com/two-arrested-in-sweeping-human-trafficking-operation-in-bloomington-involving-18-victims/601888092",
+          "body": "A multi-agency operation in Bloomington on August 26-27, run by Bloomington police with Minnesota's Bureau of Criminal Apprehension, the Hennepin and Dakota County sheriff's offices, the FBI and several south-metro departments, identified 18 people believed to be victims of trafficking or exploitation, three of whom asked for further support services. Two men, ages 40 and 50, were arrested on suspicion of driving the victims to meet buyers and face promoting-prostitution charges, and police said the operation is the start of a regional trafficking task force.",
+          "recovered": [
+            {
+              "victims": 18,
+              "arrests": 2,
+              "place": "Minnesota"
+            }
+          ]
+        },
+        {
+          "headline": "Peruvian police free 10 women lured to Arequipa nightclubs with fake job offers",
+          "victims": "10 recovered",
+          "location": "Camaná, Arequipa, Peru",
+          "arrests": "4 arrested",
+          "source": "Diario Correo",
+          "url": "https://diariocorreo.pe/edicion/arequipa/trata-de-personas-en-arequipa-detienen-a-4-personas-y-rescatan-a-10-posibles-victimas-en-camana-noticia/",
+          "body": "Peruvian investigators raided a trafficking network before dawn on September 10 and rescued 10 women from Peru, Venezuela, Cuba and Paraguay who prosecutors say were recruited with false job offers and then forced into commercial sex work at nightclubs in Arequipa. Four suspects were arrested, two of whom had prior records for promoting prostitution, and the case is now with the region's specialized human-trafficking prosecutor.",
+          "recovered": [
+            {
+              "victims": 10,
+              "arrests": 4,
+              "place": "Peru"
+            }
+          ]
+        },
+        {
+          "headline": "Mexican authorities free eight men held to treat wounded cartel fighters at a hidden Jalisco clinic",
+          "victims": "8 recovered",
+          "location": "Tecalitlán, Jalisco, Mexico",
+          "arrests": "6 detained",
+          "source": "El Financiero",
+          "url": "https://www.elfinanciero.com.mx/estados/2026/09/10/hallan-hospital-clandestino-del-cjng-en-tecalitlan-rescatan-a-ocho-personas/",
+          "body": "Jalisco state prosecutors, backed by the National Guard and the army, raided a ranch in Tecalitlán on September 10 and found eight men, ages 16 to 43 and from five different states, being held against their will at a property outfitted to give medical care to wounded Jalisco New Generation Cartel members. Six suspects were detained on human-trafficking and forced-disappearance charges; investigators reached the ranch while tracing a young man who had vanished after a fake job offer in July.",
+          "recovered": [
+            {
+              "victims": 8,
+              "arrests": 6,
+              "place": "Mexico"
+            }
+          ]
+        },
+        {
+          "headline": "Brazilian federal police free a Paraguayan woman held for sexual exploitation in Paraná",
+          "victims": "1 recovered",
+          "location": "Marechal Cândido Rondon, Paraná, Brazil",
+          "source": "Polícia Federal",
+          "url": "https://www.matogrossomaisnoticias.com.br/policia-federal/pf-em-acao-conjunta-resgata-paraguaia-em-marechal-candido-rondon-pr/",
+          "body": "Acting on a tip from Paraguay's national police, Brazil's Federal Police, a state anti-organized-crime task force and military police freed a Paraguayan woman on September 9 who had been held against her will and subjected to sexual exploitation at a commercial establishment in Marechal Cândido Rondon. No arrests were announced; the investigation, which began with a lead out of Minas Gerais, continues.",
+          "recovered": [
+            {
+              "victims": 1,
+              "place": "Brazil"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Minneapolis-area hotel raids net 23 arrests in a year-long sex-trafficking and gun investigation",
+          "location": "Brooklyn Center, Minnesota",
+          "arrests": "23 arrested",
+          "source": "MPR News",
+          "url": "https://www.mprnews.org/story/2026/09/09/nearly-two-dozen-arrested-in-brooklyn-center-human-trafficking-investigation",
+          "body": "Brooklyn Center police, the Hennepin County Sheriff's Office and federal partners including the FBI raided four hotels on September 9 after a year-long investigation into suspected sex trafficking, drug trafficking and gun crimes; two of the hotels alone had generated more than 2,200 police calls since January 2025. Officers arrested 23 people on charges including promoting prostitution, sex trafficking, drug offenses and firearm possession, and recovered seven guns, about a pound and a half of drugs and roughly $9,000 in cash; police did not release a count of suspected trafficking victims."
+        },
+        {
+          "headline": "Tennessee massage-parlor raid finds unlawfully present workers, seizes $104,000",
+          "location": "Columbia, Tennessee",
+          "arrests": "2 charged",
+          "source": "WSMV",
+          "url": "https://www.wsmv.com/2026/09/10/2-arrested-more-than-100k-seized-massage-parlor-investigation-operations-targeting-prostitution-human-trafficking-continue-tennessee/",
+          "body": "Columbia police, the Tennessee Bureau of Investigation, the state's Human Trafficking Task Force and ICE searched two massage businesses on September 10 after a months-long investigation, part of a broader statewide sweep with related warrants served in eight other Tennessee cities. Officers arrested two people on prostitution-related charges, seized more than $104,000 and identified three workers who were unlawfully present in the country, though no trafficking-victim count was released."
+        },
+        {
+          "headline": "Jacksonville sting arrests 18 men seeking to pay for sex in a demand-reduction operation",
+          "location": "Jacksonville, Florida",
+          "arrests": "18 arrested",
+          "source": "News4Jax",
+          "url": "https://www.news4jax.com/news/local/2026/09/11/jso-nabs-18-arrests-in-undercover-sting-targeting-prostitution-human-trafficking-demand/",
+          "body": "The Jacksonville Sheriff's Office Vice Unit ran a three-day undercover sting called Operation Back to School, monitoring websites known for solicitation and arresting men who arrived at a hotel expecting to pay for sex. JSO said the operation targets the demand side of the market that fuels trafficking and exploitation."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": [
+        {
+          "headline": "US judge keeps Andrew and Tristan Tate in custody as they fight UK extradition alongside Romanian trafficking case",
+          "location": "United States",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/09/09/us/tate-brothers-remain-custody",
+          "body": "Days after Romanian prosecutors indicted Andrew and Tristan Tate on charges of trafficking minors and money laundering, a US judge ruled on September 9 that the brothers must remain in custody in the United States while they contest an extradition request from the United Kingdom, which wants them to face separate rape charges. Both cases continue in parallel; the Tates deny all wrongdoing."
+        }
+      ]
+    }
+  ]
+}
