@@ -1,14 +1,14 @@
 {
- "date": "2026-09-11",
- "dateLabel": "Friday, September 11, 2026",
- "window": "The 24 hours to 11 September 2026, plus a Minnesota recovery operation from late August and a Brazilian rescue from 9 September that search indexes surfaced a day or two late.",
+ "date": "2026-09-12",
+ "dateLabel": "Saturday, September 12, 2026",
+ "window": "The 24 hours to 12 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 8,
+ "storyCount": 7,
  "yearToDate": {
   "year": "2026",
-  "victims": 2528,
-  "minors": 1261,
-  "arrests": 1150
+  "victims": 2538,
+  "minors": 1268,
+  "arrests": 1166
  },
  "sectionCounts": [
   {
@@ -17,9 +17,9 @@
    "count": 4
   },
   {
-   "id": "local",
-   "name": "Local & State Cases",
-   "count": 3
+   "id": "federal",
+   "name": "National / Federal (US)",
+   "count": 2
   },
   {
    "id": "ongoing",
@@ -31,90 +31,79 @@
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Minnesota task force identifies 18 trafficking victims in a Bloomington recovery operation",
-   "summary": "A multi-agency operation in Bloomington on August 26-27, run by Bloomington police with Minnesota's Bureau of Criminal Apprehension, the Hennepin and Dakota County sheriff's…",
-   "location": "Bloomington, Minnesota",
-   "victims": "18 recovered",
-   "arrests": "2 charged",
-   "source": "Star Tribune",
-   "url": "https://www.startribune.com/two-arrested-in-sweeping-human-trafficking-operation-in-bloomington-involving-18-victims/601888092"
+   "headline": "Oklahoma trafficking unit's training exercise turns into a real rescue near Guthrie",
+   "summary": "A training session the Oklahoma Attorney General's Human Trafficking Response Unit ran with Guthrie police, the Logan County Sheriff's Office and two neighboring departments led…",
+   "location": "Guthrie, Oklahoma",
+   "victims": "3 recovered",
+   "arrests": "5 arrested",
+   "source": "Guthrie News Page",
+   "url": "https://guthrienewspage.com/five-arrested-in-human-trafficking-operation-three-victims-recovered/"
   },
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Peruvian police free 10 women lured to Arequipa nightclubs with fake job offers",
-   "summary": "Peruvian investigators raided a trafficking network before dawn on September 10 and rescued 10 women from Peru, Venezuela, Cuba and Paraguay who prosecutors say were recruited…",
-   "location": "Camaná, Arequipa, Peru",
-   "victims": "10 recovered",
-   "arrests": "4 arrested",
-   "source": "Diario Correo",
-   "url": "https://diariocorreo.pe/edicion/arequipa/trata-de-personas-en-arequipa-detienen-a-4-personas-y-rescatan-a-10-posibles-victimas-en-camana-noticia/"
+   "headline": "Assam-Arunachal police break up a ring moving children into domestic servitude, freeing three girls",
+   "summary": "Police recovered three minor girls, the youngest age seven, from an inter-state trafficking network that brought children from Assam into Arunachal Pradesh to work as unpaid…",
+   "location": "Itanagar, Arunachal Pradesh, India",
+   "victims": "3 recovered · 3 minors",
+   "arrests": "6 arrested",
+   "source": "The Assam Tribune",
+   "url": "https://assamtribune.com/north-east/three-minor-girls-rescued-six-held-in-arunachal-trafficking-racket-1608085"
   },
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Mexican authorities free eight men held to treat wounded cartel fighters at a hidden Jalisco clinic",
-   "summary": "Jalisco state prosecutors, backed by the National Guard and the army, raided a ranch in Tecalitlán on September 10 and found eight men, ages 16 to 43 and from five different…",
-   "location": "Tecalitlán, Jalisco, Mexico",
-   "victims": "8 recovered",
-   "arrests": "6 detained",
-   "source": "El Financiero",
-   "url": "https://www.elfinanciero.com.mx/estados/2026/09/10/hallan-hospital-clandestino-del-cjng-en-tecalitlan-rescatan-a-ocho-personas/"
+   "headline": "Ogun State police free three children from an alleged child-trafficking gang",
+   "summary": "Detectives in Ibafo arrested a woman on suspicion of child theft, and following her arrest located two accomplices and freed three children, ages 12 to 16, who police say had been…",
+   "location": "Ibafo, Ogun State, Nigeria",
+   "victims": "3 recovered · 3 minors",
+   "arrests": "3 arrested",
+   "source": "Gazette NGR",
+   "url": "https://gazettengr.com/ogun-police-nab-child-traffickers-rescue-three-children-in-ibafo/"
   },
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Brazilian federal police free a Paraguayan woman held for sexual exploitation in Paraná",
-   "summary": "Acting on a tip from Paraguay's national police, Brazil's Federal Police, a state anti-organized-crime task force and military police freed a Paraguayan woman on September 9 who…",
-   "location": "Marechal Cândido Rondon, Paraná, Brazil",
-   "victims": "1 recovered",
+   "headline": "California task force recovers a trafficked 16-year-old from a Bay Area motel",
+   "summary": "Stanislaus County's Human Exploitation and Trafficking Task Force arrested two 18-year-old men on September 8 after an investigation that began five days earlier, recovering a…",
+   "location": "Oakland, California",
+   "victims": "1 recovered · 1 minor",
+   "arrests": "2 arrested",
+   "source": "Cedar News",
+   "url": "https://cedarnews.net/newstasks/977488/two-stanislaus-county-18-year-olds-arrested/"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Three men plead guilty to running a Baton Rouge-area forced prostitution ring",
+   "summary": "A Mexican national pleaded guilty to sex trafficking by force, fraud or coercion, and a Guatemalan and a second Mexican national pleaded guilty to conspiracy in the same scheme…",
+   "location": "Baton Rouge, Louisiana",
+   "victims": "",
+   "arrests": "3 pleaded guilty",
+   "source": "U.S. Department of Justice",
+   "url": "https://www.justice.gov/usao-mdla/pr/three-illegal-aliens-plead-guilty-federal-court-sex-trafficking-force-fraud-and"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Treasury and DOJ target the financial network behind a Southeast Asian scam-compound operator",
+   "summary": "The Treasury Department sanctioned Xinbi Guarantee, a Chinese-language online marketplace it says launders proceeds and moves money for scam compounds that traffic workers into…",
+   "location": "United States",
+   "victims": "",
    "arrests": "",
-   "source": "Polícia Federal",
-   "url": "https://www.matogrossomaisnoticias.com.br/policia-federal/pf-em-acao-conjunta-resgata-paraguaia-em-marechal-candido-rondon-pr/"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Minneapolis-area hotel raids net 23 arrests in a year-long sex-trafficking and gun investigation",
-   "summary": "Brooklyn Center police, the Hennepin County Sheriff's Office and federal partners including the FBI raided four hotels on September 9 after a year-long investigation into…",
-   "location": "Brooklyn Center, Minnesota",
-   "victims": "",
-   "arrests": "23 arrested",
-   "source": "MPR News",
-   "url": "https://www.mprnews.org/story/2026/09/09/nearly-two-dozen-arrested-in-brooklyn-center-human-trafficking-investigation"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Tennessee massage-parlor raid finds unlawfully present workers, seizes $104,000",
-   "summary": "Columbia police, the Tennessee Bureau of Investigation, the state's Human Trafficking Task Force and ICE searched two massage businesses on September 10 after a months-long…",
-   "location": "Columbia, Tennessee",
-   "victims": "",
-   "arrests": "2 charged",
-   "source": "WSMV",
-   "url": "https://www.wsmv.com/2026/09/10/2-arrested-more-than-100k-seized-massage-parlor-investigation-operations-targeting-prostitution-human-trafficking-continue-tennessee/"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Jacksonville sting arrests 18 men seeking to pay for sex in a demand-reduction operation",
-   "summary": "The Jacksonville Sheriff's Office Vice Unit ran a three-day undercover sting called Operation Back to School, monitoring websites known for solicitation and arresting men who…",
-   "location": "Jacksonville, Florida",
-   "victims": "",
-   "arrests": "18 arrested",
-   "source": "News4Jax",
-   "url": "https://www.news4jax.com/news/local/2026/09/11/jso-nabs-18-arrests-in-undercover-sting-targeting-prostitution-human-trafficking-demand/"
+   "source": "U.S. Department of the Treasury",
+   "url": "https://home.treasury.gov/news/press-releases/sb0624"
   },
   {
    "section": "ongoing",
    "sectionName": "Ongoing Cases with New Developments",
-   "headline": "US judge keeps Andrew and Tristan Tate in custody as they fight UK extradition alongside Romanian trafficking case",
-   "summary": "Days after Romanian prosecutors indicted Andrew and Tristan Tate on charges of trafficking minors and money laundering, a US judge ruled on September 9 that the brothers must…",
-   "location": "United States",
+   "headline": "Tennessee's Columbia massage-parlor raid was one piece of a 10-arrest statewide sweep",
+   "summary": "The Columbia raid reported September 10, which produced two arrests and a $104,000 seizure, turns out to have been one of seven locations hit the same day in a Tennessee Bureau of…",
+   "location": "Tennessee",
    "victims": "",
-   "arrests": "",
-   "source": "CNN",
-   "url": "https://www.cnn.com/2026/09/09/us/tate-brothers-remain-custody"
+   "arrests": "10 arrested statewide",
+   "source": "WATE",
+   "url": "https://www.wate.com/news/crime/tbi-busts-illegal-massage-spas/"
   }
  ]
 }
