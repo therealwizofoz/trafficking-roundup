@@ -1,9 +1,9 @@
 {
- "date": "2026-09-12",
- "dateLabel": "Saturday, September 12, 2026",
- "window": "The 24 hours to 12 September 2026.",
+ "date": "2026-09-13",
+ "dateLabel": "Sunday, September 13, 2026",
+ "window": "The 24 hours to 13 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 7,
+ "storyCount": 1,
  "yearToDate": {
   "year": "2026",
   "victims": 2538,
@@ -12,98 +12,22 @@
  },
  "sectionCounts": [
   {
-   "id": "rescues",
-   "name": "Victims Recovered",
-   "count": 4
-  },
-  {
-   "id": "federal",
-   "name": "National / Federal (US)",
-   "count": 2
-  },
-  {
-   "id": "ongoing",
-   "name": "Ongoing Cases with New Developments",
+   "id": "local",
+   "name": "Local & State Cases",
    "count": 1
   }
  ],
  "stories": [
   {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Oklahoma trafficking unit's training exercise turns into a real rescue near Guthrie",
-   "summary": "A training session the Oklahoma Attorney General's Human Trafficking Response Unit ran with Guthrie police, the Logan County Sheriff's Office and two neighboring departments led…",
-   "location": "Guthrie, Oklahoma",
-   "victims": "3 recovered",
-   "arrests": "5 arrested",
-   "source": "Guthrie News Page",
-   "url": "https://guthrienewspage.com/five-arrested-in-human-trafficking-operation-three-victims-recovered/"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Assam-Arunachal police break up a ring moving children into domestic servitude, freeing three girls",
-   "summary": "Police recovered three minor girls, the youngest age seven, from an inter-state trafficking network that brought children from Assam into Arunachal Pradesh to work as unpaid…",
-   "location": "Itanagar, Arunachal Pradesh, India",
-   "victims": "3 recovered · 3 minors",
-   "arrests": "6 arrested",
-   "source": "The Assam Tribune",
-   "url": "https://assamtribune.com/north-east/three-minor-girls-rescued-six-held-in-arunachal-trafficking-racket-1608085"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Ogun State police free three children from an alleged child-trafficking gang",
-   "summary": "Detectives in Ibafo arrested a woman on suspicion of child theft, and following her arrest located two accomplices and freed three children, ages 12 to 16, who police say had been…",
-   "location": "Ibafo, Ogun State, Nigeria",
-   "victims": "3 recovered · 3 minors",
-   "arrests": "3 arrested",
-   "source": "Gazette NGR",
-   "url": "https://gazettengr.com/ogun-police-nab-child-traffickers-rescue-three-children-in-ibafo/"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "California task force recovers a trafficked 16-year-old from a Bay Area motel",
-   "summary": "Stanislaus County's Human Exploitation and Trafficking Task Force arrested two 18-year-old men on September 8 after an investigation that began five days earlier, recovering a…",
-   "location": "Oakland, California",
-   "victims": "1 recovered · 1 minor",
-   "arrests": "2 arrested",
-   "source": "Cedar News",
-   "url": "https://cedarnews.net/newstasks/977488/two-stanislaus-county-18-year-olds-arrested/"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Three men plead guilty to running a Baton Rouge-area forced prostitution ring",
-   "summary": "A Mexican national pleaded guilty to sex trafficking by force, fraud or coercion, and a Guatemalan and a second Mexican national pleaded guilty to conspiracy in the same scheme…",
-   "location": "Baton Rouge, Louisiana",
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Savannah man indicted for trafficking a woman with a developmental disability for sex",
+   "summary": "A grand jury indicted 20-year-old Joseph Chequan White on a charge of trafficking a person for sexual servitude, accusing him of providing a woman with a developmental disability…",
+   "location": "Savannah, Georgia",
    "victims": "",
-   "arrests": "3 pleaded guilty",
-   "source": "U.S. Department of Justice",
-   "url": "https://www.justice.gov/usao-mdla/pr/three-illegal-aliens-plead-guilty-federal-court-sex-trafficking-force-fraud-and"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Treasury and DOJ target the financial network behind a Southeast Asian scam-compound operator",
-   "summary": "The Treasury Department sanctioned Xinbi Guarantee, a Chinese-language online marketplace it says launders proceeds and moves money for scam compounds that traffic workers into…",
-   "location": "United States",
-   "victims": "",
-   "arrests": "",
-   "source": "U.S. Department of the Treasury",
-   "url": "https://home.treasury.gov/news/press-releases/sb0624"
-  },
-  {
-   "section": "ongoing",
-   "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Tennessee's Columbia massage-parlor raid was one piece of a 10-arrest statewide sweep",
-   "summary": "The Columbia raid reported September 10, which produced two arrests and a $104,000 seizure, turns out to have been one of seven locations hit the same day in a Tennessee Bureau of…",
-   "location": "Tennessee",
-   "victims": "",
-   "arrests": "10 arrested statewide",
-   "source": "WATE",
-   "url": "https://www.wate.com/news/crime/tbi-busts-illegal-massage-spas/"
+   "arrests": "1 indicted",
+   "source": "WTOC",
+   "url": "https://www.wtoc.com/2026/09/10/20-year-old-accused-trafficking-vulnerable-person-sex/"
   }
  ]
 }

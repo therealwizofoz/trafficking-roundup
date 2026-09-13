@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-13",
+  "window": "The 24 hours to 13 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": []
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Savannah man indicted for trafficking a woman with a developmental disability for sex",
+          "location": "Savannah, Georgia",
+          "arrests": "1 indicted",
+          "source": "WTOC",
+          "url": "https://www.wtoc.com/2026/09/10/20-year-old-accused-trafficking-vulnerable-person-sex/",
+          "body": "A grand jury indicted 20-year-old Joseph Chequan White on a charge of trafficking a person for sexual servitude, accusing him of providing a woman with a developmental disability for sex on June 12, 2026. White, who also has an outstanding hold from neighboring Bryan County, has not entered a plea, and no additional victims or arrests have been reported in the case."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
