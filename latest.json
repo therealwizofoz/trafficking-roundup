@@ -1,33 +1,109 @@
 {
- "date": "2026-09-13",
- "dateLabel": "Sunday, September 13, 2026",
- "window": "The 24 hours to 13 September 2026.",
+ "date": "2026-09-14",
+ "dateLabel": "Monday, September 14, 2026",
+ "window": "The 24 hours to 14 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 1,
+ "storyCount": 7,
  "yearToDate": {
   "year": "2026",
-  "victims": 2538,
-  "minors": 1268,
-  "arrests": 1166
+  "victims": 2550,
+  "minors": 1277,
+  "arrests": 1176
  },
  "sectionCounts": [
   {
-   "id": "local",
-   "name": "Local & State Cases",
+   "id": "rescues",
+   "name": "Victims Recovered",
    "count": 1
+  },
+  {
+   "id": "federal",
+   "name": "National / Federal (US)",
+   "count": 1
+  },
+  {
+   "id": "world",
+   "name": "International",
+   "count": 5
   }
  ],
  "stories": [
   {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Savannah man indicted for trafficking a woman with a developmental disability for sex",
-   "summary": "A grand jury indicted 20-year-old Joseph Chequan White on a charge of trafficking a person for sexual servitude, accusing him of providing a woman with a developmental disability…",
-   "location": "Savannah, Georgia",
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Houston task force recovers 12 trafficking victims, most of them minors, in a Bissonnet Track sweep",
+   "summary": "A multiagency operation led by Homeland Security Investigations, the FBI and Houston police that ran from August 28 to September 7 targeted traffickers working the Bissonnet…",
+   "location": "Houston, Texas",
+   "victims": "12 recovered · 9 minors",
+   "arrests": "10 arrested",
+   "source": "ICE/HSI",
+   "url": "https://www.ice.gov/news/releases/10-human-traffickers-arrested-during-multiagency-operation-targeting-sex-trafficking"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Washington man admits trafficking two 15-year-old girls between Seattle and Portland",
+   "summary": "Dajohntae Rayshawnlee Richard, 26, pleaded guilty in federal court to two counts of sex trafficking by force, fraud and coercion involving two 15-year-old girls.",
+   "location": "Portland, Oregon",
+   "victims": "2 minors",
+   "arrests": "1 pleaded guilty",
+   "source": "US Attorney's Office, District of Oregon",
+   "url": "https://www.justice.gov/usao-or/pr/washington-state-man-pleads-guilty-sex-trafficking-minors"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Thai police raid a Ratchaburi karaoke bar over the alleged prostitution of underage girls",
+   "summary": "Thailand's Human Trafficking Suppression Division raided a karaoke venue in Photharam district, Ratchaburi province, on September 14, arresting three women accused of dressing…",
+   "location": "Ratchaburi, Thailand",
    "victims": "",
-   "arrests": "1 indicted",
-   "source": "WTOC",
-   "url": "https://www.wtoc.com/2026/09/10/20-year-old-accused-trafficking-vulnerable-person-sex/"
+   "arrests": "3 arrested",
+   "source": "Khaosod English",
+   "url": "https://www.khaosodenglish.com/news/2026/09/14/thai-police-arrest-three-over-alleged-child-trafficking/"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Mexican court sentences operator of trafficking website ZonaDivas to 30 years",
+   "summary": "A federal judge in Mexico sentenced Juan Carlos Benavides Cuadros to 30 years in prison for trafficking and aggravated sexual exploitation tied to ZonaDivas, a website that for…",
+   "location": "Mexico City, Mexico",
+   "victims": "",
+   "arrests": "",
+   "source": "Infobae México",
+   "url": "https://www.infobae.com/mexico/2026/09/13/caso-zonadivas-dan-30-anos-de-carcel-a-juan-carlos-benavides-por-trata-y-explotacion-sexual/"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Lima police arrest a man accused of using fake TikTok modeling scouts to exploit two teenage girls",
+   "summary": "Police arrested 20-year-old Aldair Álvaro Huamaní Inga at a hotel in Lima after he allegedly used fake TikTok profiles posing as talent scouts to lure two girls, ages 15 and 17…",
+   "location": "Lima, Peru",
+   "victims": "2 minors identified",
+   "arrests": "1 arrested",
+   "source": "Infobae Perú",
+   "url": "https://www.infobae.com/peru/2026/09/13/perfiles-falsos-y-un-supuesto-casting-por-tiktok-asi-captaba-el-monstruo-de-las-redes-a-adolescentes/"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Amnesty International says Russia's recruitment of foreign fighters for Ukraine amounts to trafficking",
+   "summary": "Amnesty International said Russia's recruitment of foreign nationals to fight in Ukraine meets the legal definition of human trafficking, citing interviews with prisoners of war…",
+   "location": "Moscow, Russia",
+   "victims": "",
+   "arrests": "",
+   "source": "Amnesty International, via Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/9/10/amnesty-accuses-russia-of-trafficking-foreigners-to-fight-in-ukraine"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "Dozens of trafficked scam-compound workers remain confined in a Manila-area facility awaiting repatriation",
+   "summary": "The Philippine Anti-Organized Crime Commission is still holding roughly 70 foreign nationals, down from a peak of more than 900, at a converted former scam compound in Pasay…",
+   "location": "Pasay, Philippines",
+   "victims": "~70 awaiting repatriation",
+   "arrests": "",
+   "source": "Associated Press, via BusinessMirror",
+   "url": "https://businessmirror.com.ph/2026/09/12/from-luxury-to-limbo-inside-a-detention-center-where-scam-workers-wait-for-their-return-home/"
   }
  ]
 }
