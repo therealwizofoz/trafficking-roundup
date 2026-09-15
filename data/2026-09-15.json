@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-15",
+  "window": "The 24 hours to 15 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Nationwide sweep recovers 79 trafficking victims, including five minors, across 22 states",
+          "location": "United States (22 states)",
+          "victims": "79 recovered · 5 minors",
+          "arrests": "125 arrested",
+          "source": "Human Trafficking Training Center",
+          "url": "http://www.prnewswire.com/news-releases/nationwide-effort-in-operation-coast-to-coast-to-combat-human-trafficking-results-in-125-arrests-302877791.html",
+          "body": "More than 250 law enforcement agencies took part in \"Operation Coast to Coast\" on September 10, coordinated by the Human Trafficking Training Center with support from the Safe House Project, Our Rescue and the data-analysis group Traffic Jam. Investigators identified 74 adult and 5 minor victims, including a 1-year-old, arrested 125 people across 22 states, and seized more than $1 million in cash and assets.",
+          "recovered": [
+            {
+              "victims": 79,
+              "minors": 5,
+              "arrests": 125,
+              "place": "United States"
+            }
+          ]
+        },
+        {
+          "headline": "Oregon marijuana-farm raids free 57 forced-labor survivors held in sheds and tents",
+          "location": "Clackamas and Marion Counties, Oregon",
+          "victims": "57 recovered",
+          "arrests": "1 arrested",
+          "source": "KPTV",
+          "url": "https://www.kptv.com/2026/09/14/dozens-trafficking-victims-rescued-sweltering-illegal-weed-farms-oregon-cops/",
+          "body": "A three-day raid on six illegal marijuana grow sites in Clackamas and Marion Counties, led by the Clackamas County Sheriff's Office with state police and victim-advocacy groups Safety Compass and the Anti-Trafficking Project, identified 57 potential forced-labor survivors. Investigators said workers had been made to sleep on pallets or in tents without electricity, running water or air conditioning through the summer heat; one grower was arrested on drug charges with more expected.",
+          "recovered": [
+            {
+              "victims": 57,
+              "arrests": 1,
+              "place": "Oregon"
+            }
+          ]
+        },
+        {
+          "headline": "Vietnamese border guards free 10 people, most of them girls forced to work in karaoke bars",
+          "location": "Bình Định and Phú Yên Provinces, Vietnam",
+          "victims": "10 recovered · 7 minors",
+          "arrests": "6 arrested",
+          "source": "Vietnam News",
+          "url": "https://vietnamnews.vn/society/1662619/ten-victims-including-underaged-girls-rescued-in-human-trafficking-crackdown.html",
+          "body": "Vietnam's Central Region Anti-Drug and Crime Task Force raided eight locations across Bình Định and Phú Yên Provinces between August and September, freeing ten people, including seven girls under 16, who had been recruited from Kon Tum Province and forced to work in karaoke bars and motels. Six men were arrested in connection with the ring.",
+          "recovered": [
+            {
+              "victims": 10,
+              "minors": 7,
+              "arrests": 6,
+              "place": "Vietnam"
+            }
+          ]
+        },
+        {
+          "headline": "Uttar Pradesh police intercept traffickers moving 12 children toward a Haryana rice mill",
+          "location": "Gonda, Uttar Pradesh, India",
+          "victims": "12 recovered · 12 minors",
+          "source": "ANI",
+          "url": "https://aninews.in/news/national/general-news/uttar-pradesh-12-children-rescued-from-suspected-traffickers-in-gonda20260912101802/",
+          "body": "Acting on a tip, Uttar Pradesh's Crime Intelligence Bureau and the Railway Protection Force intercepted a group of traffickers on September 12 who were allegedly moving 12 children toward Haryana to work at a rice mill. The children were handed over to Childline for care.",
+          "recovered": [
+            {
+              "victims": 12,
+              "minors": 12,
+              "place": "India"
+            }
+          ]
+        },
+        {
+          "headline": "Philippine anti-trafficking police free two teenage girls from a hillside cybersex operation in Cebu",
+          "location": "Cebu City, Philippines",
+          "victims": "2 recovered · 2 minors",
+          "arrests": "2 arrested",
+          "source": "International Justice Mission",
+          "url": "https://www.ijm.org/news/two-young-teens-rescued-as-visayas-anti-trafficking-police-lead-tenth-operation-this-year",
+          "body": "Philippine National Police, the Visayas regional anti-trafficking unit and International Justice Mission staff climbed to a hillside home overlooking Cebu City on September 9 and removed two girls, ages 14 and 15, who were allegedly being used to produce exploitative material for buyers abroad. Two suspects were arrested, and three more children found at the home, including an 8-year-old, were also removed pending assessment.",
+          "recovered": [
+            {
+              "victims": 2,
+              "minors": 2,
+              "arrests": 2,
+              "place": "Philippines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": []
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Nigerian police remove a 16-month-old from a hotel after her father allegedly tried to sell her",
+          "location": "Obi, Abia State, Nigeria",
+          "victims": "1 recovered · 1 minor",
+          "arrests": "4 arrested",
+          "source": "La Nouvelle Tribune",
+          "url": "https://lanouvelletribune.info/2026/09/un-pere-arrete-pour-avoir-tente-de-vendre-sa-fille-de-16-mois-au-nigeria/",
+          "body": "Police in Abia State said they removed a 16-month-old girl from a hotel in Obi on September 7 after her biological father allegedly tried to sell her for money. Four men, including the father, were detained; the child has been placed in the care of the state's ministry for women's affairs while the investigation continues.",
+          "recovered": [
+            {
+              "victims": 1,
+              "minors": 1,
+              "arrests": 4,
+              "place": "Nigeria"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": [
+        {
+          "headline": "Oklahoma AG's office says Guthrie hotel operation actually recovered 15 victims, far more than first reported",
+          "location": "Guthrie, Oklahoma",
+          "victims": "15 potential victims identified",
+          "arrests": "5 arrested",
+          "source": "Oklahoma Attorney General's Office",
+          "url": "https://oklahoma.gov/oag/news/newsroom/2026/september/guthrie-human-trafficking-operation-results-in-arrests-victim-recovery.html",
+          "body": "A local report on September 12 described a training exercise near Guthrie that recovered three trafficking victims. Attorney General Gentner Drummond's office has now confirmed the operation identified 15 potential victims, arresting five men on solicitation and computer-crimes charges after local police partnered with the AG's Human Trafficking Response Unit and Skull Games Solutions at a Guthrie hotel."
+        }
+      ]
+    }
+  ]
+}
