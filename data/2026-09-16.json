@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-16",
+  "window": "The 24 hours to 16 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Ciudad Juárez police free 15 migrants held for ransom in a string of September safe-house raids",
+          "location": "Ciudad Juárez, Mexico",
+          "victims": "15 recovered",
+          "arrests": "16 arrested",
+          "source": "El Diario de Juárez",
+          "url": "https://diario.mx/juarez/2026/sep/14/van-15-migrantes-rescatados-de-secuestros-en-septiembre-1138199.html",
+          "body": "Ciudad Juárez's municipal police carried out five separate rescues in the first two weeks of September, freeing 15 migrants whom smugglers had confined in residential safe houses while extorting ransom payments from their families. Officers said captors threatened victims with firearms, forced some to record video pleas for relatives and in some cases subjected them to sexual violence; the largest raid, on September 13, freed 12 people at once. Sixteen suspects were arrested across the five operations on kidnapping, trafficking and weapons charges.",
+          "recovered": [
+            {
+              "victims": 15,
+              "arrests": 16,
+              "place": "Mexico"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Arizona man indicted on federal charges for taking a child he was abusing across state lines to Florida",
+          "location": "Tonto Basin, Arizona",
+          "victims": "1 minor victim",
+          "arrests": "1 indicted",
+          "source": "KOLD News 13",
+          "url": "https://www.kold.com/2026/09/09/man-accused-trafficking-child-arizona-florida-indicted/",
+          "body": "A federal grand jury indicted Brian Matthew Griffeth, 48, of Tonto Basin, on September 9 on a charge of transporting a minor with intent to engage in criminal sexual activity, following an FBI investigation opened in November 2025. Prosecutors say Griffeth sexually abused the child, then between 13 and 16 years old, in Arizona starting in December 2023, then relocated with the child and his family to Florida, where the abuse continued and was recorded. He faces up to life in prison if convicted."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Kokomo police charge a registered sex offender with offering $4,000 to arrange sex with a 13-year-old",
+          "location": "Kokomo, Indiana",
+          "arrests": "1 arrested",
+          "source": "WISH-TV",
+          "url": "https://www.wishtv.com/news/kokomo-man-arrested-child-trafficking/",
+          "body": "Kokomo police, the Howard County Sheriff's Office and Indiana State Police arrested Steven James Reed, 45, a registered sex offender, on September 14 after a September 7 report that he had sent child sexual abuse material by text and offered $4,000 to arrange sex with a 13-year-old girl. A search of Reed's home turned up additional devices containing child sexual abuse material. He faces charges including conspiracy to commit child sex trafficking and distribution and possession of child sexual abuse material."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": [
+        {
+          "headline": "Mississippi attorney general's office details its share of this month's 79-victim national sweep",
+          "location": "Southaven, Mississippi",
+          "source": "Action News 5",
+          "url": "https://www.actionnews5.com/2026/09/14/day-long-operation-results-recovery-7-human-trafficking-victims-southaven/",
+          "body": "The nationwide \"Operation Coast to Coast\" sweep reported earlier this month recovered 79 trafficking victims across 22 states in a single day of action on September 10. Mississippi Attorney General Lynn Fitch's office has now detailed its contribution, saying its Human Trafficking Task Force worked with the DeSoto County Sheriff's Office, Southaven Police Department and state Alcoholic Beverage Control agents to recover seven of those victims during the Southaven leg of the operation."
+        }
+      ]
+    }
+  ]
+}
