@@ -1,0 +1,131 @@
+{
+  "date": "2026-09-17",
+  "window": "The 24 hours to 17 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Ghanaian police free 26 trafficked Nigerians, including 16 teenagers, from mining-town rings",
+          "location": "Goaso, Ghana",
+          "victims": "26 confirmed victims · 16 minors",
+          "arrests": "5 arrested",
+          "source": "MyJoyOnline",
+          "url": "https://www.myjoyonline.com/47-nigerian-nationals-rescued-from-suspected-trafficking-networks-in-goaso/",
+          "body": "Ghanaian police searched six known trafficking sites in mining communities around Goaso between August 30 and September 2 and took in 47 Nigerian nationals, of whom investigators confirmed 26 — at least 16 between 15 and 18 years old — as trafficking victims. Survivors said they had been recruited with promises of restaurant and shop jobs, then held under debt bondage and, in some cases, sexually exploited; five suspects were arrested.",
+          "recovered": [
+            {
+              "victims": 26,
+              "minors": 16,
+              "arrests": 5,
+              "place": "Ghana"
+            }
+          ]
+        },
+        {
+          "headline": "Madrid-area raid frees nine women held for months in a fake elder-care job scheme",
+          "location": "Parla, Spain",
+          "victims": "9 recovered",
+          "arrests": "8 arrested",
+          "source": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/09/17/policia-nacional-trata-parla-nueve-liberadas-3432859",
+          "body": "Spain's National Police freed nine women from an apartment in Parla, near Madrid, on September 9 after a four-month investigation into a ring that recruited them with fake ads for elderly-care jobs, then confiscated their passports and threatened to kill them if they left. Investigators said the women were confined in overcrowded, unsanitary conditions and forced into commercial sex around the clock; eight suspects were arrested.",
+          "recovered": [
+            {
+              "victims": 9,
+              "arrests": 8,
+              "place": "Spain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Grand jury indicts five in Georgia for trafficking farmworkers through the H-2A visa program",
+          "location": "Alma, Georgia",
+          "arrests": "3 arrested, 2 at large",
+          "source": "WTOC",
+          "url": "https://www.wtoc.com/2026/09/15/three-alma-residents-face-federal-charges-visa-fraud-smuggling-case/",
+          "body": "A federal grand jury in the Southern District of Georgia indicted five people, three of them Alma, Georgia residents, on charges of running a labor-trafficking scheme that used the H-2A agricultural visa program to bring in Mexican farmworkers, then confiscated their passports and used threats and violence to keep them working after charging illegal recruitment fees. Prosecutors say the group also charged some workers extra to help them stay in the country illegally once their visas expired. Three defendants were arrested this week; two, including one in Mexico, remain at large."
+        },
+        {
+          "headline": "San Antonio man sentenced to 10 years for confining women he trafficked for commercial sex",
+          "location": "San Antonio, Texas",
+          "arrests": "Sentenced to 10 years",
+          "source": "ICE / Department of Justice",
+          "url": "https://www.ice.gov/news/releases/venezuelan-man-responsible-sex-trafficking-female-illegal-aliens-sentenced-10-years",
+          "body": "A federal judge in the Western District of Texas sentenced Edson Jose Contreras-Torrealba, 34, to 10 years in prison for conspiring with a co-defendant to recruit and transport multiple women for commercial sex in San Antonio between February and August 2024. Prosecutors said the women were not free to leave his apartment or the hotel rooms where they worked without permission, and that Contreras-Torrealba was carrying a handgun when he was arrested."
+        },
+        {
+          "headline": "Trump administration reroutes migrant children's trafficking reports away from the office built to screen them",
+          "location": "Washington, D.C.",
+          "source": "The Associated Press",
+          "url": "https://www.wsbtv.com/news/ap-exclusive-change/MDZRIIUCCM2URIUHO7BFS5ZC5E/",
+          "body": "A September 10 memo reviewed by the Associated Press orders caregivers for roughly 1,800 migrant children in federal custody to stop reporting suspected trafficking directly to the Office of Trafficking in Persons, routing reports instead through the Office of Refugee Resettlement, which will decide which claims to forward. Critics, including Sen. Ron Wyden, said children would now have to report trafficking concerns to the same agency holding them in custody, which could delay protective placements, school enrollment or victim visas; the administration says the change will cut down on improper referrals."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "FBI charges Illinois man with a seven-hour drive to sexually exploit a Kentucky minor he met online",
+          "location": "Erie, Illinois / Paducah, Kentucky",
+          "victims": "1 minor",
+          "arrests": "1 charged",
+          "source": "KFVS12",
+          "url": "https://www.kfvs12.com/2026/09/15/illinois-man-now-faces-federal-charges-mccracken-county-human-smuggling-case/",
+          "body": "Federal prosecutors charged Kenon Bradford, 26, of Erie, Illinois, with transporting a minor for illegal sexual activity and online enticement, saying he began sexually explicit conversations with the child over Snapchat in July and then drove seven hours to Paducah, Kentucky, to pick the child up on August 3. Bradford and the child were located together the next day back in Illinois, where he was arrested; he also faces Kentucky state charges of human trafficking and custodial interference.",
+          "recovered": [
+            {
+              "victims": 1,
+              "minors": 1,
+              "arrests": 1,
+              "place": "Illinois"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": [
+        {
+          "headline": "Oklahoma prosecutor says AG's touted Guthrie rescue involved no real trafficking victims",
+          "location": "Guthrie, Oklahoma",
+          "source": "Hoodline",
+          "url": "https://hoodline.com/2026/09/guthrie-da-says-ag-s-claim-of-15-trafficking-victims-was-overstated/",
+          "body": "Logan County District Attorney Jeremiah Gregory says the Oklahoma Attorney General's office overstated the results of the Guthrie hotel operation this roundup reported on September 15 as having recovered 15 trafficking victims. Gregory said the five men arrested face only solicitation and computer-crimes charges, that no trafficking victims were found, and that the \"15 potential victims\" the AG's office cited were fictitious online profiles created for a training exercise, not real people."
+        },
+        {
+          "headline": "Minnesota hotel raids confirmed 17 trafficking victims as arrest count grows to 28",
+          "location": "Brooklyn Center, Minnesota",
+          "victims": "17 confirmed victims",
+          "arrests": "28 arrested",
+          "source": "FOX 9 Minneapolis-St. Paul",
+          "url": "https://www.fox9.com/news/brooklyn-center-hotel-raids-17-women-minors-rescued-from-trafficking-police-say",
+          "body": "Brooklyn Center police have confirmed that 17 women and girls found during the four-hotel raids reported on September 11 are trafficking victims, and said the arrest count in the year-long investigation has grown to 28, up from the 23 first reported. Officers seized seven firearms and about $43,000 in cash during the raids; the victims are being connected with support services.",
+          "recovered": [
+            {
+              "victims": 17,
+              "arrests": 28,
+              "place": "Minnesota"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

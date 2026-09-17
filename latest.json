@@ -1,25 +1,25 @@
 {
- "date": "2026-09-16",
- "dateLabel": "Wednesday, September 16, 2026",
- "window": "The 24 hours to 16 September 2026.",
+ "date": "2026-09-17",
+ "dateLabel": "Thursday, September 17, 2026",
+ "window": "The 24 hours to 17 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 4,
+ "storyCount": 8,
  "yearToDate": {
   "year": "2026",
-  "victims": 2726,
-  "minors": 1304,
-  "arrests": 1330
+  "victims": 2779,
+  "minors": 1321,
+  "arrests": 1372
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 1
+   "count": 2
   },
   {
    "id": "federal",
    "name": "National / Federal (US)",
-   "count": 1
+   "count": 3
   },
   {
    "id": "local",
@@ -29,53 +29,97 @@
   {
    "id": "ongoing",
    "name": "Ongoing Cases with New Developments",
-   "count": 1
+   "count": 2
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Ciudad Juárez police free 15 migrants held for ransom in a string of September safe-house raids",
-   "summary": "Ciudad Juárez's municipal police carried out five separate rescues in the first two weeks of September, freeing 15 migrants whom smugglers had confined in residential safe houses…",
-   "location": "Ciudad Juárez, Mexico",
-   "victims": "15 recovered",
-   "arrests": "16 arrested",
-   "source": "El Diario de Juárez",
-   "url": "https://diario.mx/juarez/2026/sep/14/van-15-migrantes-rescatados-de-secuestros-en-septiembre-1138199.html"
+   "headline": "Ghanaian police free 26 trafficked Nigerians, including 16 teenagers, from mining-town rings",
+   "summary": "Ghanaian police searched six known trafficking sites in mining communities around Goaso between August 30 and September 2 and took in 47 Nigerian nationals, of whom investigators…",
+   "location": "Goaso, Ghana",
+   "victims": "26 confirmed victims · 16 minors",
+   "arrests": "5 arrested",
+   "source": "MyJoyOnline",
+   "url": "https://www.myjoyonline.com/47-nigerian-nationals-rescued-from-suspected-trafficking-networks-in-goaso/"
+  },
+  {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Madrid-area raid frees nine women held for months in a fake elder-care job scheme",
+   "summary": "Spain's National Police freed nine women from an apartment in Parla, near Madrid, on September 9 after a four-month investigation into a ring that recruited them with fake ads for…",
+   "location": "Parla, Spain",
+   "victims": "9 recovered",
+   "arrests": "8 arrested",
+   "source": "Moncloa.com",
+   "url": "https://www.moncloa.com/2026/09/17/policia-nacional-trata-parla-nueve-liberadas-3432859"
   },
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "Arizona man indicted on federal charges for taking a child he was abusing across state lines to Florida",
-   "summary": "A federal grand jury indicted Brian Matthew Griffeth, 48, of Tonto Basin, on September 9 on a charge of transporting a minor with intent to engage in criminal sexual activity…",
-   "location": "Tonto Basin, Arizona",
-   "victims": "1 minor victim",
-   "arrests": "1 indicted",
-   "source": "KOLD News 13",
-   "url": "https://www.kold.com/2026/09/09/man-accused-trafficking-child-arizona-florida-indicted/"
+   "headline": "Grand jury indicts five in Georgia for trafficking farmworkers through the H-2A visa program",
+   "summary": "A federal grand jury in the Southern District of Georgia indicted five people, three of them Alma, Georgia residents, on charges of running a labor-trafficking scheme that used…",
+   "location": "Alma, Georgia",
+   "victims": "",
+   "arrests": "3 arrested, 2 at large",
+   "source": "WTOC",
+   "url": "https://www.wtoc.com/2026/09/15/three-alma-residents-face-federal-charges-visa-fraud-smuggling-case/"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "San Antonio man sentenced to 10 years for confining women he trafficked for commercial sex",
+   "summary": "A federal judge in the Western District of Texas sentenced Edson Jose Contreras-Torrealba, 34, to 10 years in prison for conspiring with a co-defendant to recruit and transport…",
+   "location": "San Antonio, Texas",
+   "victims": "",
+   "arrests": "Sentenced to 10 years",
+   "source": "ICE / Department of Justice",
+   "url": "https://www.ice.gov/news/releases/venezuelan-man-responsible-sex-trafficking-female-illegal-aliens-sentenced-10-years"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Trump administration reroutes migrant children's trafficking reports away from the office built to screen them",
+   "summary": "A September 10 memo reviewed by the Associated Press orders caregivers for roughly 1,800 migrant children in federal custody to stop reporting suspected trafficking directly to…",
+   "location": "Washington, D.C.",
+   "victims": "",
+   "arrests": "",
+   "source": "The Associated Press",
+   "url": "https://www.wsbtv.com/news/ap-exclusive-change/MDZRIIUCCM2URIUHO7BFS5ZC5E/"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Kokomo police charge a registered sex offender with offering $4,000 to arrange sex with a 13-year-old",
-   "summary": "Kokomo police, the Howard County Sheriff's Office and Indiana State Police arrested Steven James Reed, 45, a registered sex offender, on September 14 after a September 7 report…",
-   "location": "Kokomo, Indiana",
-   "victims": "",
-   "arrests": "1 arrested",
-   "source": "WISH-TV",
-   "url": "https://www.wishtv.com/news/kokomo-man-arrested-child-trafficking/"
+   "headline": "FBI charges Illinois man with a seven-hour drive to sexually exploit a Kentucky minor he met online",
+   "summary": "Federal prosecutors charged Kenon Bradford, 26, of Erie, Illinois, with transporting a minor for illegal sexual activity and online enticement, saying he began sexually explicit…",
+   "location": "Erie, Illinois / Paducah, Kentucky",
+   "victims": "1 minor",
+   "arrests": "1 charged",
+   "source": "KFVS12",
+   "url": "https://www.kfvs12.com/2026/09/15/illinois-man-now-faces-federal-charges-mccracken-county-human-smuggling-case/"
   },
   {
    "section": "ongoing",
    "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Mississippi attorney general's office details its share of this month's 79-victim national sweep",
-   "summary": "The nationwide \"Operation Coast to Coast\" sweep reported earlier this month recovered 79 trafficking victims across 22 states in a single day of action on September 10.",
-   "location": "Southaven, Mississippi",
+   "headline": "Oklahoma prosecutor says AG's touted Guthrie rescue involved no real trafficking victims",
+   "summary": "Logan County District Attorney Jeremiah Gregory says the Oklahoma Attorney General's office overstated the results of the Guthrie hotel operation this roundup reported on…",
+   "location": "Guthrie, Oklahoma",
    "victims": "",
    "arrests": "",
-   "source": "Action News 5",
-   "url": "https://www.actionnews5.com/2026/09/14/day-long-operation-results-recovery-7-human-trafficking-victims-southaven/"
+   "source": "Hoodline",
+   "url": "https://hoodline.com/2026/09/guthrie-da-says-ag-s-claim-of-15-trafficking-victims-was-overstated/"
+  },
+  {
+   "section": "ongoing",
+   "sectionName": "Ongoing Cases with New Developments",
+   "headline": "Minnesota hotel raids confirmed 17 trafficking victims as arrest count grows to 28",
+   "summary": "Brooklyn Center police have confirmed that 17 women and girls found during the four-hotel raids reported on September 11 are trafficking victims, and said the arrest count in the…",
+   "location": "Brooklyn Center, Minnesota",
+   "victims": "17 confirmed victims",
+   "arrests": "28 arrested",
+   "source": "FOX 9 Minneapolis-St. Paul",
+   "url": "https://www.fox9.com/news/brooklyn-center-hotel-raids-17-women-minors-rescued-from-trafficking-police-say"
   }
  ]
 }
