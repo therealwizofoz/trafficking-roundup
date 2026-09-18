@@ -1,125 +1,119 @@
 {
- "date": "2026-09-17",
- "dateLabel": "Thursday, September 17, 2026",
- "window": "The 24 hours to 17 September 2026.",
+ "date": "2026-09-18",
+ "dateLabel": "Friday, September 18, 2026",
+ "window": "The 24 hours to 18 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 8,
+ "storyCount": 7,
  "yearToDate": {
   "year": "2026",
-  "victims": 2779,
-  "minors": 1321,
-  "arrests": 1372
+  "victims": 2798,
+  "minors": 1337,
+  "arrests": 1373
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 2
+   "count": 1
   },
   {
    "id": "federal",
    "name": "National / Federal (US)",
-   "count": 3
+   "count": 2
   },
   {
    "id": "local",
    "name": "Local & State Cases",
+   "count": 2
+  },
+  {
+   "id": "world",
+   "name": "International",
    "count": 1
   },
   {
    "id": "ongoing",
    "name": "Ongoing Cases with New Developments",
-   "count": 2
+   "count": 1
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Ghanaian police free 26 trafficked Nigerians, including 16 teenagers, from mining-town rings",
-   "summary": "Ghanaian police searched six known trafficking sites in mining communities around Goaso between August 30 and September 2 and took in 47 Nigerian nationals, of whom investigators…",
-   "location": "Goaso, Ghana",
-   "victims": "26 confirmed victims · 16 minors",
-   "arrests": "5 arrested",
-   "source": "MyJoyOnline",
-   "url": "https://www.myjoyonline.com/47-nigerian-nationals-rescued-from-suspected-trafficking-networks-in-goaso/"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "Madrid-area raid frees nine women held for months in a fake elder-care job scheme",
-   "summary": "Spain's National Police freed nine women from an apartment in Parla, near Madrid, on September 9 after a four-month investigation into a ring that recruited them with fake ads for…",
-   "location": "Parla, Spain",
-   "victims": "9 recovered",
-   "arrests": "8 arrested",
-   "source": "Moncloa.com",
-   "url": "https://www.moncloa.com/2026/09/17/policia-nacional-trata-parla-nueve-liberadas-3432859"
+   "headline": "Nigerian agency recovers the last of 16 children sold by a fake charity's 'back to school' scheme",
+   "summary": "Nigeria's Civil Defence Corps says it has recovered the last of 16 children who were taken from families in Nasarawa State in January by a syndicate posing as an NGO's…",
+   "location": "Nasarawa State, Nigeria",
+   "victims": "16 minors recovered",
+   "arrests": "Buyers and ringleader held",
+   "source": "Gazette NGR",
+   "url": "https://gazettengr.com/nscdc-rescues-trafficked-minor-arrests-alleged-suspects/"
   },
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "Grand jury indicts five in Georgia for trafficking farmworkers through the H-2A visa program",
-   "summary": "A federal grand jury in the Southern District of Georgia indicted five people, three of them Alma, Georgia residents, on charges of running a labor-trafficking scheme that used…",
-   "location": "Alma, Georgia",
+   "headline": "Alabama man pleads guilty mid-trial after the minor he trafficked to Illinois testifies against him",
+   "summary": "James Price, 39, of Bay Minette, Alabama, pleaded guilty in federal court in Rockford, Illinois, midway through his trial on charges of conspiring to commit sex trafficking…",
+   "location": "Rockford, Illinois",
    "victims": "",
-   "arrests": "3 arrested, 2 at large",
-   "source": "WTOC",
-   "url": "https://www.wtoc.com/2026/09/15/three-alma-residents-face-federal-charges-visa-fraud-smuggling-case/"
+   "arrests": "1 pleaded guilty",
+   "source": "U.S. Attorney's Office, N.D. Illinois",
+   "url": "https://www.justice.gov/usao-ndil/pr/alabama-man-pleads-guilty-federal-court-sex-trafficking-and-child-pornography-charges"
   },
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "San Antonio man sentenced to 10 years for confining women he trafficked for commercial sex",
-   "summary": "A federal judge in the Western District of Texas sentenced Edson Jose Contreras-Torrealba, 34, to 10 years in prison for conspiring with a co-defendant to recruit and transport…",
-   "location": "San Antonio, Texas",
+   "headline": "Houston-area man sentenced to over 11 years for paying a 16-year-old for sex acts and images",
+   "summary": "A federal judge in Houston sentenced Spring, Texas resident John Alberth, 53, to 135 months in prison for the sex trafficking of a minor.",
+   "location": "Spring, Texas",
    "victims": "",
-   "arrests": "Sentenced to 10 years",
-   "source": "ICE / Department of Justice",
-   "url": "https://www.ice.gov/news/releases/venezuelan-man-responsible-sex-trafficking-female-illegal-aliens-sentenced-10-years"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Trump administration reroutes migrant children's trafficking reports away from the office built to screen them",
-   "summary": "A September 10 memo reviewed by the Associated Press orders caregivers for roughly 1,800 migrant children in federal custody to stop reporting suspected trafficking directly to…",
-   "location": "Washington, D.C.",
-   "victims": "",
-   "arrests": "",
-   "source": "The Associated Press",
-   "url": "https://www.wsbtv.com/news/ap-exclusive-change/MDZRIIUCCM2URIUHO7BFS5ZC5E/"
+   "arrests": "1 sentenced",
+   "source": "U.S. Attorney's Office, S.D. Texas",
+   "url": "https://www.justice.gov/usao-sdtx/pr/houston-area-man-receives-over-11-years-enticing-teenage-girl-commit-sex-acts"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "FBI charges Illinois man with a seven-hour drive to sexually exploit a Kentucky minor he met online",
-   "summary": "Federal prosecutors charged Kenon Bradford, 26, of Erie, Illinois, with transporting a minor for illegal sexual activity and online enticement, saying he began sexually explicit…",
-   "location": "Erie, Illinois / Paducah, Kentucky",
-   "victims": "1 minor",
-   "arrests": "1 charged",
-   "source": "KFVS12",
-   "url": "https://www.kfvs12.com/2026/09/15/illinois-man-now-faces-federal-charges-mccracken-county-human-smuggling-case/"
+   "headline": "Four-day Florida hotel sting nets 50 arrests and identifies trafficking victims near Vero Beach",
+   "summary": "The Florida Department of Law Enforcement and the Indian River County Sheriff's Office ran a four-day undercover operation, \"Operation Late Checkout,\" at a hotel outside Vero…",
+   "location": "Indian River County, Florida",
+   "victims": "Several victims identified",
+   "arrests": "50 arrested",
+   "source": "Sebastian Daily",
+   "url": "https://www.sebastiandaily.com/crime/50-arrested-in-indian-river-county-after-multiagency-trafficking-sting-95519/"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Denton County trafficking unit raids two Lewisville massage parlors, identifies three victims",
+   "summary": "The Denton County Sheriff's Office Human Trafficking Unit and Lewisville police arrested Shujun Sun on a trafficking-of-persons warrant on September 10, following a months-long…",
+   "location": "Lewisville, Texas",
+   "victims": "3 identified",
+   "arrests": "1 arrested",
+   "source": "Cross Timbers Gazette",
+   "url": "https://www.crosstimbersgazette.com/2026/09/17/lewisville-woman-arrested-following-investigation-into-illicit-massage-parlor-activities/"
+  },
+  {
+   "section": "world",
+   "sectionName": "International",
+   "headline": "UK sentences five in a Vietnamese smuggling ring that held migrants in debt bondage",
+   "summary": "A Eurojust-coordinated investigation led to the conviction and sentencing of five people in the United Kingdom for running a network that smuggled Vietnamese migrants into the…",
+   "location": "United Kingdom",
+   "victims": "",
+   "arrests": "5 sentenced",
+   "source": "Eurojust",
+   "url": "https://news.europawire.eu/eurojust-coordinated-investigation-leads-to-uk-sentences-for-five-members-of-vietnamese-migrant-smuggling-and-money-laundering-network/eu-press-release/2026/09/17/16/37/12/180877/"
   },
   {
    "section": "ongoing",
    "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Oklahoma prosecutor says AG's touted Guthrie rescue involved no real trafficking victims",
-   "summary": "Logan County District Attorney Jeremiah Gregory says the Oklahoma Attorney General's office overstated the results of the Guthrie hotel operation this roundup reported on…",
-   "location": "Guthrie, Oklahoma",
+   "headline": "UK formally submits its extradition request for the Tate brothers",
+   "summary": "British prosecutors met a September 16 court-imposed deadline to submit a complete extradition request to the U.S.",
+   "location": "Miami, Florida",
    "victims": "",
    "arrests": "",
-   "source": "Hoodline",
-   "url": "https://hoodline.com/2026/09/guthrie-da-says-ag-s-claim-of-15-trafficking-victims-was-overstated/"
-  },
-  {
-   "section": "ongoing",
-   "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Minnesota hotel raids confirmed 17 trafficking victims as arrest count grows to 28",
-   "summary": "Brooklyn Center police have confirmed that 17 women and girls found during the four-hotel raids reported on September 11 are trafficking victims, and said the arrest count in the…",
-   "location": "Brooklyn Center, Minnesota",
-   "victims": "17 confirmed victims",
-   "arrests": "28 arrested",
-   "source": "FOX 9 Minneapolis-St. Paul",
-   "url": "https://www.fox9.com/news/brooklyn-center-hotel-raids-17-women-minors-rescued-from-trafficking-police-say"
+   "source": "Associated Press",
+   "url": "https://hanfordsentinel.com/news/national/british-prosecutors-lodge-request-with-us-for-extradition-of-the-tate-brothers/article_7b7f21df-cf0f-5fd0-9790-d0780a5e2409.html"
   }
  ]
 }
