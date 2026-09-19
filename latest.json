@@ -1,20 +1,20 @@
 {
- "date": "2026-09-18",
- "dateLabel": "Friday, September 18, 2026",
- "window": "The 24 hours to 18 September 2026.",
+ "date": "2026-09-19",
+ "dateLabel": "Saturday, September 19, 2026",
+ "window": "The 24 hours to 19 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
  "storyCount": 7,
  "yearToDate": {
   "year": "2026",
-  "victims": 2798,
-  "minors": 1337,
-  "arrests": 1373
+  "victims": 2804,
+  "minors": 1343,
+  "arrests": 1375
  },
  "sectionCounts": [
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 1
+   "count": 2
   },
   {
    "id": "federal",
@@ -30,90 +30,85 @@
    "id": "world",
    "name": "International",
    "count": 1
-  },
-  {
-   "id": "ongoing",
-   "name": "Ongoing Cases with New Developments",
-   "count": 1
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Nigerian agency recovers the last of 16 children sold by a fake charity's 'back to school' scheme",
-   "summary": "Nigeria's Civil Defence Corps says it has recovered the last of 16 children who were taken from families in Nasarawa State in January by a syndicate posing as an NGO's…",
-   "location": "Nasarawa State, Nigeria",
-   "victims": "16 minors recovered",
-   "arrests": "Buyers and ringleader held",
-   "source": "Gazette NGR",
-   "url": "https://gazettengr.com/nscdc-rescues-trafficked-minor-arrests-alleged-suspects/"
+   "headline": "Oyo State police recover four more children in Nigerian baby-trafficking case, total reaches 21",
+   "summary": "Police in Oyo State, Nigeria, recovered four more children who had been stolen from their families and sold through what investigators describe as a child-stealing and \"baby…",
+   "location": "Oyo State, Nigeria",
+   "victims": "4 more recovered · 21 total",
+   "arrests": "",
+   "source": "Radio Nigeria Ibadan",
+   "url": "https://radionigeriaibadan.gov.ng/2026/09/18/oyo-police-rescue-four-trafficked-children/"
+  },
+  {
+   "section": "rescues",
+   "sectionName": "Victims Recovered",
+   "headline": "Nepal's Armed Police stop two trafficked teenagers headed for India, arrest two men",
+   "summary": "A Nepal Armed Police Force team intercepted two 16-year-old girls near the India border in Banke district after a tip that they were being trafficked under a false promise of…",
+   "location": "Banke District, Nepal",
+   "victims": "2 minors recovered",
+   "arrests": "2 arrested",
+   "source": "Kathmandu Post",
+   "url": "https://kathmandupost.com/province-no-5/2026/09/18/two-teenage-girls-rescued-while-being-taken-to-india-on-false-job-promise"
   },
   {
    "section": "federal",
    "sectionName": "National / Federal (US)",
-   "headline": "Alabama man pleads guilty mid-trial after the minor he trafficked to Illinois testifies against him",
-   "summary": "James Price, 39, of Bay Minette, Alabama, pleaded guilty in federal court in Rockford, Illinois, midway through his trial on charges of conspiring to commit sex trafficking…",
-   "location": "Rockford, Illinois",
-   "victims": "",
-   "arrests": "1 pleaded guilty",
-   "source": "U.S. Attorney's Office, N.D. Illinois",
-   "url": "https://www.justice.gov/usao-ndil/pr/alabama-man-pleads-guilty-federal-court-sex-trafficking-and-child-pornography-charges"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Houston-area man sentenced to over 11 years for paying a 16-year-old for sex acts and images",
-   "summary": "A federal judge in Houston sentenced Spring, Texas resident John Alberth, 53, to 135 months in prison for the sex trafficking of a minor.",
-   "location": "Spring, Texas",
+   "headline": "Moreno Valley man gets nearly 22 years for trafficking two teenage girls to Las Vegas",
+   "summary": "A federal judge sentenced Christian Scurlock, 23, of Moreno Valley, California, to 262 months in prison for trafficking two minors, ages 13 and 16, for commercial sex on Los…",
+   "location": "Los Angeles / Las Vegas",
    "victims": "",
    "arrests": "1 sentenced",
-   "source": "U.S. Attorney's Office, S.D. Texas",
-   "url": "https://www.justice.gov/usao-sdtx/pr/houston-area-man-receives-over-11-years-enticing-teenage-girl-commit-sex-acts"
+   "source": "U.S. Attorney's Office, C.D. California",
+   "url": "https://mynewsla.com/crime/2026/09/18/riverside-county-man-gets-nearly-22-years-for-sex-trafficking-minors/"
+  },
+  {
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Kansas City man convicted of trafficking two minors across three states",
+   "summary": "A federal jury in Kansas convicted Calvin Johnson, 31, of Kansas City, Missouri, on multiple counts including sex trafficking of a child and trafficking by force, fraud or…",
+   "location": "Kansas",
+   "victims": "",
+   "arrests": "1 convicted",
+   "source": "U.S. Attorney's Office, District of Kansas",
+   "url": "https://www.justice.gov/usao-ks/pr/jury-convicts-missouri-man-sex-trafficking-minors"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Four-day Florida hotel sting nets 50 arrests and identifies trafficking victims near Vero Beach",
-   "summary": "The Florida Department of Law Enforcement and the Indian River County Sheriff's Office ran a four-day undercover operation, \"Operation Late Checkout,\" at a hotel outside Vero…",
-   "location": "Indian River County, Florida",
-   "victims": "Several victims identified",
-   "arrests": "50 arrested",
-   "source": "Sebastian Daily",
-   "url": "https://www.sebastiandaily.com/crime/50-arrested-in-indian-river-county-after-multiagency-trafficking-sting-95519/"
+   "headline": "Tupelo sting arrests 19, recovers trafficking victims in buyer-focused operation",
+   "summary": "The Mississippi Bureau of Investigation and Mississippi Bureau of Narcotics, working with the state's Coalition Against Human Trafficking and local victim-services groups, ran an…",
+   "location": "Tupelo, Mississippi",
+   "victims": "Victims recovered, no count given",
+   "arrests": "19 arrested",
+   "source": "WTVA",
+   "url": "https://www.wtva.com/2026/09/18/human-trafficking-operation-nets-19-arrests/"
   },
   {
    "section": "local",
    "sectionName": "Local & State Cases",
-   "headline": "Denton County trafficking unit raids two Lewisville massage parlors, identifies three victims",
-   "summary": "The Denton County Sheriff's Office Human Trafficking Unit and Lewisville police arrested Shujun Sun on a trafficking-of-persons warrant on September 10, following a months-long…",
-   "location": "Lewisville, Texas",
-   "victims": "3 identified",
-   "arrests": "1 arrested",
-   "source": "Cross Timbers Gazette",
-   "url": "https://www.crosstimbersgazette.com/2026/09/17/lewisville-woman-arrested-following-investigation-into-illicit-massage-parlor-activities/"
+   "headline": "Madison Heights woman arraigned on trafficking charges after bringing her child along",
+   "summary": "Maya Scott Perry of Madison Heights, Michigan, was arraigned on five felony counts, including human trafficking and transporting a person for prostitution, after police said she…",
+   "location": "Madison Heights, Michigan",
+   "victims": "",
+   "arrests": "1 arraigned",
+   "source": "WDIV ClickOnDetroit",
+   "url": "https://www.clickondetroit.com/news/local/2026/09/18/madison-heights-woman-accused-of-trafficking-victim-brought-her-child-along-prosecutors-say/"
   },
   {
    "section": "world",
    "sectionName": "International",
-   "headline": "UK sentences five in a Vietnamese smuggling ring that held migrants in debt bondage",
-   "summary": "A Eurojust-coordinated investigation led to the conviction and sentencing of five people in the United Kingdom for running a network that smuggled Vietnamese migrants into the…",
-   "location": "United Kingdom",
-   "victims": "",
-   "arrests": "5 sentenced",
-   "source": "Eurojust",
-   "url": "https://news.europawire.eu/eurojust-coordinated-investigation-leads-to-uk-sentences-for-five-members-of-vietnamese-migrant-smuggling-and-money-laundering-network/eu-press-release/2026/09/17/16/37/12/180877/"
-  },
-  {
-   "section": "ongoing",
-   "sectionName": "Ongoing Cases with New Developments",
-   "headline": "UK formally submits its extradition request for the Tate brothers",
-   "summary": "British prosecutors met a September 16 court-imposed deadline to submit a complete extradition request to the U.S.",
-   "location": "Miami, Florida",
-   "victims": "",
-   "arrests": "",
-   "source": "Associated Press",
-   "url": "https://hanfordsentinel.com/news/national/british-prosecutors-lodge-request-with-us-for-extradition-of-the-tate-brothers/article_7b7f21df-cf0f-5fd0-9790-d0780a5e2409.html"
+   "headline": "Europol raid on Indian restaurant chain finds 70 workers exploited across five countries",
+   "summary": "Police and labor authorities in Belgium, Germany, Luxembourg, the Netherlands and Switzerland arrested two owners of a chain of Indian restaurants after an investigation found…",
+   "location": "Netherlands, Belgium, Germany, Luxembourg, Switzerland",
+   "victims": "70+ potential victims",
+   "arrests": "2 arrested",
+   "source": "Europol",
+   "url": "https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-identifies-over-70-potential-victims-exploited-in-indian-restaurants"
   }
  ]
 }

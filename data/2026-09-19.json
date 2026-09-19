@@ -1,0 +1,109 @@
+{
+  "date": "2026-09-19",
+  "window": "The 24 hours to 19 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Oyo State police recover four more children in Nigerian baby-trafficking case, total reaches 21",
+          "location": "Oyo State, Nigeria",
+          "victims": "4 more recovered · 21 total",
+          "source": "Radio Nigeria Ibadan",
+          "url": "https://radionigeriaibadan.gov.ng/2026/09/18/oyo-police-rescue-four-trafficked-children/",
+          "body": "Police in Oyo State, Nigeria, recovered four more children who had been stolen from their families and sold through what investigators describe as a child-stealing and \"baby factory\" trafficking syndicate, bringing the total number of children recovered in the case to 21. Three of the four were traced to buyers in Lagos State and one to Agbor in neighboring Delta State, after originally being taken from families in Ogun State. Police say the syndicate's alleged ringleader is being questioned as they work to identify the rest of the network.",
+          "recovered": [
+            {
+              "victims": 4,
+              "minors": 4,
+              "place": "Nigeria"
+            }
+          ]
+        },
+        {
+          "headline": "Nepal's Armed Police stop two trafficked teenagers headed for India, arrest two men",
+          "location": "Banke District, Nepal",
+          "victims": "2 minors recovered",
+          "arrests": "2 arrested",
+          "source": "Kathmandu Post",
+          "url": "https://kathmandupost.com/province-no-5/2026/09/18/two-teenage-girls-rescued-while-being-taken-to-india-on-false-job-promise",
+          "body": "A Nepal Armed Police Force team intercepted two 16-year-old girls near the India border in Banke district after a tip that they were being trafficked under a false promise of work. Officers arrested two men accused of arranging the trip — one from the local area and one from across the border in Uttar Pradesh, India — who had reportedly coached the girls to tell anyone who asked that they were only visiting relatives in India.",
+          "recovered": [
+            {
+              "victims": 2,
+              "minors": 2,
+              "arrests": 2,
+              "place": "Nepal"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Moreno Valley man gets nearly 22 years for trafficking two teenage girls to Las Vegas",
+          "location": "Los Angeles / Las Vegas",
+          "arrests": "1 sentenced",
+          "source": "U.S. Attorney's Office, C.D. California",
+          "url": "https://mynewsla.com/crime/2026/09/18/riverside-county-man-gets-nearly-22-years-for-sex-trafficking-minors/",
+          "body": "A federal judge sentenced Christian Scurlock, 23, of Moreno Valley, California, to 262 months in prison for trafficking two minors, ages 13 and 16, for commercial sex on Los Angeles's Figueroa Corridor. Prosecutors said Scurlock drove the girls to a motel in Las Vegas in April 2024, where local police arrested him with both minors still in his car. He was ordered to pay more than $159,000 in restitution and will remain on supervised release for life."
+        },
+        {
+          "headline": "Kansas City man convicted of trafficking two minors across three states",
+          "location": "Kansas",
+          "arrests": "1 convicted",
+          "source": "U.S. Attorney's Office, District of Kansas",
+          "url": "https://www.justice.gov/usao-ks/pr/jury-convicts-missouri-man-sex-trafficking-minors",
+          "body": "A federal jury in Kansas convicted Calvin Johnson, 31, of Kansas City, Missouri, on multiple counts including sex trafficking of a child and trafficking by force, fraud or coercion. Prosecutors said that between February 2022 and January 2023, Johnson moved two minor victims between Kansas, Missouri and Nebraska, using force and coercion to compel them into commercial sex. He faces sentencing at a later date."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Tupelo sting arrests 19, recovers trafficking victims in buyer-focused operation",
+          "location": "Tupelo, Mississippi",
+          "victims": "Victims recovered, no count given",
+          "arrests": "19 arrested",
+          "source": "WTVA",
+          "url": "https://www.wtva.com/2026/09/18/human-trafficking-operation-nets-19-arrests/",
+          "body": "The Mississippi Bureau of Investigation and Mississippi Bureau of Narcotics, working with the state's Coalition Against Human Trafficking and local victim-services groups, ran an operation around Tupelo that led to 19 arrests and the recovery of trafficking victims, though authorities did not give an exact count. Thirteen people were charged with procuring prostitution, with others facing additional drug and evidence-tampering charges; officials said the operation targeted both victim recovery and sex buyers."
+        },
+        {
+          "headline": "Madison Heights woman arraigned on trafficking charges after bringing her child along",
+          "location": "Madison Heights, Michigan",
+          "arrests": "1 arraigned",
+          "source": "WDIV ClickOnDetroit",
+          "url": "https://www.clickondetroit.com/news/local/2026/09/18/madison-heights-woman-accused-of-trafficking-victim-brought-her-child-along-prosecutors-say/",
+          "body": "Maya Scott Perry of Madison Heights, Michigan, was arraigned on five felony counts, including human trafficking and transporting a person for prostitution, after police said she trafficked at least one woman across several Detroit-area suburbs. Investigators said Perry brought her own minor child along during the trafficking activity; the child was not harmed and is now with a custodial parent, though Perry also faces a child-abuse charge. She is held on $250,000 bond as police look for additional victims."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Europol raid on Indian restaurant chain finds 70 workers exploited across five countries",
+          "location": "Netherlands, Belgium, Germany, Luxembourg, Switzerland",
+          "victims": "70+ potential victims",
+          "arrests": "2 arrested",
+          "source": "Europol",
+          "url": "https://www.europol.europa.eu/media-press/newsroom/news/international-investigation-identifies-over-70-potential-victims-exploited-in-indian-restaurants",
+          "body": "Police and labor authorities in Belgium, Germany, Luxembourg, the Netherlands and Switzerland arrested two owners of a chain of Indian restaurants after an investigation found more than 70 kitchen and service staff had been recruited from India under false pretenses. Investigators said the workers, hired on paper as specialist chefs, were instead put to cleaning and waiting tables for 60 to 80 hours a week rather than the 38 permitted under their visas, often unpaid for the extra hours, while the owners allegedly threatened their families back home to keep them from complaining. Europol estimated the scheme generated at least €4 million in underpaid labor."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
