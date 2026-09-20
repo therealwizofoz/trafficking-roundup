@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-20",
+  "window": "The 24 hours to 20 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Peruvian police free two Paraguayan women lured to Arequipa with fake job offers",
+          "location": "Arequipa, Peru",
+          "victims": "2 recovered",
+          "source": "Infobae",
+          "url": "https://www.infobae.com/peru/2026/09/20/dos-jovenes-paraguayas-fueron-rescatadas-de-red-de-trata-en-arequipa-fueron-captadas-con-falsas-ofertas-de-trabajo/",
+          "body": "Police in Arequipa, Peru, rescued two Paraguayan women, ages 18 and 22, on September 19 after a five-month investigation that began when one of the women reached her mother back in Paraguay. Investigators said the women had been recruited with promises of legitimate work, then forced into prostitution advertised online, with their earnings confiscated by their traffickers. Both are now under the protection of the prosecutor's office's victim-assistance unit.",
+          "recovered": [
+            {
+              "victims": 2,
+              "place": "Peru"
+            }
+          ]
+        },
+        {
+          "headline": "South African police rescue a woman from a Cape Town brothel, arrest suspected trafficker",
+          "location": "Cape Town, South Africa",
+          "victims": "1 recovered",
+          "arrests": "1 charged",
+          "source": "News24",
+          "url": "https://www.news24.com/southafrica/crime-and-courts/trafficking-suspect-arrested-after-woman-21-rescued-from-rondebosch-brothel-20260918-1194",
+          "body": "South Africa's Hawks police unit rescued a 21-year-old foreign national from a brothel in Cape Town's Rondebosch suburb following a late-August search, and confirmed her as a trafficking victim after a medical examination. A 55-year-old man was arrested on trafficking-in-persons charges and is due in Wynberg Magistrate's Court on September 21."
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Brooklyn man indicted over Penn Track sex-trafficking market in East New York",
+          "location": "Brooklyn, New York",
+          "arrests": "1 indicted",
+          "source": "U.S. Attorney's Office, Eastern District of New York",
+          "url": "https://www.justice.gov/usao-edny/pr/brooklyn-man-charged-sex-trafficking-interstate-prostitution-and-promotion-0",
+          "body": "Federal prosecutors in Brooklyn unsealed an indictment charging Michael Brown, known as \"Mack Bills,\" with sex trafficking by force, fraud and coercion, interstate prostitution and promotion of prostitution. Prosecutors said Brown trafficked women through the open-air \"Penn Track\" sex market on Pennsylvania Avenue in East New York and transported some out of state for commercial sex. He faces a mandatory minimum of 15 years and up to life in prison if convicted."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Congressional campaign contractor turns up in Tennessee massage-parlor trafficking probe",
+          "location": "Columbia, Tennessee",
+          "source": "WSMV",
+          "url": "https://www.wsmv.com/2026/09/16/contract-worker-charlie-hatchers-congressional-campaign-found-massage-parlor-sting-operation-targeting-illegal-sex-services/",
+          "body": "A months-long Columbia, Tennessee, police investigation into suspected prostitution and trafficking at local massage parlors, run with the Tennessee Bureau of Investigation, the state's Human Trafficking Task Force and federal agents, turned up a paid contractor for a congressional campaign among those found at the business during a September 9 search. The campaign said the man, who also volunteered as a football coach and worked as a city firefighter, resigned; officials have not said whether he or anyone else at the scene will face charges."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Hyderabad court sentences nine to life for trafficking Bangladeshi women into forced prostitution",
+          "location": "Hyderabad, India",
+          "arrests": "9 sentenced",
+          "source": "NIA Special Court, Hyderabad",
+          "url": "https://theindianeye.com/2026/09/19/nine-including-eight-bangladeshis-get-life-term-in-trafficking-case/",
+          "body": "A special National Investigation Agency court in Hyderabad sentenced nine people, eight Bangladeshi nationals and one Indian, to life in prison on September 17 for running a ring that lured Bangladeshi women to India with promises of well-paid jobs before forcing them into prostitution. The case dates to a September 2019 operation that freed four women from a brothel and a residence in Telangana; the National Investigation Agency took over the probe weeks later, and arrests followed across Telangana and West Bengal."
+        },
+        {
+          "headline": "Argentine Naval Prefecture raids Mar del Plata brothels tied to a trafficking and drug ring",
+          "location": "Mar del Plata, Argentina",
+          "arrests": "1 arrested",
+          "source": "Argentina.gob.ar",
+          "url": "https://www.argentina.gob.ar/noticias/mar-del-plata-prefectura-detuvo-un-hombre-en-un-operativo-contra-el-narcotrafico-y-la-trata",
+          "body": "Argentina's Naval Prefecture searched five residences and three suspected brothels in Mar del Plata on September 17, arresting one man wanted on a federal warrant and seizing cocaine valued at more than 1.5 million pesos. Seven adults found at the properties were interviewed by the National Rescue Program for trafficking victims; authorities have not yet said how many will be confirmed as such."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": [
+        {
+          "headline": "Sixth arrest made in Kentucky case tied to a trafficking witness's death",
+          "location": "Harlan / Bell County, Kentucky",
+          "arrests": "1 more arrested · 6 total",
+          "source": "WYMT",
+          "url": "https://www.wymt.com/2026/09/03/multiple-arrests-made-connection-with-death-key-witness-sex-trafficking-case/",
+          "body": "Investigators in southeastern Kentucky arrested Joseph Jackson of Bell County and charged him with commercial sex human trafficking and engaging in organized crime, the same charges originally filed against Darrell Carnahan. Jackson is the sixth person arrested since Bobby Smith, a key witness in the trafficking case against Carnahan, was found dead in Harlan County in late August; the other five face murder and witness-tampering charges, and investigators say Carnahan directed the intimidation campaign from jail."
+        }
+      ]
+    }
+  ]
+}
