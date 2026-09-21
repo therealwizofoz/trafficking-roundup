@@ -1,0 +1,48 @@
+{
+  "date": "2026-09-21",
+  "window": "The 24 hours to 21 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "FBI and tribal police identify three trafficking victims at an Indiana casino",
+          "location": "South Bend, Indiana",
+          "victims": "3 recovered",
+          "source": "ABC57",
+          "url": "https://www.abc57.com/news/three-human-trafficking-victims-identified-during-operation-in-south-bend",
+          "body": "The FBI, Indiana State Police and Pokagon Band Tribal Police identified three women as trafficking victims after contacting them online and meeting them at the Four Winds Casino in South Bend on September 10 and 11. FBI Special Agent Tim O'Malley said the women, who are not part of a tribal community, were connected with health and support resources, though he remained concerned about their medical care, housing and nutrition. No arrests were announced."
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": []
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": []
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": [
+        {
+          "headline": "Japan logs more trafficking victims in 2025, moves to retire exploitative worker-visa program",
+          "location": "Japan",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/human-trafficking-report/",
+          "body": "A Japanese government tally released September 15 found 78 trafficking victims identified and protected in 2025, up from 66 the year before; 69 were women and nine were men, 53 were minors, and most were Japanese nationals. Citing the rise, officials pointed to legislation already enacted by the Diet to create a new Employment for Skill Development program that is meant to eventually replace the Technical Intern Training Program, under which foreign workers have reported conditions amounting to forced labor."
+        }
+      ]
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}

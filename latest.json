@@ -1,9 +1,9 @@
 {
- "date": "2026-09-20",
- "dateLabel": "Sunday, September 20, 2026",
- "window": "The 24 hours to 20 September 2026.",
+ "date": "2026-09-21",
+ "dateLabel": "Monday, September 21, 2026",
+ "window": "The 24 hours to 21 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 7,
+ "storyCount": 2,
  "yearToDate": {
   "year": "2026",
   "victims": 2806,
@@ -14,26 +14,11 @@
   {
    "id": "rescues",
    "name": "Victims Recovered",
-   "count": 2
-  },
-  {
-   "id": "federal",
-   "name": "National / Federal (US)",
-   "count": 1
-  },
-  {
-   "id": "local",
-   "name": "Local & State Cases",
    "count": 1
   },
   {
    "id": "world",
    "name": "International",
-   "count": 2
-  },
-  {
-   "id": "ongoing",
-   "name": "Ongoing Cases with New Developments",
    "count": 1
   }
  ],
@@ -41,79 +26,24 @@
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "Peruvian police free two Paraguayan women lured to Arequipa with fake job offers",
-   "summary": "Police in Arequipa, Peru, rescued two Paraguayan women, ages 18 and 22, on September 19 after a five-month investigation that began when one of the women reached her mother back…",
-   "location": "Arequipa, Peru",
-   "victims": "2 recovered",
+   "headline": "FBI and tribal police identify three trafficking victims at an Indiana casino",
+   "summary": "The FBI, Indiana State Police and Pokagon Band Tribal Police identified three women as trafficking victims after contacting them online and meeting them at the Four Winds Casino…",
+   "location": "South Bend, Indiana",
+   "victims": "3 recovered",
    "arrests": "",
-   "source": "Infobae",
-   "url": "https://www.infobae.com/peru/2026/09/20/dos-jovenes-paraguayas-fueron-rescatadas-de-red-de-trata-en-arequipa-fueron-captadas-con-falsas-ofertas-de-trabajo/"
-  },
-  {
-   "section": "rescues",
-   "sectionName": "Victims Recovered",
-   "headline": "South African police rescue a woman from a Cape Town brothel, arrest suspected trafficker",
-   "summary": "South Africa's Hawks police unit rescued a 21-year-old foreign national from a brothel in Cape Town's Rondebosch suburb following a late-August search, and confirmed her as a…",
-   "location": "Cape Town, South Africa",
-   "victims": "1 recovered",
-   "arrests": "1 charged",
-   "source": "News24",
-   "url": "https://www.news24.com/southafrica/crime-and-courts/trafficking-suspect-arrested-after-woman-21-rescued-from-rondebosch-brothel-20260918-1194"
-  },
-  {
-   "section": "federal",
-   "sectionName": "National / Federal (US)",
-   "headline": "Brooklyn man indicted over Penn Track sex-trafficking market in East New York",
-   "summary": "Federal prosecutors in Brooklyn unsealed an indictment charging Michael Brown, known as \"Mack Bills,\" with sex trafficking by force, fraud and coercion, interstate prostitution…",
-   "location": "Brooklyn, New York",
-   "victims": "",
-   "arrests": "1 indicted",
-   "source": "U.S. Attorney's Office, Eastern District of New York",
-   "url": "https://www.justice.gov/usao-edny/pr/brooklyn-man-charged-sex-trafficking-interstate-prostitution-and-promotion-0"
-  },
-  {
-   "section": "local",
-   "sectionName": "Local & State Cases",
-   "headline": "Congressional campaign contractor turns up in Tennessee massage-parlor trafficking probe",
-   "summary": "A months-long Columbia, Tennessee, police investigation into suspected prostitution and trafficking at local massage parlors, run with the Tennessee Bureau of Investigation, the…",
-   "location": "Columbia, Tennessee",
-   "victims": "",
-   "arrests": "",
-   "source": "WSMV",
-   "url": "https://www.wsmv.com/2026/09/16/contract-worker-charlie-hatchers-congressional-campaign-found-massage-parlor-sting-operation-targeting-illegal-sex-services/"
+   "source": "ABC57",
+   "url": "https://www.abc57.com/news/three-human-trafficking-victims-identified-during-operation-in-south-bend"
   },
   {
    "section": "world",
    "sectionName": "International",
-   "headline": "Hyderabad court sentences nine to life for trafficking Bangladeshi women into forced prostitution",
-   "summary": "A special National Investigation Agency court in Hyderabad sentenced nine people, eight Bangladeshi nationals and one Indian, to life in prison on September 17 for running a ring…",
-   "location": "Hyderabad, India",
+   "headline": "Japan logs more trafficking victims in 2025, moves to retire exploitative worker-visa program",
+   "summary": "A Japanese government tally released September 15 found 78 trafficking victims identified and protected in 2025, up from 66 the year before; 69 were women and nine were men, 53…",
+   "location": "Japan",
    "victims": "",
-   "arrests": "9 sentenced",
-   "source": "NIA Special Court, Hyderabad",
-   "url": "https://theindianeye.com/2026/09/19/nine-including-eight-bangladeshis-get-life-term-in-trafficking-case/"
-  },
-  {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Argentine Naval Prefecture raids Mar del Plata brothels tied to a trafficking and drug ring",
-   "summary": "Argentina's Naval Prefecture searched five residences and three suspected brothels in Mar del Plata on September 17, arresting one man wanted on a federal warrant and seizing…",
-   "location": "Mar del Plata, Argentina",
-   "victims": "",
-   "arrests": "1 arrested",
-   "source": "Argentina.gob.ar",
-   "url": "https://www.argentina.gob.ar/noticias/mar-del-plata-prefectura-detuvo-un-hombre-en-un-operativo-contra-el-narcotrafico-y-la-trata"
-  },
-  {
-   "section": "ongoing",
-   "sectionName": "Ongoing Cases with New Developments",
-   "headline": "Sixth arrest made in Kentucky case tied to a trafficking witness's death",
-   "summary": "Investigators in southeastern Kentucky arrested Joseph Jackson of Bell County and charged him with commercial sex human trafficking and engaging in organized crime, the same…",
-   "location": "Harlan / Bell County, Kentucky",
-   "victims": "",
-   "arrests": "1 more arrested · 6 total",
-   "source": "WYMT",
-   "url": "https://www.wymt.com/2026/09/03/multiple-arrests-made-connection-with-death-key-witness-sex-trafficking-case/"
+   "arrests": "",
+   "source": "The Japan Times",
+   "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/human-trafficking-report/"
   }
  ]
 }
