@@ -1,14 +1,14 @@
 {
- "date": "2026-09-21",
- "dateLabel": "Monday, September 21, 2026",
- "window": "The 24 hours to 21 September 2026.",
+ "date": "2026-09-22",
+ "dateLabel": "Tuesday, September 22, 2026",
+ "window": "The 24 hours to 22 September 2026.",
  "siteUrl": "https://therealwizofoz.github.io/trafficking-roundup/",
- "storyCount": 2,
+ "storyCount": 4,
  "yearToDate": {
   "year": "2026",
-  "victims": 2806,
-  "minors": 1343,
-  "arrests": 1375
+  "victims": 2807,
+  "minors": 1344,
+  "arrests": 1376
  },
  "sectionCounts": [
   {
@@ -17,33 +17,60 @@
    "count": 1
   },
   {
-   "id": "world",
-   "name": "International",
+   "id": "federal",
+   "name": "National / Federal (US)",
    "count": 1
+  },
+  {
+   "id": "local",
+   "name": "Local & State Cases",
+   "count": 2
   }
  ],
  "stories": [
   {
    "section": "rescues",
    "sectionName": "Victims Recovered",
-   "headline": "FBI and tribal police identify three trafficking victims at an Indiana casino",
-   "summary": "The FBI, Indiana State Police and Pokagon Band Tribal Police identified three women as trafficking victims after contacting them online and meeting them at the Four Winds Casino…",
-   "location": "South Bend, Indiana",
-   "victims": "3 recovered",
-   "arrests": "",
-   "source": "ABC57",
-   "url": "https://www.abc57.com/news/three-human-trafficking-victims-identified-during-operation-in-south-bend"
+   "headline": "Bolivian police rescue a 15-year-old held for 11 days in an alleged trafficking case in Oruro",
+   "summary": "A 15-year-old girl went missing from Oruro on September 7 and was found 11 days later after being held against her will by two women known to her family, who prosecutors say…",
+   "location": "Oruro, Bolivia",
+   "victims": "1 recovered · minor",
+   "arrests": "1 arrested",
+   "source": "La Patria (Bolivia)",
+   "url": "https://lapatria.bo/actualidad/seguridad/rescatan-menor-anos-victima-trata-personas/"
   },
   {
-   "section": "world",
-   "sectionName": "International",
-   "headline": "Japan logs more trafficking victims in 2025, moves to retire exploitative worker-visa program",
-   "summary": "A Japanese government tally released September 15 found 78 trafficking victims identified and protected in 2025, up from 66 the year before; 69 were women and nine were men, 53…",
-   "location": "Japan",
+   "section": "federal",
+   "sectionName": "National / Federal (US)",
+   "headline": "Rhode Island federal jury convicts a man of trying to buy sex with a child",
+   "summary": "A federal jury convicted Justin Duffer, 36, of North Kingstown, of attempted sex trafficking of a child after he responded to an online ad, arranged with an undercover officer…",
+   "location": "North Kingstown, Rhode Island",
    "victims": "",
-   "arrests": "",
-   "source": "The Japan Times",
-   "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/human-trafficking-report/"
+   "arrests": "Convicted",
+   "source": "WJAR",
+   "url": "https://turnto10.com/news/local/federal-jury-north-kingstown-man-guilty-attempted-child-sex-trafficking-sept-17-2026"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Kansas child-predator sting arrests 19, connects three potential victims to services",
+   "summary": "The Kansas Bureau of Investigation and more than a dozen local, state and federal partners arrested 19 people over two days, September 17 and 18, in Riley and Geary Counties on…",
+   "location": "Riley and Geary Counties, Kansas",
+   "victims": "",
+   "arrests": "19 arrested",
+   "source": "WIBW",
+   "url": "https://www.wibw.com/2026/09/21/multi-agency-operation-kansas-leads-19-arrests-sex-buyer-child-predator-sting/"
+  },
+  {
+   "section": "local",
+   "sectionName": "Local & State Cases",
+   "headline": "Harris County deputies arrest 21 men in a prostitution sweep that also screened for trafficking",
+   "summary": "Harris County Precinct 4 constables arrested 21 men, ranging in age from their 20s to their 60s, on state-jail felony solicitation charges after an undercover operation on…",
+   "location": "Harris County, Texas",
+   "victims": "",
+   "arrests": "21 arrested",
+   "source": "KPRC / Click2Houston",
+   "url": "https://www.click2houston.com/news/local/2026/09/20/21-arrested-in-harris-county-precinct-4-prostitution-investigation/"
   }
  ]
 }

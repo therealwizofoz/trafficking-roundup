@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-22",
+  "window": "The 24 hours to 22 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Bolivian police rescue a 15-year-old held for 11 days in an alleged trafficking case in Oruro",
+          "location": "Oruro, Bolivia",
+          "victims": "1 recovered · minor",
+          "arrests": "1 arrested",
+          "source": "La Patria (Bolivia)",
+          "url": "https://lapatria.bo/actualidad/seguridad/rescatan-menor-anos-victima-trata-personas/",
+          "body": "A 15-year-old girl went missing from Oruro on September 7 and was found 11 days later after being held against her will by two women known to her family, who prosecutors say forced her to drink alcohol and planned to move her to Cochabamba and sell her organs. One 35-year-old suspect was arrested and ordered into three months of preventive detention; a second woman remains at large. The Public Ministry is pursuing the case as human trafficking.",
+          "recovered": [{"victims": 1, "minors": 1, "arrests": 1, "place": "Bolivia"}]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Rhode Island federal jury convicts a man of trying to buy sex with a child",
+          "location": "North Kingstown, Rhode Island",
+          "arrests": "Convicted",
+          "source": "WJAR",
+          "url": "https://turnto10.com/news/local/federal-jury-north-kingstown-man-guilty-attempted-child-sex-trafficking-sept-17-2026",
+          "body": "A federal jury convicted Justin Duffer, 36, of North Kingstown, of attempted sex trafficking of a child after he responded to an online ad, arranged with an undercover officer posing as an intermediary to pay for sex with someone he believed was under 14, and handed over $120 in cash at a meeting spot before his arrest. Duffer faces a mandatory minimum of 15 years and up to life in prison at sentencing, scheduled for January 6, 2027."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Kansas child-predator sting arrests 19, connects three potential victims to services",
+          "location": "Riley and Geary Counties, Kansas",
+          "arrests": "19 arrested",
+          "source": "WIBW",
+          "url": "https://www.wibw.com/2026/09/21/multi-agency-operation-kansas-leads-19-arrests-sex-buyer-child-predator-sting/",
+          "body": "The Kansas Bureau of Investigation and more than a dozen local, state and federal partners arrested 19 people over two days, September 17 and 18, in Riley and Geary Counties on charges including electronic solicitation of a child, attempted aggravated human trafficking and buying sex. Investigators said no children were actually victimized in the operation but connected three potential sex-trafficking victims with advocacy services."
+        },
+        {
+          "headline": "Harris County deputies arrest 21 men in a prostitution sweep that also screened for trafficking",
+          "location": "Harris County, Texas",
+          "arrests": "21 arrested",
+          "source": "KPRC / Click2Houston",
+          "url": "https://www.click2houston.com/news/local/2026/09/20/21-arrested-in-harris-county-precinct-4-prostitution-investigation/",
+          "body": "Harris County Precinct 4 constables arrested 21 men, ranging in age from their 20s to their 60s, on state-jail felony solicitation charges after an undercover operation on September 16 that investigators said also examined possible human-trafficking connections. Several defendants face additional charges for drugs, weapons or outstanding warrants; no victims were reported."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
