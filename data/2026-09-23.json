@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-23",
+  "window": "The 24 hours to 23 September 2026.",
+  "sections": [
+    {
+      "id": "rescues",
+      "name": "Victims Recovered",
+      "stories": [
+        {
+          "headline": "Philippine immigration officers pull four men from a Russia-bound trafficking pipeline at Manila's airport",
+          "location": "Manila, Philippines",
+          "victims": "4 recovered",
+          "source": "BusinessWorld / Philippine Star",
+          "url": "https://www.philstar.com/headlines/2026/09/22/2558078/4-russia-bound-filipinos-recruited-military-work-stopped-naia",
+          "body": "Bureau of Immigration officers at Ninoy Aquino International Airport stopped four men on September 18 and 19 after their declared destinations of Thailand and Vietnam didn't match what came out under questioning: they had been recruited online for supposed security or military work in Russia, with one man promised Russian citizenship and a bonus for completing an unspecified 'special mission.' All four were turned over to the Inter-Agency Council Against Trafficking for protection and further investigation; the recruiters have not been identified publicly or charged.",
+          "recovered": [{"victims": 4, "place": "Philippines"}]
+        }
+      ]
+    },
+    {
+      "id": "federal",
+      "name": "National / Federal (US)",
+      "stories": [
+        {
+          "headline": "Gary, Indiana man convicted of trafficking four women with beatings, guns and a forced overdose",
+          "location": "Gary, Indiana",
+          "arrests": "Convicted",
+          "source": "DOJ / WISH-TV",
+          "url": "https://www.justice.gov/opa/pr/chicagoland-man-convicted-sex-trafficking-and-forced-labor",
+          "body": "A federal jury convicted Anthony Mayers, 36, of four counts of sex trafficking and one count of forced labor after evidence showed he lured women with promises of money and housing, then used physical violence, a firearm and narcotics to force them into commercial sex and take their earnings. One victim testified she watched Mayers give another woman a fatal overdose and then threaten her with the same fate; he is scheduled to be sentenced later."
+        },
+        {
+          "headline": "Des Moines man sentenced to life for trafficking three homeless women he supplied with drugs",
+          "location": "Des Moines, Iowa",
+          "arrests": "Sentenced to life",
+          "source": "DOJ",
+          "url": "https://www.justice.gov/opa/pr/iowa-man-sentenced-life-prison-sex-trafficking-three-women-drug-distribution-and-obstruction",
+          "body": "Dave Shumpert III, 30, was sentenced to life in prison after a jury convicted him of sex trafficking three young homeless women struggling with addiction, whom he and a co-defendant controlled through violence, threats and a manufactured drug debt. Prosecutors said Shumpert kept directing the scheme by phone even after his arrest, taking in more than $32,000 of the women's earnings through his jail commissary account."
+        },
+        {
+          "headline": "Second woman sentenced in Alabama scheme that trafficked a 17-year-old for commercial sex",
+          "location": "Montgomery, Alabama",
+          "arrests": "Sentenced to 135 months",
+          "source": "DOJ",
+          "url": "https://www.justice.gov/usao-mdal/pr/second-defendant-sentenced-sex-trafficking-scheme-involving-minor",
+          "body": "Chloe Michelle Alexander, 32, was sentenced to more than 11 years in federal prison for conspiring with Jada Renee Coggins in 2023 to force a 17-year-old into commercial sex, taking photographs of the teenager to advertise her online and driving her to meetings with buyers. Coggins received the same 135-month term in June; both women must register as sex offenders for life."
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local & State Cases",
+      "stories": [
+        {
+          "headline": "Georgia agencies raid seven massage parlors in Dalton in a sex-trafficking investigation",
+          "location": "Dalton and Whitfield County, Georgia",
+          "arrests": "11 arrested",
+          "source": "Local 3 News",
+          "url": "https://www.local3news.com/local-news/watch-live-prostitution-sex-trafficking-bust-at-7-whitfield-co-massage-parlors/article_9eaadf96-6a7a-4681-ba52-81adccbab66e.html",
+          "body": "Dalton police, the Whitfield County Sheriff's Office, the FBI and the Georgia Bureau of Investigation served search warrants at seven massage businesses across the county, arresting 11 people on prostitution- and trafficking-related charges. All seven locations are being shut down while investigators continue interviews and the county considers new licensing rules for the industry; no victim count has been released."
+        },
+        {
+          "headline": "Boca Raton and Boynton Beach police charge two men with trafficking an intellectually disabled adult for foot photos",
+          "location": "Boca Raton, Florida",
+          "arrests": "2 arrested",
+          "source": "CBS12 / WFLX",
+          "url": "https://cbs12.com/news/crime/police-seek-more-victims-after-2-arrested-in-boca-raton-human-trafficking-investigation-boca-raton-police-boynton-beach-police-human-trafficking-arrest-human-trafficking-foot-fetish-scheme-foot-photo-exploitation-intellectually-disabled-adult-adul",
+          "body": "Boca Raton police, working with the U.S. Marshals Service and Boynton Beach police, arrested Maximiliano Buitrago, 51, and Charlie Pardieck, 51, after an investigation found Pardieck was paid to bring an intellectually disabled relative to a studio where Buitrago photographed the victim's feet and limbs to sell to buyers online. Investigators say Buitrago was previously arrested in July on separate trafficking charges involving a minor and are asking anyone with information about further victims to come forward."
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "International",
+      "stories": []
+    },
+    {
+      "id": "ongoing",
+      "name": "Ongoing Cases with New Developments",
+      "stories": []
+    }
+  ]
+}
